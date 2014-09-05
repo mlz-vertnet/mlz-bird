@@ -1,0 +1,155 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for August, 2014, generated on 2014/09/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 63
+Number of records retrieved in searches: 846
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: United States ; Times: 47
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-01 ; Times: 2
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-05 ; Times: 12
+	Date: 2014-08-10 ; Times: 4
+	Date: 2014-08-11 ; Times: 1
+	Date: 2014-08-12 ; Times: 3
+	Date: 2014-08-13 ; Times: 2
+	Date: 2014-08-15 ; Times: 2
+	Date: 2014-08-16 ; Times: 4
+	Date: 2014-08-19 ; Times: 2
+	Date: 2014-08-20 ; Times: 5
+	Date: 2014-08-21 ; Times: 3
+	Date: 2014-08-22 ; Times: 3
+	Date: 2014-08-23 ; Times: 1
+	Date: 2014-08-24 ; Times: 2
+	Date: 2014-08-26 ; Times: 7
+	Date: 2014-08-27 ; Times: 1
+	Date: 2014-08-28 ; Times: 2
+	Date: 2014-08-29 ; Times: 4
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Egretta thula" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: ""butorides virescens" AND (NOT california)" ; Times: 1
+	Query: "Pyrocephalus" ; Times: 1
+	Query: "specificepithet:axillaris genus:Aramides" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 3
+	Query: "spinus cucullata" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "class:aves recordedby:sykes year >= 1850 year <= 1900" ; Times: 1
+	Query: "country:"costa rica" class:Aves year >= 1928 year <= 1928" ; Times: 2
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius)" ; Times: 1
+	Query: "specificepithet:cajaneus genus:Aramides" ; Times: 1
+	Query: "Manacus manacus manacus" ; Times: 1
+	Query: "Xanthocephalus xanthocephalus" ; Times: 1
+	Query: "Passerina versicolor" ; Times: 1
+	Query: "specificepithet:corax genus:corvus AND (NOT sound NOT churchill)" ; Times: 1
+	Query: "Buteo jamaicensis country:"Mexico" specificepithet:Buteo jamaicensis genus:Buteo class:Aves" ; Times: 2
+	Query: ""butorides virescens"" ; Times: 1
+	Query: "Asio otus" ; Times: 2
+	Query: "dryocopus lineatus" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 2
+	Query: "country:"Mexico" specificepithet:pallens genus:Vireo" ; Times: 1
+	Query: "cyanocompsa cyanoides" ; Times: 1
+	Query: "passerina rositae" ; Times: 4
+	Query: "Lepidothrix" ; Times: 1
+	Query: "specificepithet:longirostris genus:rallus" ; Times: 1
+	Query: "type:specimen year >= 1840 year <= 1870" ; Times: 1
+	Query: "class:aves year >= 1850 year <= 1870" ; Times: 1
+	Query: "Nycticorax nycticorax" ; Times: 1
+	Query: "Tyrannus eggs type:specimen" ; Times: 1
+	Query: "class:aves year >= 1840 year <= 1870" ; Times: 1
+	Query: "butorides" ; Times: 1
+	Query: "(butorides)" ; Times: 1
+	Query: "specificepithet:excelsior genus:cinclodes" ; Times: 2
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "Falco columbarius" ; Times: 2
+	Query: "Manacus manacus" ; Times: 2
+	Query: "Trogon violaceus" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 4
+	Query: "Galbula" ; Times: 1
+	Query: "icterus spurius" ; Times: 1
+	Query: "specificepithet:corax genus:corvus year >= 1940 year <= 2014" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 273 download events in this period)
+Total number of records downloaded: 4124 (out of 1909881 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3295
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 11
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-08-03 ; Times: 1
+	Date: 2014-08-05 ; Times: 5
+	Date: 2014-08-13 ; Times: 1
+	Date: 2014-08-18 ; Times: 1
+	Date: 2014-08-19 ; Times: 4
+	Date: 2014-08-22 ; Times: 1
+	Date: 2014-08-24 ; Times: 1
+	Date: 2014-08-26 ; Times: 1
+	Date: 2014-08-27 ; Times: 2
+	Date: 2014-08-28 ; Times: 2
+	Date: 2014-08-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "buteo regalis" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "type:specimen (turdus) AND (NOT migratorius NOT merula NOT albicollis NOT philomelos NOT pilaris NOT ruficollis NOT rufopalliatus NOT olivaceus NOT obscurus)" ; Times: 1
+	Query: "nayarit" ; Times: 1
+	Query: "specificepithet:cajaneus genus:Aramides" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 2
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "country:"Mexico" specificepithet:pallens genus:Vireo" ; Times: 1
+	Query: "tepic" ; Times: 1
+	Query: "country:"Suriname"" ; Times: 1
+	Query: "Corvus corax" ; Times: 1
+	Query: ""Passerina versicolor" type:specimen" ; Times: 1
+	Query: "country:"Mexico" specificepithet:albus genus:Eudocimus" ; Times: 1
+	Query: "country:"Mexico" specificepithet:cochlearius genus:Cochlearius" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 3
+	Query: "ayacucho" ; Times: 1
+	Query: "country:"brazil"" ; Times: 2
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 386
+Total number of records retrieved from searches: 5554
+Number of download events that retrieved data from the resource: 102
+Total number of records downloaded: 74293
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 386
+Total number of records retrieved from searches: 5554
+Number of download events that retrieved data from the resource: 139
+Total number of records downloaded: 106196
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
