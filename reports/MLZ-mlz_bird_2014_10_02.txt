@@ -1,0 +1,156 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for September, 2014, generated on 2014/10/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 83
+Number of records retrieved in searches: 2002
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 8
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 9
+	Country: Denmark ; Times: 4
+	Country: Mexico ; Times: 25
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 28
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 4
+	Date: 2014-09-03 ; Times: 16
+	Date: 2014-09-05 ; Times: 3
+	Date: 2014-09-06 ; Times: 10
+	Date: 2014-09-07 ; Times: 3
+	Date: 2014-09-08 ; Times: 5
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-10 ; Times: 1
+	Date: 2014-09-12 ; Times: 3
+	Date: 2014-09-13 ; Times: 11
+	Date: 2014-09-15 ; Times: 4
+	Date: 2014-09-16 ; Times: 2
+	Date: 2014-09-17 ; Times: 7
+	Date: 2014-09-19 ; Times: 8
+	Date: 2014-09-22 ; Times: 3
+	Date: 2014-09-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 9
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Pteroglossus" ; Times: 1
+	Query: "pipra filicauda" ; Times: 1
+	Query: "Pipra" ; Times: 3
+	Query: "Thamnophilus" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014" ; Times: 2
+	Query: "Pyrocephalus rubinus" ; Times: 14
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "recordedby:d. t. wright" ; Times: 1
+	Query: "B 12343" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "6596" ; Times: 1
+	Query: "syndactyla rufosuperciliata" ; Times: 2
+	Query: "brotogeris" ; Times: 1
+	Query: "Lipaugus vociferans" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "recordedby:d. t. wright year >= 1960 year <= 1963" ; Times: 1
+	Query: "Asthenes" ; Times: 1
+	Query: "Haemorhous mexicanus year >= 1900 year <= 2000" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 3
+	Query: "distance(location,geopoint(17.863747084405233,-95.7183837890625))<30370.96523540677" ; Times: 1
+	Query: "falco peregrinus type:specimen year >= 1800 year <= 1940" ; Times: 1
+	Query: "Spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "sephanoides" ; Times: 1
+	Query: "elaenia chiriquensis" ; Times: 3
+	Query: "habia rubica" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2014" ; Times: 2
+	Query: "pipra filicauda type:specimen" ; Times: 1
+	Query: "Haemorhous mexicanus year >= 1950 year <= 2000" ; Times: 2
+	Query: "Spizaetus ornatus country:"Mexico" mappable:1" ; Times: 1
+	Query: "Haemorhous mexicanus year >= 1880 year <= 1950" ; Times: 7
+	Query: "spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "Doricha eliza" ; Times: 1
+	Query: "distance(location,geopoint(17.035777250427195,-96.87263488769531))<100000" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen mappable:1" ; Times: 1
+	Query: "ammodramus humeralis" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014 mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(16.98324853069064,-96.822509765625))<100000" ; Times: 1
+	Query: "Falconidae type:specimen AND (NOT sparverius) year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "Haemorhous mexicanus year >= 1880 year <= 1940" ; Times: 1
+	Query: "sicalis flaveola" ; Times: 1
+	Query: "distance(location,geopoint(17.308687886770034,-96.591796875))<100000" ; Times: 1
+	Query: "Pipra erythrocephala" ; Times: 1
+	Query: "catherpes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 164 download events in this period)
+Total number of records downloaded: 2967 (out of 2860493 records downloaded for all resources in this period)
+Total number of unique records downloaded: 2948
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Canada ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-09-01 ; Times: 1
+	Date: 2014-09-02 ; Times: 1
+	Date: 2014-09-03 ; Times: 1
+	Date: 2014-09-05 ; Times: 1
+	Date: 2014-09-08 ; Times: 2
+	Date: 2014-09-09 ; Times: 1
+	Date: 2014-09-12 ; Times: 4
+	Date: 2014-09-13 ; Times: 1
+	Date: 2014-09-15 ; Times: 1
+	Date: 2014-09-16 ; Times: 1
+	Date: 2014-09-17 ; Times: 1
+	Date: 2014-09-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen stateprovince:"ARIZONA" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "Lagopus Newfoundland type:specimen year >= 1800 year <= 2014" ; Times: 1
+	Query: "PreservedSpecimen genus:turdus" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "aphelocoma" ; Times: 1
+	Query: "type:specimen (zoothera)" ; Times: 1
+	Query: "Spizaetus tyrannus country:"Mexico" mappable:1" ; Times: 1
+	Query: "Falconidae type:specimen AND (NOT sparverius) year >= 1940 year <= 2014 mappable:1" ; Times: 1
+	Query: "spizella mappable:1" ; Times: 1
+	Query: ""Falco rufigularis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "icterus gularis" ; Times: 1
+	Query: "type:specimen stateprovince:"NEW MEXICO" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: ""Falco femoralis" type:specimen year >= 1920 year <= 2014" ; Times: 1
+	Query: "larus delawarensis" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "type:specimen stateprovince:"TEXAS" class:AVES year >= 1854 year <= 1955" ; Times: 1
+	Query: "Thamnophilus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 469
+Total number of records retrieved from searches: 7556
+Number of download events that retrieved data from the resource: 119
+Total number of records downloaded: 77260
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 469
+Total number of records retrieved from searches: 7556
+Number of download events that retrieved data from the resource: 156
+Total number of records downloaded: 109163
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
