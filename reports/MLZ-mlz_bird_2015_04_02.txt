@@ -1,0 +1,246 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 136
+Number of records retrieved in searches: 2220
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 5
+	Country: Brazil ; Times: 17
+	Country: Canada ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: France ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 14
+	Country: Panama ; Times: 1
+	Country: United States ; Times: 72
+	Country: Unknown ; Times: 9
+	Country: Venezuela ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 2
+	Date: 2015-03-02 ; Times: 7
+	Date: 2015-03-03 ; Times: 6
+	Date: 2015-03-04 ; Times: 6
+	Date: 2015-03-05 ; Times: 5
+	Date: 2015-03-06 ; Times: 6
+	Date: 2015-03-07 ; Times: 1
+	Date: 2015-03-09 ; Times: 12
+	Date: 2015-03-10 ; Times: 3
+	Date: 2015-03-11 ; Times: 6
+	Date: 2015-03-12 ; Times: 9
+	Date: 2015-03-13 ; Times: 7
+	Date: 2015-03-15 ; Times: 2
+	Date: 2015-03-16 ; Times: 13
+	Date: 2015-03-17 ; Times: 3
+	Date: 2015-03-18 ; Times: 12
+	Date: 2015-03-19 ; Times: 5
+	Date: 2015-03-23 ; Times: 4
+	Date: 2015-03-24 ; Times: 4
+	Date: 2015-03-25 ; Times: 9
+	Date: 2015-03-26 ; Times: 2
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-28 ; Times: 2
+	Date: 2015-03-30 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cyanea genus:Pitta" ; Times: 1
+	Query: "grayi" ; Times: 1
+	Query: "country:"Panama" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "dactylortyx institutioncode:mlz" ; Times: 1
+	Query: "peucaea ruficauda" ; Times: 1
+	Query: "pipra" ; Times: 1
+	Query: "Frederickena unduliger" ; Times: 1
+	Query: "chamaeza" ; Times: 1
+	Query: "type:specimen specificepithet:albicauda genus:agriornis" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "Cotinga" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Heliodoxa gularis" ; Times: 1
+	Query: "Odontophorus gujanensis" ; Times: 1
+	Query: "type:specimen specificepithet:amabilis genus:cotinga" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "specificepithet:poliocephala genus:geothlypis year >= 1940 year <= 1940" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "type:specimen specificepithet:nobilis genus:chamaeza" ; Times: 1
+	Query: "specificepithet:regulus genus:Machaeropterus" ; Times: 1
+	Query: "dactylortyx" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 1
+	Query: "Scaphidura" ; Times: 2
+	Query: "passerina amoena" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "dendrortyx leucophrys" ; Times: 2
+	Query: "pipra pipra" ; Times: 2
+	Query: "lepidothrix coronata country:"ecuador"" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 3
+	Query: "Lesbia" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "type:specimen specificepithet:vilissimus genus:zimmerius" ; Times: 1
+	Query: "icterus pustulatus" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "Cyrtonyx montezumae mexico" ; Times: 1
+	Query: "cyanocompsa cyanoides" ; Times: 1
+	Query: "Rynchops niger" ; Times: 2
+	Query: "heliodoxa gularis" ; Times: 1
+	Query: "Trogon rufus type:specimen" ; Times: 1
+	Query: "Trogon rufus type:specimen year >= 1800 year <= 1914" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 2
+	Query: "concolor" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 2
+	Query: "amaurolimnas concolor" ; Times: 2
+	Query: "type:specimen specificepithet:leucorrhoa genus:corapipo" ; Times: 1
+	Query: "specificepithet:yncas genus:cyanocorax" ; Times: 1
+	Query: "Cacicus" ; Times: 1
+	Query: "Catharus country:"Honduras" year >= 1933 year <= 1933" ; Times: 1
+	Query: "Vireo flavifrons" ; Times: 1
+	Query: "papantla" ; Times: 2
+	Query: "buteo jamaicensis country:"mexico"" ; Times: 2
+	Query: "type:specimen specificepithet:superbus genus:Lamprotornis" ; Times: 1
+	Query: "heliodoxa imperatrix" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "Vireo atricapillus" ; Times: 1
+	Query: "colinus oaxaca" ; Times: 2
+	Query: "Ramphocelus genus:Ramphocelus institutioncode:MLZ" ; Times: 2
+	Query: "amazona ochrocephala" ; Times: 1
+	Query: "specificepithet:gigantea genus:grallaria" ; Times: 1
+	Query: "passerina leclancherii" ; Times: 1
+	Query: "dendrortyx barbatus" ; Times: 2
+	Query: "Callipepla squamata country:"mexico"" ; Times: 1
+	Query: "cyrtonyx montezumae chihuahua" ; Times: 1
+	Query: "oreortyx institutioncode:mlz" ; Times: 1
+	Query: "Megascops seductus" ; Times: 1
+	Query: "Myiothlypis fulvicauda type:specimen" ; Times: 1
+	Query: "Cyrtonyx ocellatus" ; Times: 2
+	Query: "Strix occidentalis" ; Times: 1
+	Query: "country:"Trinidad" class:Aves year >= 1903 year <= 1903" ; Times: 1
+	Query: "momotidae" ; Times: 1
+	Query: "machaeropterus" ; Times: 1
+	Query: "Lesbia nuna country:"Colombia"" ; Times: 1
+	Query: "a. concolor" ; Times: 1
+	Query: "cyanocorax violaceus" ; Times: 1
+	Query: "colinus guerrero" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "felix" ; Times: 1
+	Query: "Aegolius ridgwayi tacanensis" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: ""grallaria guatimalensis" type:specimen" ; Times: 1
+	Query: "veniliornis" ; Times: 1
+	Query: "Machaeropterus deliciosus" ; Times: 1
+	Query: "anthus spinoletta" ; Times: 1
+	Query: "specificepithet:sanblasianus genus:cyanocorax institutioncode:mlz" ; Times: 1
+	Query: "Cyrtonyx montezumae country:"mexico" institutioncode:mlz" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 3
+	Query: "cyanocorax yncas" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "myiopsitta" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "North America Pyrocephalus rubinus" ; Times: 1
+	Query: "chloropsis aurifrons type:specimen country:"India"" ; Times: 2
+	Query: "cyrtonyx montezumae" ; Times: 1
+	Query: "Trogon rufus" ; Times: 2
+	Query: "country:"Trinidad and tobago" class:Aves year >= 1900 year <= 1905" ; Times: 1
+	Query: "cyrtonyx institutioncode:mlz" ; Times: 1
+	Query: "Aegolius ridgwayi" ; Times: 1
+	Query: "oxyura jamaicensis" ; Times: 1
+	Query: "Catharus year >= 1933 year <= 1933" ; Times: 1
+	Query: "Cyrtonyx montezumae stateprovince:"Chihuahua" country:"Mexico" year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:sibilator genus:Sirystes" ; Times: 1
+	Query: "Pulsatrix institutioncode:mlz" ; Times: 2
+	Query: "institutioncode:mlz" ; Times: 1
+	Query: "specificepithet:caeruleus genus:cyanocorax institutioncode:mlz" ; Times: 1
+	Query: "catalognumber:65402 institutioncode:mlz" ; Times: 1
+	Query: "GUATEMALA" ; Times: 1
+	Query: "dactylortyx thoracicus mlz" ; Times: 1
+	Query: "scrippsi" ; Times: 2
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "conopophaga" ; Times: 1
+	Query: "specificepithet:caeruleus genus:cyanocorax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 31 (out of 298 download events in this period)
+Total number of records downloaded: 3349 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 3256
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 7
+	Country: Canada ; Times: 3
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: United States ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Venezuela ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 6
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-06 ; Times: 2
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-18 ; Times: 5
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-26 ; Times: 3
+	Date: 2015-03-27 ; Times: 4
+	Date: 2015-03-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Scaphidura" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "Lepidopyga coeruleogularis" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "amaurospiza concolor" ; Times: 1
+	Query: "ayacucho" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "stateprovince:"Washington" country:"United States" mappable:1" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "Ramphocelus genus:Ramphocelus institutioncode:MLZ" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "C. nana" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1006
+Total number of records retrieved from searches: 14947
+Number of download events that retrieved data from the resource: 96
+Total number of records downloaded: 28480
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1251
+Total number of records retrieved from searches: 18532
+Number of download events that retrieved data from the resource: 284
+Total number of records downloaded: 152185
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
