@@ -1,0 +1,313 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 286
+Number of records retrieved in searches: 4702
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Australia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 23
+	Country: Canada ; Times: 10
+	Country: Chile ; Times: 8
+	Country: Colombia ; Times: 2
+	Country: Costa Rica ; Times: 4
+	Country: France ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 43
+	Country: Netherlands ; Times: 13
+	Country: Peru ; Times: 2
+	Country: United Kingdom ; Times: 21
+	Country: United States ; Times: 132
+	Country: Unknown ; Times: 11
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 4
+	Date: 2015-05-06 ; Times: 8
+	Date: 2015-05-07 ; Times: 5
+	Date: 2015-05-08 ; Times: 1
+	Date: 2015-05-09 ; Times: 7
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 14
+	Date: 2015-05-12 ; Times: 8
+	Date: 2015-05-13 ; Times: 9
+	Date: 2015-05-14 ; Times: 10
+	Date: 2015-05-15 ; Times: 7
+	Date: 2015-05-16 ; Times: 37
+	Date: 2015-05-18 ; Times: 8
+	Date: 2015-05-19 ; Times: 2
+	Date: 2015-05-20 ; Times: 18
+	Date: 2015-05-21 ; Times: 17
+	Date: 2015-05-22 ; Times: 18
+	Date: 2015-05-23 ; Times: 15
+	Date: 2015-05-24 ; Times: 6
+	Date: 2015-05-25 ; Times: 22
+	Date: 2015-05-26 ; Times: 35
+	Date: 2015-05-27 ; Times: 18
+	Date: 2015-05-28 ; Times: 10
+	Date: 2015-05-29 ; Times: 1
+	Date: 2015-05-30 ; Times: 3
+	Date: 2015-05-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pharomachrus mocinno" ; Times: 2
+	Query: "Spizella pallida" ; Times: 1
+	Query: "Electron platyrhynchum" ; Times: 2
+	Query: "megascops guatemalae type:specimen" ; Times: 1
+	Query: "hemitriccus minor brazil brazil" ; Times: 1
+	Query: "dendroica occidentalis Chihuahua" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "coereba flaveola" ; Times: 2
+	Query: "poecilotriccus sylvia" ; Times: 4
+	Query: "Spizella pallida+Sonora" ; Times: 1
+	Query: "strigiformes stateprovince:"chihuahua" country:"Mexico" mappable:1" ; Times: 1
+	Query: "Stigmatura napensis brazil" ; Times: 1
+	Query: "Soluteca" ; Times: 1
+	Query: "distance(location,geopoint(24.906367237907997,-99.4866943359375))<100000" ; Times: 1
+	Query: "tolmomyias sulphurescens" ; Times: 1
+	Query: "Microchera albocoronata type:specimen" ; Times: 1
+	Query: "Basileuterus rufifrons chihuahua" ; Times: 1
+	Query: "strigiformes country:"Mexico" year >= 1900 year <= 2000 mappable:1" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 7
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 3
+	Query: "3996" ; Times: 1
+	Query: "class:aves catalognumber:49430" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "Underwood country:"Honduras"" ; Times: 10
+	Query: "rupicola" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Phaetusa simplex" ; Times: 1
+	Query: "Aeronautes saxatalis Chihuahua" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "monte verde" ; Times: 1
+	Query: "distance(location,geopoint(21.779905342529645,-101.513671875))<100000" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 5
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "630210" ; Times: 2
+	Query: "Pyrocephalus rubinus AND (bird)" ; Times: 1
+	Query: "Pyrocephalus rubinus type:specimen AND (bird)" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "cinclodes excelsior (skel)" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "strigiformes stateprovince:"guanajuato" country:"Mexico" year <= 2015 mappable:1" ; Times: 1
+	Query: "genus:rupicola" ; Times: 2
+	Query: "caraboya class:aves" ; Times: 2
+	Query: "Sitta carolinensis year >= 1937 year <= 1937" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 20
+	Query: "Underwood country:"Honduras" (cantoral)" ; Times: 1
+	Query: "icterus wagleri chihuahua" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 1
+	Query: "461100" ; Times: 1
+	Query: "Psittacidae Mexico eggs" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 3
+	Query: "8524" ; Times: 1
+	Query: "Strigiformes stateprovince:"Mexico" country:"Mexico" mappable:1" ; Times: 1
+	Query: "setophaga occidentalis Chihuahua" ; Times: 1
+	Query: "Megascops guatemalae type:specimen" ; Times: 1
+	Query: "certhia americana year >= 1950 year <= 2015 mappable:1" ; Times: 1
+	Query: "Huassa country:"Mexico"" ; Times: 3
+	Query: "tuxpan" ; Times: 6
+	Query: "Spizella pallida Mexico Durango" ; Times: 1
+	Query: "Basileuterus lachrymosus chihuahua" ; Times: 1
+	Query: "J.S. Rowley" ; Times: 4
+	Query: "catalognumber:30647 institutioncode:mlz" ; Times: 1
+	Query: "Microchera albocoronata albocoronata" ; Times: 2
+	Query: "Ranchon country:"Panama"" ; Times: 1
+	Query: "9255" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "W. W. Brown country:"Mexico" mappable:1" ; Times: 5
+	Query: "B431" ; Times: 1
+	Query: "Sonora Spizella pallida" ; Times: 1
+	Query: "catalognumber:13850 institutioncode:mlz" ; Times: 2
+	Query: "strigiformes stateprovince:"Mexico" country:"Mexico" year >= 1800 year <= 2015 mappable:1" ; Times: 4
+	Query: "zarcero" ; Times: 2
+	Query: "cusco" ; Times: 1
+	Query: "J.S. Rowley country:"Mexico"" ; Times: 2
+	Query: "cinclidae" ; Times: 1
+	Query: "Pachyramphus castaneus" ; Times: 2
+	Query: "amazilia beryllina chihuahua" ; Times: 1
+	Query: "W.W.Brown" ; Times: 3
+	Query: "Campephilus imperialis Chihuahua" ; Times: 2
+	Query: "sclerurus mexicanus" ; Times: 1
+	Query: "Underwood country:"Honduras" (Pucca)" ; Times: 1
+	Query: "461101" ; Times: 1
+	Query: "strigiformes stateprovince:"queretaro" country:"Mexico" year >= 1930 year <= 2015 mappable:1" ; Times: 1
+	Query: "Pionopsitta pyrilia" ; Times: 1
+	Query: "Underwood country:"Honduras" (Soluteca)" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "Knipolegus poecilocercus brazil" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "W.W.Brown country:"Guatemala"" ; Times: 2
+	Query: "condor year >= 1850 year <= 1950" ; Times: 1
+	Query: "418965" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "Richardson country:"Nicaragua"" ; Times: 4
+	Query: "Brown country:"Nicaragua"" ; Times: 2
+	Query: "genus:rupicola mappable:1" ; Times: 1
+	Query: "pulsatrix country:"Ecuador"" ; Times: 6
+	Query: ""j. t. wright" stateprovince:"Sonora" country:"Mexico"" ; Times: 3
+	Query: "pulsatrix" ; Times: 1
+	Query: ""j. t. wright" stateprovince:"Sinaloa" country:"Mexico"" ; Times: 1
+	Query: "thraupis" ; Times: 1
+	Query: "PATAGONA GIGAS" ; Times: 1
+	Query: "strigiformes country:"Mexico" year >= 1950 year <= 2015 mappable:1" ; Times: 4
+	Query: "Myiobius atricaudus" ; Times: 1
+	Query: "Terenotriccus erythrurus" ; Times: 1
+	Query: "560801" ; Times: 1
+	Query: "560800" ; Times: 2
+	Query: "pionus sordidus" ; Times: 1
+	Query: "pulsatrix perspicillata country:"Ecuador"" ; Times: 1
+	Query: "rupicola peruviana" ; Times: 2
+	Query: "Megascops guatemalae" ; Times: 1
+	Query: "strigiformes stateprovince:"queretaro" country:"Mexico" year >= 1900 year <= 2015 mappable:1" ; Times: 1
+	Query: "Contopus caribaeus" ; Times: 1
+	Query: "strigiformes stateprovince:"zacatecas" country:"Mexico" year >= 1900 year <= 2015 mappable:1" ; Times: 1
+	Query: "652663" ; Times: 2
+	Query: "58062" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "corvus corax class:aves year >= 1933 year <= 1933" ; Times: 1
+	Query: "Limnothlypis swainsonii" ; Times: 2
+	Query: "anthus bogotensis" ; Times: 11
+	Query: "specificepithet:rubinus genus:Pyrocephalus" ; Times: 1
+	Query: "Selasphorus platycercus stateprovince:"Chiapas"" ; Times: 1
+	Query: "Otus barbarus" ; Times: 1
+	Query: "652657" ; Times: 1
+	Query: "cotingidae" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "strigiformes stateprovince:"aguascalientes" country:"Mexico" mappable:1" ; Times: 1
+	Query: "Amazilia luciae" ; Times: 2
+	Query: "10270" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 2
+	Query: "Skin-411920" ; Times: 1
+	Query: "strigiformes stateprovince:"queretaro" country:"Mexico" year >= 1920 year <= 2015 mappable:1" ; Times: 1
+	Query: "strigiformes stateprovince:"zacatecas" country:"Mexico" mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:corax genus:Corvus (skin) mappable:1" ; Times: 2
+	Query: "Megascops barbarus" ; Times: 2
+	Query: "squamata (durango OR coahuila OR zacatecas OR chihuahua) mappable:1" ; Times: 1
+	Query: "Sitta carolinensis" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 6
+	Query: "Underwood" ; Times: 1
+	Query: "cinclus mexicanus" ; Times: 4
+	Query: "Electron" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "Boulton" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "strigiformes country:"Mexico" year >= 1800 year <= 2015 mappable:1" ; Times: 1
+	Query: "49339" ; Times: 3
+	Query: "cyanoloxia glaucocaerulea" ; Times: 1
+	Query: "Boucard" ; Times: 2
+	Query: "ptilogonys caudatus" ; Times: 1
+	Query: "cyanopectus" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 3
+	Query: "Aegolius ridgwayi" ; Times: 1
+	Query: "Soluteca country:"Honduras"" ; Times: 1
+	Query: "grallaria hypoleuca" ; Times: 1
+	Query: "Pardirallus maculatus type:specimen" ; Times: 1
+	Query: "Pipra" ; Times: 1
+	Query: "Arremonops rufivirgatus" ; Times: 1
+	Query: "selasphorus rufus type:specimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 976 download events in this period)
+Total number of records downloaded: 187114 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 62370
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 2
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 13
+	Country: Unknown ; Times: 3
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-07 ; Times: 1
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-10 ; Times: 2
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 3
+	Date: 2015-05-14 ; Times: 2
+	Date: 2015-05-15 ; Times: 1
+	Date: 2015-05-16 ; Times: 1
+	Date: 2015-05-18 ; Times: 2
+	Date: 2015-05-20 ; Times: 4
+	Date: 2015-05-22 ; Times: 2
+	Date: 2015-05-23 ; Times: 1
+	Date: 2015-05-24 ; Times: 3
+	Date: 2015-05-25 ; Times: 3
+	Date: 2015-05-27 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "genus:rupicola" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "klages brazil year >= 1920" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "mionectes oleagineus" ; Times: 1
+	Query: "squamata (durango OR coahuila OR zacatecas OR chihuahua) mappable:1" ; Times: 1
+	Query: "Vermivora pinus" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Underwood" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Streptoprocne semicollaris" ; Times: 1
+	Query: ""j. t. wright" stateprovince:"Sinaloa" country:"Mexico"" ; Times: 1
+	Query: "Rhynchocyclus" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "year >= 1800 year <= 2015 distance(location,geopoint(35.9602229692967,-119.37744140625))<100000" ; Times: 1
+	Query: "Lesbia nuna" ; Times: 1
+	Query: "country:"Philippines" class:Aves year <= 2015" ; Times: 1
+	Query: ""j. t. wright" stateprovince:"Sonora" country:"Mexico"" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "strigiformes stateprovince:"Mexico" country:"Mexico" year >= 1800 year <= 2015 mappable:1" ; Times: 1
+	Query: "Cachar" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Coturnicops noveboracensis" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 2
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "cyanoloxia glaucocaerulea" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "Coryphospingus cucullatus" ; Times: 1
+	Query: "Phaetusa simplex simplex" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1292
+Total number of records retrieved from searches: 19649
+Number of download events that retrieved data from the resource: 132
+Total number of records downloaded: 215594
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1537
+Total number of records retrieved from searches: 23234
+Number of download events that retrieved data from the resource: 320
+Total number of records downloaded: 339299
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
