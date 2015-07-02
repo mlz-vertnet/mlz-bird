@@ -1,0 +1,537 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for June, 2015, generated on 2015/07/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 398
+Number of records retrieved in searches: 5526
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: Denmark ; Times: 81
+	Country: France ; Times: 3
+	Country: Germany ; Times: 28
+	Country: Guatemala ; Times: 2
+	Country: Mexico ; Times: 61
+	Country: Paraguay ; Times: 2
+	Country: Puerto Rico ; Times: 18
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 163
+	Country: Unknown ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-01 ; Times: 10
+	Date: 2015-06-02 ; Times: 6
+	Date: 2015-06-03 ; Times: 8
+	Date: 2015-06-04 ; Times: 10
+	Date: 2015-06-05 ; Times: 15
+	Date: 2015-06-06 ; Times: 9
+	Date: 2015-06-07 ; Times: 3
+	Date: 2015-06-08 ; Times: 10
+	Date: 2015-06-09 ; Times: 22
+	Date: 2015-06-10 ; Times: 5
+	Date: 2015-06-11 ; Times: 17
+	Date: 2015-06-12 ; Times: 7
+	Date: 2015-06-14 ; Times: 1
+	Date: 2015-06-15 ; Times: 3
+	Date: 2015-06-16 ; Times: 27
+	Date: 2015-06-17 ; Times: 19
+	Date: 2015-06-18 ; Times: 5
+	Date: 2015-06-19 ; Times: 11
+	Date: 2015-06-20 ; Times: 7
+	Date: 2015-06-21 ; Times: 3
+	Date: 2015-06-22 ; Times: 7
+	Date: 2015-06-23 ; Times: 24
+	Date: 2015-06-24 ; Times: 14
+	Date: 2015-06-25 ; Times: 36
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-27 ; Times: 12
+	Date: 2015-06-28 ; Times: 7
+	Date: 2015-06-29 ; Times: 84
+	Date: 2015-06-30 ; Times: 15
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:diadema genus:Catamblyrhynchus class:aves" ; Times: 1
+	Query: "Hylocharis humboldtii" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "catalognumber:35012" ; Times: 3
+	Query: "Pyrocephalus" ; Times: 1
+	Query: "ciccaba virgata" ; Times: 1
+	Query: "catalognumber:35017" ; Times: 1
+	Query: "Cardinalis cardinalis Sonora Mexico" ; Times: 1
+	Query: "Chlorostilbon gibsoni" ; Times: 1
+	Query: "Phaethornis augusti" ; Times: 1
+	Query: "Chlorophonia pyrrhophrys" ; Times: 1
+	Query: "aglaeactis aliciae" ; Times: 1
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "Orthorhyncus cristatus" ; Times: 1
+	Query: "Phaethornis eurynome" ; Times: 1
+	Query: "Pachyramphus aglaiae SONORA" ; Times: 1
+	Query: "Cynanthus latirostris sonora" ; Times: 1
+	Query: "Turdus assimilis sonora" ; Times: 1
+	Query: "catalognumber:10981" ; Times: 1
+	Query: "Saltatricula" ; Times: 5
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "sporophila torqueola durango Mexico" ; Times: 1
+	Query: "Icterus parisorum Sonora" ; Times: 1
+	Query: "Pionus" ; Times: 1
+	Query: "Agelaius phoeniceus Durango" ; Times: 1
+	Query: "vireo gilvus chihuahua" ; Times: 1
+	Query: "wright stateprovince:"Sonora" country:"Mexico" year >= 1925 year <= 1955" ; Times: 5
+	Query: "corvus corax" ; Times: 1
+	Query: "Toxostoma curvirostre Sonora Mexico" ; Times: 1
+	Query: "Agelaius phoeniceus chihuahua" ; Times: 1
+	Query: "neoctantes" ; Times: 1
+	Query: "amazilia franciae" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "35696" ; Times: 4
+	Query: "Heliodoxa xanthogonys" ; Times: 1
+	Query: "catalognumber:14366" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "catalognumber:21640" ; Times: 2
+	Query: "Passerculus sandwichensis sonora Mexico" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 2
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "distance(location,geopoint(20.330892526989793,-98.173828125))<100000" ; Times: 1
+	Query: "Campylopterus rufus" ; Times: 1
+	Query: "trogon chionurus" ; Times: 5
+	Query: "Chalcostigma heteropogon" ; Times: 1
+	Query: "45253 class:aves" ; Times: 1
+	Query: "rupicola" ; Times: 1
+	Query: "Phaethornis yaruqui" ; Times: 1
+	Query: "Lophornis helenae" ; Times: 1
+	Query: "Calliphlox mitchellii" ; Times: 2
+	Query: "guatemala" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "Heliomaster constantii" ; Times: 1
+	Query: "44801" ; Times: 1
+	Query: "Buthraupis wetmorei" ; Times: 18
+	Query: "Agelaius durango" ; Times: 2
+	Query: "specificepithet:flavigularis genus:Chlorospingus" ; Times: 6
+	Query: "Phaethornis anthophilus" ; Times: 1
+	Query: "Conuropsis Florida" ; Times: 1
+	Query: "mirador country:"mexico" class:aves" ; Times: 1
+	Query: "vireo bellii" ; Times: 2
+	Query: "trogon citreolus" ; Times: 6
+	Query: "dendroica occidentalis chihuahua" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 1
+	Query: "country:"Panama"" ; Times: 1
+	Query: "Otus asio Sonora" ; Times: 1
+	Query: "630210" ; Times: 1
+	Query: "year >= 1852 year <= 1855" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 1
+	Query: "Eupherusa eximia" ; Times: 1
+	Query: "specificepithet:montana genus:Buthraupis" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 1
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "CAtamblyrhynchus" ; Times: 1
+	Query: "strix mexico AND (occidentalis)" ; Times: 1
+	Query: "Heliothryx barroti" ; Times: 1
+	Query: "Panterpe insignis" ; Times: 4
+	Query: "empidonax traillii" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "12956" ; Times: 1
+	Query: "Cyanocorax hastypestatus:1" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 2
+	Query: "aeronautes saxatalis chihuahua" ; Times: 1
+	Query: "huichapan" ; Times: 1
+	Query: "Chester Lamb Pteroglossus stateprovince:"Oaxaca" country:"Mexico"" ; Times: 1
+	Query: "Arremon" ; Times: 2
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "colinus virginianus year >= 1950 year <= 2015" ; Times: 1
+	Query: "Cyanocorax chrysops brazil" ; Times: 1
+	Query: "(Machaeropterus deliciosus)" ; Times: 3
+	Query: "distance(location,geopoint(19.048272959540967,-98.15185546875))<30045.616163034814" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "30684" ; Times: 1
+	Query: "Turdus olivaceus" ; Times: 3
+	Query: ""Turdus hauxwelli" brazil" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "Cynanthus latirostris" ; Times: 2
+	Query: "Gymnorhinus cyanocephalus chihuahua" ; Times: 1
+	Query: "tuxpan" ; Times: 3
+	Query: "Schoeniophylax phryganophilus" ; Times: 1
+	Query: "Trogon citreolus" ; Times: 2
+	Query: "florisuga" ; Times: 2
+	Query: "Doricha enicura" ; Times: 1
+	Query: "catalognumber:15563" ; Times: 1
+	Query: "country:"paraguay" class:aves" ; Times: 1
+	Query: "dendrocincla anabatina" ; Times: 1
+	Query: "La venta class:Aves" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Elvira chionura" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "Cynanthus latirostris chihuahua" ; Times: 1
+	Query: "Chlorostilbon stenurus" ; Times: 1
+	Query: "trogoniformes" ; Times: 1
+	Query: "chloroceryle americana chihuahua" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "campephilus robustus type:specimen" ; Times: 1
+	Query: "5675" ; Times: 1
+	Query: "trogon caligatus" ; Times: 6
+	Query: "eriocnemis nigrivestis" ; Times: 2
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "pseudoscops" ; Times: 1
+	Query: "amazilia cyanocephala" ; Times: 1
+	Query: "3778 class:aves" ; Times: 2
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "chalybura urochrysia mexico" ; Times: 1
+	Query: "catalognumber:49434" ; Times: 1
+	Query: "catalognumber:57526" ; Times: 1
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "amazilia viridifrons" ; Times: 1
+	Query: "merops superciliosus" ; Times: 1
+	Query: "type:specimen class:aves catalognumber:14366" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "cotinga" ; Times: 1
+	Query: "genus:Tachyphonus class:aves" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 2
+	Query: "catalognumber:51493" ; Times: 1
+	Query: ""Spinus pinus" (Chiapas)" ; Times: 1
+	Query: "Parula Sonora Mexico" ; Times: 1
+	Query: "vireo gilvus gilvus chihuahua" ; Times: 1
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "37860 class:aves" ; Times: 2
+	Query: "type:specimen catalognumber:14366" ; Times: 1
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 2
+	Query: "elanus leucurus" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "Coeligena helianthea" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "Attila cinnamomeus" ; Times: 1
+	Query: "coccyzus americanus type:specimen" ; Times: 1
+	Query: "amoena" ; Times: 1
+	Query: "Coeligena violifer" ; Times: 1
+	Query: "psaltriparus minimus Chihuahua" ; Times: 1
+	Query: "amazilia cyanura" ; Times: 2
+	Query: "cyrtonyx mexico" ; Times: 2
+	Query: "Sternoclyta cyanopectus" ; Times: 1
+	Query: "Nemosia pileata brazil" ; Times: 1
+	Query: "amazilia luciae" ; Times: 1
+	Query: "pipile pipile" ; Times: 1
+	Query: "Catharus occidentalis Chihuahua" ; Times: 1
+	Query: "Augastes scutatus" ; Times: 2
+	Query: "Toxostoma curvirostre Chihuahua} Mexico" ; Times: 2
+	Query: "chordeiles minor chihuahua" ; Times: 1
+	Query: "Dactylortyx thoracicus thoracicus" ; Times: 2
+	Query: "pipilo Jalisco" ; Times: 2
+	Query: "Conopias parvus brazil" ; Times: 1
+	Query: "Selasphorus calliope" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "rynchops" ; Times: 2
+	Query: "specificepithet:leucoptera genus:piranga year >= 1937 year <= 1937" ; Times: 1
+	Query: "amphispiza bilineata country:"mexico"" ; Times: 3
+	Query: "pipra mentalis" ; Times: 1
+	Query: "piaya type:specimen" ; Times: 5
+	Query: "Chester Lamb Sarcoramphus country:"Mexico"" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "trogon" ; Times: 2
+	Query: "amazilia amabilis" ; Times: 1
+	Query: "Catharus country:"honduras" year >= 1933 year <= 1933" ; Times: 1
+	Query: "12243" ; Times: 1
+	Query: "androdon aequatorialis" ; Times: 1
+	Query: "Hemitriccus margaritaceiventer" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "j. t. wright country:"Mexico" year >= 1925 year <= 1945" ; Times: 2
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Elvira cupreiceps" ; Times: 1
+	Query: "Toxostoma curvirostre sonora" ; Times: 1
+	Query: "Oaxaca Oaxaca 15 mi W class:aves" ; Times: 2
+	Query: "Chaetocercus berlepschi" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 2
+	Query: "Discosura longicaudus" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "Cyanocorax cristatellus brazil" ; Times: 1
+	Query: "Selasphorus flammula" ; Times: 1
+	Query: "Caprimulgus longirostris" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 1
+	Query: "24814" ; Times: 1
+	Query: "tangara chilensis" ; Times: 1
+	Query: "Picoides villosus chihuahua" ; Times: 1
+	Query: "distance(location,geopoint(28.330172515401596,-108.896484375))<100000" ; Times: 1
+	Query: "Lophornis brachylophus" ; Times: 1
+	Query: "san marcos" ; Times: 1
+	Query: "Chester Lamb Sarcoramphus stateprovince:"Oaxaca" country:"Mexico"" ; Times: 1
+	Query: "Piaya" ; Times: 1
+	Query: "empidonax traillii sonora Mexico" ; Times: 1
+	Query: "Chaetocercus" ; Times: 1
+	Query: "Spizella pallida Mexico" ; Times: 1
+	Query: "spinosa" ; Times: 2
+	Query: "Leucippus fallax" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "vanellus eggs vanellus vanellus" ; Times: 1
+	Query: "Thaumastura cora" ; Times: 1
+	Query: "urique chihuahua" ; Times: 1
+	Query: "aves alamos sonora" ; Times: 1
+	Query: "stateprovince:"guaira" country:"paraguay"" ; Times: 1
+	Query: "catalognumber:18037" ; Times: 3
+	Query: "veniliornis" ; Times: 1
+	Query: "H. A. Brown" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 1
+	Query: "Mellisuga helenae" ; Times: 1
+	Query: "Chondrohierax" ; Times: 2
+	Query: "161927" ; Times: 1
+	Query: "45243 class:aves" ; Times: 1
+	Query: "year >= 1850 year <= 1860" ; Times: 1
+	Query: "aethopyga siparaja" ; Times: 1
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "Conuropsis" ; Times: 1
+	Query: "MLZ piaya" ; Times: 4
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Conopias trivirgatus brazil" ; Times: 1
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "amphispiza bilineata country:"mexico" year >= 1950 year <= 1970" ; Times: 1
+	Query: "acestrura berlepschi" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "Lamprospiza melanoleuca brazil" ; Times: 1
+	Query: "Damophila julie" ; Times: 1
+	Query: "year >= 185 year <= 1860" ; Times: 1
+	Query: "florisuga mellivora" ; Times: 4
+	Query: "Onychorhynchus" ; Times: 1
+	Query: "cyrtonyx montezumae" ; Times: 1
+	Query: "type:specimen (Machaeropterus deliciosus)" ; Times: 1
+	Query: "20037" ; Times: 1
+	Query: "catalognumber:38682" ; Times: 1
+	Query: "Wilsonia citrina Mexico" ; Times: 1
+	Query: "amazilia candida" ; Times: 1
+	Query: "Eriocnemis nigrivestis" ; Times: 1
+	Query: "Onychorhynchus mexicanus" ; Times: 2
+	Query: "19720" ; Times: 1
+	Query: "Agelaius phoeniceus durango" ; Times: 1
+	Query: "Arremon b" ; Times: 1
+	Query: "Dactylortyx thoracicus" ; Times: 1
+	Query: "Lampornis cinereicauda" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "Microstilbon burmeisteri" ; Times: 1
+	Query: "Phaethornis squalidus" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "tachycineta albilinea type:specimen" ; Times: 3
+	Query: "amphispiza stateprovince:"Nayarit" country:"Mexico"" ; Times: 1
+	Query: "lictor brazil" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Schistochlamys melanopis brazil" ; Times: 1
+	Query: "Sirystes brazil" ; Times: 1
+	Query: "Priotelus" ; Times: 1
+	Query: "9868" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 2
+	Query: "specificepithet:humeralis genus:Parkerthraustes class:aves" ; Times: 1
+	Query: "tachycineta thalassina chihuahua" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "piaya piaya type:specimen" ; Times: 2
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Cyanolyca armillata" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 2
+	Query: "Manacus manacus" ; Times: 2
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "catalognumber:14017" ; Times: 1
+	Query: "distance(location,geopoint(19.048272959540967,-98.15185546875))<16318" ; Times: 1
+	Query: "setophaga ruticilla" ; Times: 1
+	Query: "46590" ; Times: 1
+	Query: "Aglaeactis aliciae" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 133 (out of 1524 download events in this period)
+Total number of records downloaded: 19212 (out of 2759084 records downloaded for all resources in this period)
+Total number of unique records downloaded: 12943
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Denmark ; Times: 83
+	Country: France ; Times: 1
+	Country: Germany ; Times: 17
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 12
+	Country: Paraguay ; Times: 1
+	Country: United States ; Times: 12
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-06-02 ; Times: 1
+	Date: 2015-06-03 ; Times: 1
+	Date: 2015-06-04 ; Times: 3
+	Date: 2015-06-05 ; Times: 3
+	Date: 2015-06-06 ; Times: 1
+	Date: 2015-06-07 ; Times: 1
+	Date: 2015-06-08 ; Times: 2
+	Date: 2015-06-09 ; Times: 2
+	Date: 2015-06-10 ; Times: 1
+	Date: 2015-06-11 ; Times: 1
+	Date: 2015-06-15 ; Times: 1
+	Date: 2015-06-16 ; Times: 1
+	Date: 2015-06-17 ; Times: 1
+	Date: 2015-06-18 ; Times: 1
+	Date: 2015-06-19 ; Times: 1
+	Date: 2015-06-20 ; Times: 3
+	Date: 2015-06-22 ; Times: 3
+	Date: 2015-06-23 ; Times: 6
+	Date: 2015-06-25 ; Times: 16
+	Date: 2015-06-26 ; Times: 1
+	Date: 2015-06-27 ; Times: 7
+	Date: 2015-06-29 ; Times: 76
+
+List of queries that retrieved data from the resource: 
+	Query: "Hylocharis humboldtii" ; Times: 1
+	Query: "klages purus" ; Times: 1
+	Query: "Agelaius durango" ; Times: 5
+	Query: "Turdus olivaceus" ; Times: 1
+	Query: "Chlorostilbon gibsoni" ; Times: 1
+	Query: "Phaethornis augusti" ; Times: 1
+	Query: "abeillia abeillei" ; Times: 1
+	Query: "Orthorhyncus cristatus" ; Times: 2
+	Query: "Phaethornis syrmatophorus" ; Times: 1
+	Query: "rynchops niger type:specimen" ; Times: 1
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "amazilia franciae" ; Times: 1
+	Query: "Cynanthus latirostris" ; Times: 1
+	Query: "Heliodoxa xanthogonys" ; Times: 1
+	Query: "Spizella pallida Mexico" ; Times: 2
+	Query: "Archilochus colubris" ; Times: 1
+	Query: "Haplophaedia aureliae" ; Times: 1
+	Query: "aves Chihuahua" ; Times: 1
+	Query: "Chlorostilbon stenurus" ; Times: 1
+	Query: "Campylopterus ensipennis" ; Times: 1
+	Query: "Lophornis helenae" ; Times: 1
+	Query: "Calliphlox mitchellii" ; Times: 2
+	Query: "guatemala" ; Times: 1
+	Query: "aves durango" ; Times: 1
+	Query: "Chlorostilbon mellisugus" ; Times: 1
+	Query: "Heliomaster constantii" ; Times: 1
+	Query: "Illinois" ; Times: 1
+	Query: "Phaethornis anthophilus" ; Times: 1
+	Query: "Atthis heloisa" ; Times: 1
+	Query: "Heliodoxa rubinoides" ; Times: 1
+	Query: "Chlorostilbon poortmani" ; Times: 1
+	Query: "Eupherusa eximia" ; Times: 1
+	Query: "Chalybura buffonii" ; Times: 1
+	Query: "Heliangelus strophianus" ; Times: 1
+	Query: "Oreotrochilus estella" ; Times: 1
+	Query: "Hylocharis eliciae" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 1
+	Query: "Heliothryx barroti" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 1
+	Query: "Elvira chionura" ; Times: 1
+	Query: "county:"san luis obispo" stateprovince:"California" country:"United States" mappable:1" ; Times: 1
+	Query: "Calypte costae" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "Campylopterus rufus" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "Doricha enicura" ; Times: 1
+	Query: "country:"paraguay" class:aves" ; Times: 1
+	Query: "Elvira cupreiceps" ; Times: 1
+	Query: "amazilia rutila" ; Times: 1
+	Query: "Chrysuronia oenone" ; Times: 1
+	Query: "Lampornis castaneoventris" ; Times: 1
+	Query: "tyto alba mappable:1" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "amazilia cyanocephala" ; Times: 1
+	Query: "Eugenes fulgens" ; Times: 1
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "amazilia viridifrons" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "Selasphorus calliope" ; Times: 1
+	Query: "Doryfera ludovicae" ; Times: 1
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 1
+	Query: "Coeligena prunellei" ; Times: 1
+	Query: "Campylopterus falcatus" ; Times: 3
+	Query: "Coeligena helianthea" ; Times: 1
+	Query: "trochilidae" ; Times: 1
+	Query: "Coeligena violifer" ; Times: 1
+	Query: "family:trochilidae AND skeleton type:specimen" ; Times: 1
+	Query: "amazilia cyanura" ; Times: 1
+	Query: "Sternoclyta cyanopectus" ; Times: 1
+	Query: "Nemosia pileata brazil" ; Times: 1
+	Query: "Klais guimeti" ; Times: 1
+	Query: "klages 1923" ; Times: 1
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "Boissonneaua matthewsii" ; Times: 1
+	Query: "amazilia candida" ; Times: 1
+	Query: "amazilia amabilis" ; Times: 1
+	Query: "androdon aequatorialis" ; Times: 1
+	Query: "Threnetes ruckeri" ; Times: 1
+	Query: "county:"Kern" stateprovince:"california" mappable:1" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "Chalcostigma heteropogon" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 1
+	Query: "aves chihuahua" ; Times: 1
+	Query: "Selasphorus flammula" ; Times: 2
+	Query: "tangara chilensis" ; Times: 1
+	Query: "Chaetocercus" ; Times: 1
+	Query: "Leucippus fallax" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 1
+	Query: "Thaumastura cora" ; Times: 1
+	Query: "aves alamos sonora" ; Times: 1
+	Query: "Heliangelus viola" ; Times: 1
+	Query: "Mellisuga helenae" ; Times: 1
+	Query: "Onychorhynchus" ; Times: 1
+	Query: "aves Coahuila" ; Times: 1
+	Query: "Coeligena bonapartei" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Tilmatura dupontii" ; Times: 1
+	Query: "Lafresnaya lafresnayi" ; Times: 1
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "amphispiza bilineata country:"mexico" year >= 1950 year <= 1970" ; Times: 1
+	Query: "Jordan" ; Times: 1
+	Query: "Heliomaster furcifer" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "type:specimen specificepithet:melodia genus:Melospiza OR Zonotrichia" ; Times: 1
+	Query: "Damophila julie" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Butorides virescens" ; Times: 1
+	Query: "stateprovince:"Colima" country:"Mexico"" ; Times: 1
+	Query: "Phaethornis yaruqui" ; Times: 1
+	Query: "Lampornis cinereicauda" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "Microstilbon burmeisteri" ; Times: 1
+	Query: "Heliomaster longirostris" ; Times: 1
+	Query: "Sirystes brazil" ; Times: 1
+	Query: "Hylocharis grayi" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "Selasphorus sasin" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Calypte anna" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1690
+Total number of records retrieved from searches: 25175
+Number of download events that retrieved data from the resource: 265
+Total number of records downloaded: 234806
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1935
+Total number of records retrieved from searches: 28760
+Number of download events that retrieved data from the resource: 453
+Total number of records downloaded: 358511
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
