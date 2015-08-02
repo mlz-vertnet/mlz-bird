@@ -1,0 +1,285 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 301
+Number of records retrieved in searches: 4111
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Brazil ; Times: 88
+	Country: Chile ; Times: 1
+	Country: France ; Times: 3
+	Country: Germany ; Times: 12
+	Country: Mexico ; Times: 74
+	Country: Netherlands ; Times: 4
+	Country: Peru ; Times: 2
+	Country: United Kingdom ; Times: 20
+	Country: United States ; Times: 92
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 6
+	Date: 2015-07-02 ; Times: 19
+	Date: 2015-07-03 ; Times: 12
+	Date: 2015-07-04 ; Times: 7
+	Date: 2015-07-05 ; Times: 1
+	Date: 2015-07-06 ; Times: 14
+	Date: 2015-07-07 ; Times: 7
+	Date: 2015-07-08 ; Times: 7
+	Date: 2015-07-09 ; Times: 8
+	Date: 2015-07-10 ; Times: 9
+	Date: 2015-07-12 ; Times: 3
+	Date: 2015-07-13 ; Times: 4
+	Date: 2015-07-14 ; Times: 2
+	Date: 2015-07-15 ; Times: 5
+	Date: 2015-07-16 ; Times: 9
+	Date: 2015-07-17 ; Times: 2
+	Date: 2015-07-18 ; Times: 13
+	Date: 2015-07-19 ; Times: 2
+	Date: 2015-07-20 ; Times: 4
+	Date: 2015-07-21 ; Times: 3
+	Date: 2015-07-22 ; Times: 4
+	Date: 2015-07-23 ; Times: 3
+	Date: 2015-07-24 ; Times: 12
+	Date: 2015-07-25 ; Times: 2
+	Date: 2015-07-27 ; Times: 33
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 51
+	Date: 2015-07-30 ; Times: 32
+	Date: 2015-07-31 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:mlz Psittacula" ; Times: 1
+	Query: "22774" ; Times: 1
+	Query: "carduelis psaltria durango" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "genus:megascops institutioncode:mlz" ; Times: 1
+	Query: "selasphorus flammula" ; Times: 3
+	Query: "Mimus gilvus" ; Times: 2
+	Query: "51472" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "bird guadalupe y calvo chihuahua" ; Times: 2
+	Query: "Amazilia luciae type:specimen" ; Times: 1
+	Query: "Strix country:"Mexico" AND (NOT occidentalis)" ; Times: 1
+	Query: "specificepithet:notabilis genus:Anisognathus" ; Times: 4
+	Query: "Campylorhynchus zonatus mappable:1" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "Cistothorus platensis" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "tangara cabanisi" ; Times: 2
+	Query: "cypseloides niger country:"mexico"" ; Times: 1
+	Query: "Amazilia viridifrons type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Cranioleuca gutturata" ; Times: 1
+	Query: "taeniata" ; Times: 2
+	Query: "Poecilotriccus" ; Times: 1
+	Query: "Anisognathus notabilis" ; Times: 2
+	Query: "strix varia country:"mexico"" ; Times: 2
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "buteo albonotatus" ; Times: 1
+	Query: "Icterus cucullatus durango" ; Times: 1
+	Query: "mappable:1 tissue:1 distance(location,geopoint(20.13847031245115,-100.810546875))<100000" ; Times: 1
+	Query: "campylorhynchus megalopterus" ; Times: 2
+	Query: "33125" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 1
+	Query: "spizella pusilla" ; Times: 1
+	Query: "xanthogonys" ; Times: 9
+	Query: "Podiceps occipitalis" ; Times: 3
+	Query: "sporophila americana" ; Times: 41
+	Query: "specificepithet:cabanisi genus:Tangara" ; Times: 3
+	Query: "aves navajoa sonora" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS)" ; Times: 1
+	Query: "strix country:"mexico" (varia OR sartorii)" ; Times: 1
+	Query: "genus:Piculus institutioncode:MLZ" ; Times: 2
+	Query: "Chaetocercus berlepschi type:specimen" ; Times: 1
+	Query: "Nystalus chacuru" ; Times: 1
+	Query: "Laterallus" ; Times: 1
+	Query: "institutioncode:mlz Psittacidae" ; Times: 7
+	Query: "strix varia country:"Mexico"" ; Times: 2
+	Query: "specificepithet:stolzmanni genus:Urothraupis" ; Times: 1
+	Query: "14299" ; Times: 4
+	Query: "pseudoscops clamator" ; Times: 2
+	Query: "Kieneri" ; Times: 1
+	Query: "antrostomus veracruz" ; Times: 1
+	Query: "specificepithet:pygmaea" ; Times: 1
+	Query: "Rhynchopsitta terrisi type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Pipilo maculatus" ; Times: 1
+	Query: "specificepithet:motacilla genus:parkesia" ; Times: 1
+	Query: "Sporophila americana" ; Times: 3
+	Query: "Strix country:"Mexico" AND (NOT occidentalis NOT virgata NOT nigrolineata)" ; Times: 1
+	Query: "Campylorhynchus megalopterus mappable:1" ; Times: 4
+	Query: "Cercomacra nigricans" ; Times: 2
+	Query: "Streptoprocne" ; Times: 4
+	Query: "vireolanius melitophrys" ; Times: 1
+	Query: "aves solitarius sonora" ; Times: 1
+	Query: "Pharomachrus mocinno type:specimen" ; Times: 3
+	Query: "lineola" ; Times: 1
+	Query: "Cyanocompsa parellina" ; Times: 3
+	Query: "Myiarchus nuttingi type:specimen" ; Times: 5
+	Query: "bird urique chihuahua" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "Leptodon" ; Times: 1
+	Query: "florisuga fusca" ; Times: 20
+	Query: "Spizaetus" ; Times: 1
+	Query: "LACMNH" ; Times: 1
+	Query: "caprimulgus veracruz" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 32
+	Query: "Pipile pipile type:specimen" ; Times: 4
+	Query: "16002" ; Times: 1
+	Query: "pseudoseisura" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "country:"argentina" recordedby:humphrey year >= 1960 year <= 1962" ; Times: 1
+	Query: "Saltator coerulescens" ; Times: 2
+	Query: "specificepithet:eximia genus:Cnemathraupis" ; Times: 1
+	Query: "Parkesia noveboracensis" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "Strix varia country:"Mexico"" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "seiurus motacilla" ; Times: 1
+	Query: "Piculus rubiginosus institutioncode:MLZ" ; Times: 1
+	Query: "month:12 year:1963 day:8" ; Times: 1
+	Query: "xanthogonys 2014" ; Times: 1
+	Query: "Momotus momota" ; Times: 1
+	Query: "Larus serranus" ; Times: 3
+	Query: "campylorhynchus" ; Times: 2
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 2
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "country:"nicaragua" class:aves recordedby:richardson year <= 1904" ; Times: 2
+	Query: "Todirostrum" ; Times: 2
+	Query: "Pipilo Ocai country:"Mexico"" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "Nyctidromus veracruz" ; Times: 1
+	Query: "cypseloides niger" ; Times: 4
+	Query: "ucla dickey collection" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "Campylorhynchus rufinucha" ; Times: 2
+	Query: "specificepithet:abbas genus:Thraupis" ; Times: 1
+	Query: "Phaethornis pretrei" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: ""crypturellus cinnamomeus"" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "ID 7218" ; Times: 1
+	Query: "boulton year >= 1921 year <= 1952" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "parabuteo unicinctus" ; Times: 1
+	Query: "Pipilo Ocai type:specimen country:"Mexico"" ; Times: 1
+	Query: "Emberizoides herbicola" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "class:aves recordedby:richardson year <= 1904" ; Times: 1
+	Query: "borealis stateprovince:"oaxaca"" ; Times: 1
+	Query: "country:"argentina" recordedby:humphrey year >= 1961 year <= 1961" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "Strix country:"Mexico" AND (NOT occidentalis NOT virgat* NOT nigrolineat*)" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "catalognumber:7590 institutioncode:MLZ" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "Egretta thula type:specimen" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: "Cercomacra nigricans type:specimen" ; Times: 1
+	Query: "45870" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Honduras"" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM)" ; Times: 1
+	Query: "institutioncode:mlz" ; Times: 1
+	Query: "Peucaea ruficauda" ; Times: 2
+	Query: "Synthliboramphus hypoleucus" ; Times: 2
+	Query: "cyanolyca nana" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1084 download events in this period)
+Total number of records downloaded: 62665 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 50363
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 19
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 2
+	Date: 2015-07-03 ; Times: 2
+	Date: 2015-07-06 ; Times: 6
+	Date: 2015-07-07 ; Times: 2
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 5
+	Date: 2015-07-10 ; Times: 1
+	Date: 2015-07-12 ; Times: 1
+	Date: 2015-07-16 ; Times: 2
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 3
+	Date: 2015-07-20 ; Times: 1
+	Date: 2015-07-22 ; Times: 1
+	Date: 2015-07-24 ; Times: 1
+	Date: 2015-07-27 ; Times: 1
+	Date: 2015-07-28 ; Times: 1
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 4
+	Date: 2015-07-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Cyanocompsa parellina" ; Times: 2
+	Query: "Guanajuato" ; Times: 1
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "strix country:"mexico" (varia OR sartorii)" ; Times: 1
+	Query: "florisuga fusca" ; Times: 1
+	Query: "specificepithet:notabilis genus:Anisognathus" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "specificepithet:stolzmanni genus:Urothraupis" ; Times: 1
+	Query: "Saltator coerulescens" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "iguana iguana" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "strix varia country:"mexico"" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "Mniotilta varia type:specimen country:"Honduras"" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 1
+	Query: "Hylocharis leucotis" ; Times: 1
+	Query: "specificepithet:abbas genus:Thraupis" ; Times: 1
+	Query: "Synthliboramphus hypoleucus" ; Times: 3
+	Query: "Streptoprocne" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "AGUASCALIENTES" ; Times: 1
+	Query: "tehuacan" ; Times: 1
+	Query: "Campylorhynchus rufinucha" ; Times: 1
+	Query: "sporophila americana" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1991
+Total number of records retrieved from searches: 29286
+Number of download events that retrieved data from the resource: 307
+Total number of records downloaded: 297471
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2236
+Total number of records retrieved from searches: 32871
+Number of download events that retrieved data from the resource: 495
+Total number of records downloaded: 421176
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
