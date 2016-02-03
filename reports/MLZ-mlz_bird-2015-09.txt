@@ -1,0 +1,309 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 273
+Number of records retrieved in searches: 4934
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 185
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 36
+	Country: Unknown ; Times: 5
+	Country: Poland ; Times: 1
+	Country: Papua New Guinea ; Times: 1
+	Country: United Kingdom ; Times: 14
+	Country: French Guiana ; Times: 6
+	Country: Colombia ; Times: 14
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-23 ; Times: 6
+	Date: 2015-09-10 ; Times: 3
+	Date: 2015-09-11 ; Times: 3
+	Date: 2015-09-12 ; Times: 2
+	Date: 2015-09-13 ; Times: 5
+	Date: 2015-09-14 ; Times: 42
+	Date: 2015-09-15 ; Times: 7
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-17 ; Times: 34
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-29 ; Times: 15
+	Date: 2015-09-08 ; Times: 5
+	Date: 2015-09-30 ; Times: 33
+	Date: 2015-09-02 ; Times: 10
+	Date: 2015-09-07 ; Times: 13
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-05 ; Times: 1
+	Date: 2015-09-03 ; Times: 3
+	Date: 2015-09-28 ; Times: 1
+	Date: 2015-09-01 ; Times: 29
+	Date: 2015-09-25 ; Times: 10
+	Date: 2015-09-24 ; Times: 11
+	Date: 2015-09-27 ; Times: 1
+	Date: 2015-09-26 ; Times: 14
+	Date: 2015-09-21 ; Times: 2
+	Date: 2015-09-20 ; Times: 6
+	Date: 2015-09-09 ; Times: 5
+	Date: 2015-09-22 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Spizella pallida" ; Times: 1
+	Query: "Phalcoboenus (skel OR skeleton)" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 2
+	Query: "peucaea ruficauda" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM)" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "distance(location,geopoint(25.477146731361533,-100.23726023733616))&lt;100000" ; Times: 1
+	Query: "149922" ; Times: 1
+	Query: "chaetocercus bombus" ; Times: 1
+	Query: "microstilbon type:specimen" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "family:trochilidae stateprovince:&#34;Aguascalientes&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Catharus dryas" ; Times: 2
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "Heliodoxa xanthogonys" ; Times: 2
+	Query: "gracula religiosa" ; Times: 1
+	Query: "Megaceryle" ; Times: 1
+	Query: "chaetocercus type:specimen" ; Times: 1
+	Query: "(Trogon) mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.2802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "WED 50309" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "rupicola" ; Times: 1
+	Query: "Cypseloides niger" ; Times: 3
+	Query: "Aves Isla Socorro" ; Times: 1
+	Query: "Trochilidae eggs type:specimen" ; Times: 1
+	Query: "turdus fuscater" ; Times: 4
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "diglossa baritula" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "Rhegmatorhina" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ NOT ROM NOT YPM NOT AMNH NOT CUML)" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "Zenaida asiatica" ; Times: 2
+	Query: "schistes geoffroyi" ; Times: 1
+	Query: "passerina caerulea" ; Times: 2
+	Query: "Aratinga holochlora" ; Times: 7
+	Query: "distance(location,geopoint(23.0802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "Pitangus sulphuratus" ; Times: 1
+	Query: "Colinus" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "Elaenia chiriquensis AND (NOT MSB NOT MVZ)" ; Times: 1
+	Query: "Henicorhina" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Megascops watsonii" ; Times: 1
+	Query: "Gymnorhinus cyanocephalus Chihuahua" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 8
+	Query: "corythaeola skin" ; Times: 1
+	Query: "Phaethornis longirostris" ; Times: 2
+	Query: "distance(location,geopoint(21.0802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "temnurus temnurus" ; Times: 8
+	Query: "distance(location,geopoint(23.0802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "Lepidocolaptes" ; Times: 3
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "Aulacorhynchus (skel OR skeleton)" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 6
+	Query: "class:aves coordinateuncertaintyinmeters&lt;=1000 stateprovince:california year:1976" ; Times: 1
+	Query: "Selasphorus rufus" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "family:Tinamidae" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "geococcyx (skel OR skeleton)" ; Times: 1
+	Query: "mimus polyglottos stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "WED 57619" ; Times: 1
+	Query: "Batty stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; (Pieles) year &gt;= 1904 year &lt;= 1904" ; Times: 1
+	Query: "Tringa melanoleuca" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.349505705))&lt;10000" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves)" ; Times: 2
+	Query: "Pyrocephalus rubinus." ; Times: 2
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "zarcero" ; Times: 2
+	Query: "empidonax flaviventris" ; Times: 2
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "microstilbon" ; Times: 2
+	Query: "coturnicops" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "corax" ; Times: 1
+	Query: "Burt stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34; year &gt;= 1933 year &lt;= 1935" ; Times: 1
+	Query: "colibri" ; Times: 2
+	Query: "distance(location,geopoint(21.0802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "Selasphorus scintilla" ; Times: 1
+	Query: "Heliodoxa xanthogonys guyana" ; Times: 1
+	Query: "distance(location,geopoint(21.1802369569,-105.249505705))&lt;15000" ; Times: 1
+	Query: "eximia" ; Times: 1
+	Query: "Hylopezus" ; Times: 1
+	Query: "holotype" ; Times: 1
+	Query: "Nonnula type:specimen" ; Times: 1
+	Query: "zosterops palpebrosa" ; Times: 2
+	Query: "florisuga fusca" ; Times: 2
+	Query: "crypsirina temia" ; Times: 31
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "columbina inca" ; Times: 2
+	Query: "specificepithet:magnificus genus:Lophornis class:Aves" ; Times: 1
+	Query: "58779" ; Times: 1
+	Query: "tinamiformes" ; Times: 1
+	Query: "Habia rubica" ; Times: 1
+	Query: "caracara (skel OR skeleton)" ; Times: 1
+	Query: "vultur" ; Times: 6
+	Query: "Otus watsonii" ; Times: 1
+	Query: "Colinus leucopogon type:specimen" ; Times: 1
+	Query: "Butorides virescens" ; Times: 2
+	Query: "Colinus type:specimen AND (virginianus)" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Anthracothorax prevostii" ; Times: 3
+	Query: "catalognumber:49294" ; Times: 1
+	Query: "distance(location,geopoint(24.9802369569,-108.049505705))&lt;15000" ; Times: 1
+	Query: "Momotus momota" ; Times: 2
+	Query: "grallaricula" ; Times: 1
+	Query: "Bangsia" ; Times: 1
+	Query: "Malacoptila fusca" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "Colinus leucopogon type:specimen AND (cristatus)" ; Times: 1
+	Query: "Colinus type:specimen" ; Times: 1
+	Query: "Pharomachrus" ; Times: 2
+	Query: "specificepithet:minimus genus:empidonax year &gt;= 1937 year &lt;= 1937" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 2
+	Query: "anthracothorax" ; Times: 1
+	Query: "Monasa type:specimen" ; Times: 1
+	Query: "euphonia" ; Times: 1
+	Query: "colibri (skel OR skeleton)" ; Times: 1
+	Query: "glyphorhynchus spirurus" ; Times: 8
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "distance(location,geopoint(21.0802369569,-105.249505705))&lt;15000" ; Times: 1
+	Query: "Crax" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "WED 58779" ; Times: 3
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Thamnomanes saturninus" ; Times: 1
+	Query: "WED 52978" ; Times: 2
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "distance(location,geopoint(15.522498127561672,-88.23806762695312))&lt;7533.865510778099" ; Times: 1
+	Query: "Tringa incana" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "(Sayornis nigricans) mappable:1" ; Times: 1
+	Query: "tangara" ; Times: 1
+	Query: "san cristobal de las casas" ; Times: 1
+	Query: "Monasa type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 1
+	Query: "synallaxis" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.9802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "Thamnophilus aethiops" ; Times: 1
+	Query: "thamnomanes ardesiacus" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "distance(location,geopoint(21.2802369569,-105.349505705))&lt;15000" ; Times: 1
+	Query: "Mortosuma stateprovince:&#34;Tlaxcala&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "distance(location,geopoint(25.1802369569,-108.449505705))&lt;15000" ; Times: 1
+	Query: "colibri coruscans" ; Times: 1
+	Query: "amnh 43653" ; Times: 2
+	Query: "distance(location,geopoint(15.36894989653473,-87.9180908203125))&lt;15236" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "otus" ; Times: 1
+	Query: "san jose abajo" ; Times: 1
+	Query: "phelpsia inornata" ; Times: 4
+	Query: "distance(location,geopoint(20.5802369569,-105.249505705))&lt;10000" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 52 (out of 1045 download events in this period)
+Total number of records downloaded: 17331
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 4
+	Country: United States ; Times: 34
+	Country: Colombia ; Times: 5
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-09 ; Times: 2
+	Date: 2015-09-01 ; Times: 7
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-19 ; Times: 1
+	Date: 2015-09-06 ; Times: 1
+	Date: 2015-09-13 ; Times: 1
+	Date: 2015-09-14 ; Times: 2
+	Date: 2015-09-02 ; Times: 2
+	Date: 2015-09-16 ; Times: 4
+	Date: 2015-09-17 ; Times: 14
+	Date: 2015-09-25 ; Times: 1
+	Date: 2015-09-24 ; Times: 2
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-20 ; Times: 3
+	Date: 2015-09-30 ; Times: 3
+	Date: 2015-09-22 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "gavia" ; Times: 1
+	Query: "class:Aves mappable:1 distance(location,geopoint(18.812717856407776,-75.322265625))&lt;1032543" ; Times: 1
+	Query: "Spizella pallida" ; Times: 1
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Rhegmatorhina" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 1
+	Query: "geothlypis trichas" ; Times: 1
+	Query: "type:specimen class:Aves county:&#34;Brewster&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Thamnomanes saturninus" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Colinus cristatus type:specimen" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 2
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "chaetocercus bombus" ; Times: 1
+	Query: "Myadestes occidentalis" ; Times: 1
+	Query: "class:aves year&gt;=1976 year&lt;=1986" ; Times: 2
+	Query: "Thamnomanes caesius" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Picoides" ; Times: 2
+	Query: "phalacrocoracidae" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "turdus fuscater" ; Times: 1
+	Query: "Thamnophilus aethiops" ; Times: 1
+	Query: "thamnomanes ardesiacus" ; Times: 1
+	Query: "Batty stateprovince:&#34;Sinaloa&#34; country:&#34;Mexico&#34; year &gt;= 1904 year &lt;= 1904 month &gt;= 3 month &lt;= 5" ; Times: 1
+	Query: "Sclerurus caudacutus" ; Times: 1
+	Query: "aglaiocercus coelestis" ; Times: 1
+	Query: "palos verdes" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "family:Trogonidae mappable:1" ; Times: 1
+	Query: "Sclerurus mexicanus" ; Times: 1
+	Query: "Dendrocolaptes certhia" ; Times: 1
+	Query: "Otus watsonii" ; Times: 1
+	Query: "Gavia" ; Times: 1
+	Query: "Sporophila" ; Times: 1
+	Query: "country:&#34;Ecuador&#34; (Aves) mappable:1" ; Times: 1
+	Query: "Xiphorhynchus guttatus" ; Times: 1
+	Query: "genus:Spizella" ; Times: 1
+	Query: "Spizella breweri" ; Times: 1
+	Query: "myrtis fanny" ; Times: 1
+	Query: "phelpsia inornata" ; Times: 1
+	Query: "empidonax flaviventris" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+
+
+End of report.
