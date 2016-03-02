@@ -1,0 +1,196 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 163
+Number of records retrieved in searches: 2141
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Pakistan ; Times: 1
+	Country: Canada ; Times: 9
+	Country: Mexico ; Times: 75
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 59
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-22 ; Times: 8
+	Date: 2016-02-18 ; Times: 12
+	Date: 2016-02-19 ; Times: 36
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-13 ; Times: 1
+	Date: 2016-02-10 ; Times: 1
+	Date: 2016-02-11 ; Times: 13
+	Date: 2016-02-16 ; Times: 7
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 5
+	Date: 2016-02-29 ; Times: 4
+	Date: 2016-02-09 ; Times: 2
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-20 ; Times: 1
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 5
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 33
+	Date: 2016-02-01 ; Times: 3
+	Date: 2016-02-03 ; Times: 5
+	Date: 2016-02-02 ; Times: 4
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 5
+	Date: 2016-02-07 ; Times: 8
+	Date: 2016-02-06 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vireo vicinior" ; Times: 2
+	Query: "30149" ; Times: 1
+	Query: "hummingbirds" ; Times: 1
+	Query: "amazilia brevirostris" ; Times: 1
+	Query: "class:Aves stateprovince:Nevada" ; Times: 1
+	Query: "Lophornis delattrei" ; Times: 1
+	Query: "Chlorostilbon canivetii" ; Times: 2
+	Query: "phylloscopus" ; Times: 1
+	Query: "Lophornis delattrei brachylopha" ; Times: 1
+	Query: "momotus mexicanus" ; Times: 2
+	Query: "melanerpes aurifrons" ; Times: 1
+	Query: "menstruus" ; Times: 1
+	Query: "selasphorus sasin" ; Times: 5
+	Query: "Columbina passerina" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "accipiter gentilis" ; Times: 1
+	Query: "Synallaxis" ; Times: 1
+	Query: "henicorhina leucosticta" ; Times: 4
+	Query: "saltator" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 1
+	Query: "55253" ; Times: 1
+	Query: "Lampropsar tanagrinus brazil" ; Times: 1
+	Query: "Bergen" ; Times: 1
+	Query: "38377" ; Times: 1
+	Query: "Xenospiza" ; Times: 1
+	Query: "hylexetastes" ; Times: 3
+	Query: "Coraciidae" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Chalybura urochrysia" ; Times: 1
+	Query: "Iridosornis rufivertex" ; Times: 1
+	Query: "Agelaius ruficapillus brazil" ; Times: 1
+	Query: "Myrmeciza melanoceps" ; Times: 1
+	Query: "Spinus tristis" ; Times: 2
+	Query: "Gymnorhinus cyanocephalus chihuahua" ; Times: 1
+	Query: "Vireo vicinior mexico" ; Times: 1
+	Query: "Carduelis cucullatus" ; Times: 1
+	Query: "synallaxis ruficapilla" ; Times: 1
+	Query: "Pionus menstruus" ; Times: 2
+	Query: "Machaeropterus regulus" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 22
+	Query: "Pharomachrus mocinno" ; Times: 30
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "tapera naevia" ; Times: 1
+	Query: "46719" ; Times: 1
+	Query: "aphelocoma californica type:specimen country:&#34;mexico&#34; mappable:1" ; Times: 1
+	Query: "Chrysomus icterocephalus brazil" ; Times: 1
+	Query: "Junco hyemalis" ; Times: 1
+	Query: "setophaga magnolia" ; Times: 1
+	Query: "catalognumber:67850" ; Times: 1
+	Query: "trogon citreolus citreolus" ; Times: 2
+	Query: "Campylorhynchus chiapensis" ; Times: 2
+	Query: "ara militaris" ; Times: 8
+	Query: "Phylloscopus type:specimen" ; Times: 2
+	Query: "vireo atricapilla" ; Times: 2
+	Query: "Megastictus margaritatus" ; Times: 1
+	Query: "sporophila torqueola" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "33903" ; Times: 1
+	Query: "lepidocolaptes souleyetii mappable:1" ; Times: 1
+	Query: "Chrysomus ruficapillus brazil" ; Times: 1
+	Query: "specificepithet:palustris genus:Cistothorus country:&#34;Mexico&#34; month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "trogon mexicanus" ; Times: 1
+	Query: "Henicorhina leucosticta" ; Times: 1
+	Query: "heliobletus contaminatus type:specimen" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "henicorhina leucosticta country:&#34;ecuador&#34;" ; Times: 2
+	Query: "institutioncode:mlz" ; Times: 1
+	Query: "campylorhamphus pusillus" ; Times: 1
+	Query: "Saltator" ; Times: 1
+	Query: "type:specimen specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "type:specimen specificepithet:violaceus genus:cyanocorax institutioncode:MLZ" ; Times: 1
+	Query: "MLZ Piranga ludoviciana" ; Times: 1
+	Query: "cursor" ; Times: 1
+	Query: "aramides calopterus" ; Times: 2
+	Query: "Arremonops rufivirgatus" ; Times: 1
+	Query: "piculus leucolaemus" ; Times: 2
+	Query: "Lophornis brachylophus" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "33755" ; Times: 1
+	Query: "momotus momota" ; Times: 1
+	Query: "Diglossa sittoides" ; Times: 1
+	Query: "Lepidothrix isidorei" ; Times: 1
+	Query: "strix varia mexico" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 512 download events in this period)
+Total number of records downloaded: 11341
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-29 ; Times: 5
+	Date: 2016-02-22 ; Times: 1
+	Date: 2016-02-04 ; Times: 1
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-23 ; Times: 2
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 1
+	Date: 2016-02-19 ; Times: 3
+	Date: 2016-02-26 ; Times: 4
+	Date: 2016-02-25 ; Times: 2
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-12 ; Times: 1
+	Date: 2016-02-03 ; Times: 1
+	Date: 2016-02-11 ; Times: 1
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:&#34;Chihuahua&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1900 year &lt;= 1910 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1901 year &lt;= 1920" ; Times: 2
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1931 year &lt;= 1931" ; Times: 1
+	Query: "continent:North America year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "vireo olivaceus type:specimen" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1906 year &lt;= 1910" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1926 year &lt;= 1928" ; Times: 1
+	Query: "hylexetastes" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "tissue:1" ; Times: 1
+	Query: "synallaxis ruficapilla" ; Times: 1
+	Query: "specificepithet:palustris genus:Cistothorus country:&#34;Mexico&#34; month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "vireo olivaceus" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1960 year &lt;= 1964" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Ontario&#34; year &lt;= 1970" ; Times: 1
+	Query: "selasphorus (sasin OR sedentarius)" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops" ; Times: 1
+	Query: "&#34;colaptes auratus&#34; year &gt;= 1940 year &lt;= 1946 mappable:1" ; Times: 1
+	Query: "class:Aves country:&#34;Canada&#34; year &gt;= 1896 year &lt;= 1900" ; Times: 1
+	Query: "Strigidae" ; Times: 1
+	Query: "klages santarem" ; Times: 1
+	Query: "capito" ; Times: 1
+	Query: "genus:carpodacus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Saltator" ; Times: 1
+
+
+End of report.
