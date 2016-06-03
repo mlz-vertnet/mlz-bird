@@ -1,0 +1,157 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 77
+Number of records retrieved in searches: 1277
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Mexico ; Times: 18
+	Country: Unknown ; Times: 2
+	Country: Turkey ; Times: 2
+	Country: Singapore ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 35
+	Country: Germany ; Times: 5
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 5
+	Date: 2016-05-18 ; Times: 2
+	Date: 2016-05-17 ; Times: 2
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 2
+	Date: 2016-05-11 ; Times: 8
+	Date: 2016-05-10 ; Times: 5
+	Date: 2016-05-31 ; Times: 7
+	Date: 2016-05-30 ; Times: 2
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-09 ; Times: 4
+	Date: 2016-05-02 ; Times: 1
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 3
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-06 ; Times: 1
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-26 ; Times: 3
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 8
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 5
+	Date: 2016-05-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Parabuteo unicinctus" ; Times: 2
+	Query: "distance(location,geopoint(27.145036,-109.331516))&lt;15000" ; Times: 1
+	Query: "catalognumber:46487" ; Times: 1
+	Query: "distance(location,geopoint(20.549036,-105.187516))&lt;15000" ; Times: 1
+	Query: "catalognumber:44144" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "catalognumber:66486" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 2
+	Query: "distance(location,geopoint(27.223036,-108.083516))&lt;15000" ; Times: 1
+	Query: "vestitus" ; Times: 1
+	Query: "Hylorchilus sumichrasti" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "glaucidium minutissimum" ; Times: 2
+	Query: "TROGON MASSENA" ; Times: 2
+	Query: "type:specimen specificepithet:humeralis genus:Parkerthraustes sex:male" ; Times: 1
+	Query: "athene cunicularia" ; Times: 1
+	Query: "Oreothlypis peregrina" ; Times: 1
+	Query: "dendroica nigrescens" ; Times: 1
+	Query: "Callipepla squamata" ; Times: 3
+	Query: "709781" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 2
+	Query: "hylorchilus sumichrasti" ; Times: 2
+	Query: "catalognumber:56127" ; Times: 1
+	Query: "distance(location,geopoint(27.067036,-108.317516))&lt;15000" ; Times: 1
+	Query: "Pharomachrus mocinno Mexico" ; Times: 1
+	Query: "aves Polioptila nigriceps 15182" ; Times: 1
+	Query: "setophaga nigrescens" ; Times: 1
+	Query: "genus:Colaptes country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "numenius" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "distance(location,geopoint(27.149036,-109.367516))&lt;15000" ; Times: 1
+	Query: "catalognumber:53509" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 3
+	Query: "Calliphlox mitchellii" ; Times: 1
+	Query: "Ocreatus" ; Times: 4
+	Query: "R-67076" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "conuropsis carolinensis" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "communis" ; Times: 1
+	Query: "specificepithet:militaris genus:ara" ; Times: 1
+	Query: "57306" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 3
+	Query: "stigmatura napensis" ; Times: 1
+	Query: "batis" ; Times: 1
+	Query: "Cardinalis sinuatus AND hybrid" ; Times: 1
+	Query: "catalognumber:44571" ; Times: 1
+	Query: "Melanerpes aurifrons" ; Times: 1
+	Query: "catalognumber:59092" ; Times: 1
+	Query: "calliphlox mitchellii" ; Times: 1
+	Query: "cissa chinensis" ; Times: 1
+	Query: "709778" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "Vireo huttoni" ; Times: 2
+	Query: "Sturnus vulgaris" ; Times: 1
+	Query: "coeligena coeligena" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 327 download events in this period)
+Total number of records downloaded: 11802
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 3
+	Country: United States ; Times: 1
+	Country: China ; Times: 5
+	Country: Colombia ; Times: 2
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-09 ; Times: 1
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 1
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Pionus senilis" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "Yuhina" ; Times: 1
+	Query: "bird" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+
+
+End of report.
