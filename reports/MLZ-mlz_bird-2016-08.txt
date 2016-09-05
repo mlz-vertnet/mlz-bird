@@ -1,0 +1,293 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 453
+Number of records retrieved in searches: 4134
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 44
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 3
+	Country: Mexico ; Times: 40
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 7
+	Country: France ; Times: 4
+	Country: United States ; Times: 340
+	Country: Australia ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 8
+	Country: Puerto Rico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 7
+	Date: 2016-08-11 ; Times: 16
+	Date: 2016-08-12 ; Times: 173
+	Date: 2016-08-13 ; Times: 3
+	Date: 2016-08-14 ; Times: 40
+	Date: 2016-08-15 ; Times: 11
+	Date: 2016-08-16 ; Times: 6
+	Date: 2016-08-17 ; Times: 7
+	Date: 2016-08-18 ; Times: 7
+	Date: 2016-08-19 ; Times: 23
+	Date: 2016-08-30 ; Times: 40
+	Date: 2016-08-31 ; Times: 11
+	Date: 2016-08-29 ; Times: 9
+	Date: 2016-08-28 ; Times: 18
+	Date: 2016-08-25 ; Times: 27
+	Date: 2016-08-24 ; Times: 7
+	Date: 2016-08-27 ; Times: 3
+	Date: 2016-08-26 ; Times: 7
+	Date: 2016-08-21 ; Times: 7
+	Date: 2016-08-20 ; Times: 8
+	Date: 2016-08-23 ; Times: 11
+	Date: 2016-08-22 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "chaetocercus type:specimen sex:female institutioncode:MLZ" ; Times: 1
+	Query: "Chalcostigma heteropogon type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "granatellus venustus" ; Times: 3
+	Query: "Anthracothorax viridigula type:specimen sex:Female institutioncode:MLZ" ; Times: 1
+	Query: "amazilia chionopectus" ; Times: 1
+	Query: "Cistothorus institutioncode:MLZ" ; Times: 1
+	Query: "cardellina rubra" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "type:specimen specificepithet:lactea genus:AMAZILIA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus aurantiirostris aenopennis hastypestatus:1" ; Times: 1
+	Query: "schiffornis turdinus" ; Times: 1
+	Query: "Oreotrochilus type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "54750" ; Times: 1
+	Query: "Selasphorus sasin type:specimen sex:female institutioncode:MLZ" ; Times: 1
+	Query: "type:specimen specificepithet:pretrei genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Heliomaster type:specimen institutioncode:MLZ" ; Times: 2
+	Query: "eurystomus orientalis" ; Times: 1
+	Query: "falco rufigularis" ; Times: 4
+	Query: "Chondestes grammacus cHIHUAHUA" ; Times: 1
+	Query: "Podicipedidae dominicus" ; Times: 2
+	Query: "Abeillia abeillei type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "pipridae" ; Times: 1
+	Query: "Xiphocolaptes" ; Times: 1
+	Query: "Euthlypis lachrymosa chihuahua" ; Times: 1
+	Query: "Platylophus galericulatus" ; Times: 3
+	Query: "type:specimen specificepithet:serrirostris genus:colibri class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "type:specimen (pipridae)" ; Times: 2
+	Query: "year &gt;= 1700 year &lt;= 1840" ; Times: 1
+	Query: "type:specimen specificepithet:lucidus genus:Chlorostilbon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cistothorus palustris country:&#34;Mexico&#34;" ; Times: 1
+	Query: "type:specimen genus:Polytmus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Hummingbirds" ; Times: 1
+	Query: "agelaius humeralis" ; Times: 4
+	Query: "Basileuterus rufifrons cHIHUAHUA" ; Times: 1
+	Query: "Campylopterus curvipennis type:specimen sex:Female institutioncode:MLZ" ; Times: 1
+	Query: "Chloroceryle americana cHIHUAHUA" ; Times: 1
+	Query: "type:specimen specificepithet:versicolor genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 2
+	Query: "catalognumber:25201" ; Times: 1
+	Query: "type:specimen specificepithet:eurynome genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "type:specimen specificepithet:fanny genus:myrtis" ; Times: 1
+	Query: "254751" ; Times: 1
+	Query: "chrysoparia" ; Times: 1
+	Query: "type:specimen specificepithet:notata class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "coeligena bonapartei type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "meleagris gallopavo durango country:&#34;mexico&#34;" ; Times: 1
+	Query: "chaetocercus heliodor" ; Times: 10
+	Query: "meleagris gallopavo country:&#34;mexico&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "heliodoxa type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "class:Aves continent:North america (Campephilus)" ; Times: 2
+	Query: "chaetocercus jourdanii" ; Times: 5
+	Query: "type:specimen genus:colibri class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Catharus ustulatus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Basileuterus lachrymosus chihuahua" ; Times: 1
+	Query: "aURIPARUS FLAVICEPS" ; Times: 1
+	Query: "Catharus aurantiirostris" ; Times: 4
+	Query: "type:specimen genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "crypsirina" ; Times: 3
+	Query: "Agelaius humeralis" ; Times: 129
+	Query: "specificepithet:helenae genus:mellisuga" ; Times: 1
+	Query: "type:specimen specificepithet:scintilla genus:Selasphorus" ; Times: 1
+	Query: "Empidonax albigularis cHIHUAHUA" ; Times: 1
+	Query: "Catharus hastypestatus:1" ; Times: 14
+	Query: "eupherusa poliocerca" ; Times: 16
+	Query: "type:specimen specificepithet:guainumbi genus:Polytmus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Microchera albocoronata type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "&#34;chrysoparia&#34; country:&#34;Mexico&#34;" ; Times: 6
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "type:specimen specificepithet:helenae genus:mellisuga" ; Times: 1
+	Query: "Phylloscartes" ; Times: 1
+	Query: "agelaius humeralis sex:male" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Cerro Azul" ; Times: 1
+	Query: "chlorostilbon stenurus" ; Times: 3
+	Query: "Eupherusa eximia type:specimen sex:Female institutioncode:MLZ" ; Times: 1
+	Query: "concolor" ; Times: 1
+	Query: "Callipepla squamata cHIHUAHUA" ; Times: 2
+	Query: "type:specimen genus:Hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Cyanocompsa parellina" ; Times: 2
+	Query: "ara militaris country:&#34;mexico&#34;" ; Times: 1
+	Query: "type:specimen genus:augastes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:discosura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "caspia" ; Times: 1
+	Query: "CRYPSIRINA" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "Drymophila" ; Times: 1
+	Query: "type:specimen genus:lophornis class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Cistothorus palustris institutioncode:MLZ" ; Times: 1
+	Query: "myrmia micrura" ; Times: 25
+	Query: "atthis ellioti" ; Times: 1
+	Query: "Eurystomus orientalis" ; Times: 3
+	Query: "stictopterus" ; Times: 1
+	Query: "lampornis type:specimen sex:female institutioncode:MLZ" ; Times: 1
+	Query: "calothorax" ; Times: 1
+	Query: "amazilia luciae" ; Times: 3
+	Query: "type:specimen specificepithet:ruber genus:phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:magnificus genus:lophornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves country:&#34;costa rica&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "Heliothryx aurita type:specimen sex:Female institutioncode:MLZ" ; Times: 1
+	Query: "Hylocharis leucotis type:specimen sex:Female institutioncode:MLZ" ; Times: 1
+	Query: "chlorostilbon russatus" ; Times: 2
+	Query: "Chlorospingus country:&#34;Mexico&#34;" ; Times: 4
+	Query: "type:specimen specificepithet:glaucopis genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:machaeropterus family:pipridae" ; Times: 1
+	Query: "Amazilia decora type:specimen sex:Female institutioncode:MLZ" ; Times: 1
+	Query: "Asio stygius chihuahua" ; Times: 1
+	Query: "type:specimen genus:Leucochloris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Piculus chrysochloros" ; Times: 1
+	Query: "Calothorax lucifer cHIHUAHUA" ; Times: 1
+	Query: "aves 6 mi E Baromico" ; Times: 1
+	Query: "type:specimen genus:Calothorax" ; Times: 1
+	Query: "hylonympha macrocerca" ; Times: 5
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "Chlorostilbon canivetii type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "Chaetocercus jourdanii type:specimen sex:female institutioncode:MLZ" ; Times: 1
+	Query: "Catharus aurantiirostris aenopennis" ; Times: 4
+	Query: "Doricha eliza type:specimen sex:female institutioncode:MLZ" ; Times: 1
+	Query: "distance(location,geopoint(22.499027433183247,-101.8212890625))&lt;100000" ; Times: 1
+	Query: "catalognumber:1" ; Times: 1
+	Query: "gracula religiosa" ; Times: 1
+	Query: "cypseloides niger" ; Times: 2
+	Query: "Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:longicaudus genus:discosura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "10929" ; Times: 1
+	Query: "type:specimen genus:glaucis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Cacicus melanicterus" ; Times: 1
+	Query: "class:aves country:&#34;costa rica&#34; recordedby:smith year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "14878" ; Times: 1
+	Query: "class:Aves continent:North america (Campephilus moore)" ; Times: 1
+	Query: "44536" ; Times: 1
+	Query: "catalognumber:41513" ; Times: 1
+	Query: "type:specimen genus:clytolaema class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Geococcyx californianus" ; Times: 1
+	Query: "calypte costae type:specimen sex:female institutioncode:MLZ" ; Times: 2
+	Query: "aimophila ruficauda" ; Times: 8
+	Query: "chlorospingus" ; Times: 3
+	Query: "type:specimen specificepithet:squalidus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "lampornis cinereicauda" ; Times: 8
+	Query: "type:specimen specificepithet:cyanus genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "falco peregrinus" ; Times: 2
+	Query: "ptilogonys otofuscus" ; Times: 3
+	Query: "Aglaeactis aliciae type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "type:specimen specificepithet:nigricollis genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Pnoepyga pusilla" ; Times: 6
+	Query: "type:specimen genus:Heliactin class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aglaeactis type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "Pnoepyga pusilla type:specimen" ; Times: 1
+	Query: "Chaetocercus mulsant type:specimen sex:female institutioncode:MLZ" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "type:specimen specificepithet:ORNATUS genus:lophornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cedros" ; Times: 1
+	Query: "class:aves country:&#34;costa rica&#34; AND (not smith) year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "catalognumber:1726" ; Times: 1
+	Query: "13787" ; Times: 1
+	Query: "Cypseloides" ; Times: 2
+	Query: "type:specimen genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Atthis heloisa cHIHUAHUA" ; Times: 1
+	Query: "Haplophaedia aureliae type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "Pyroderus scutatus" ; Times: 1
+	Query: "Campephilus moore class:Aves continent:North america (Campephilus moore)" ; Times: 2
+	Query: "21820" ; Times: 1
+	Query: "type:specimen genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "thripophaga" ; Times: 1
+	Query: "chaetocercus bombus type:specimen sex:female institutioncode:MLZ" ; Times: 1
+	Query: "calothorax pulcher" ; Times: 1
+	Query: "apaloderma aequatoriale" ; Times: 2
+	Query: "M-8974" ; Times: 1
+	Query: "lampornis type:specimen institutioncode:MLZ" ; Times: 1
+	Query: "agelaius humeralis type:specimen sex:male preparations:skin" ; Times: 1
+	Query: "coeligena coeligena" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 924 download events in this period)
+Total number of records downloaded: 65077
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 14
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 3
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 4
+	Date: 2016-08-15 ; Times: 1
+	Date: 2016-08-16 ; Times: 2
+	Date: 2016-08-25 ; Times: 1
+	Date: 2016-08-24 ; Times: 1
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 9
+	Date: 2016-08-30 ; Times: 3
+	Date: 2016-08-31 ; Times: 1
+	Date: 2016-08-18 ; Times: 2
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-19 ; Times: 1
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "chrysoparia" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "aimophila ruficauda" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "Colombia Aves Boyaca" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "specificepithet:chrysops genus:zimmerius" ; Times: 2
+	Query: "Pnoepyga pusilla" ; Times: 1
+	Query: "Colombia Aves Santander" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "falco rufigularis" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Agelaius humeralis" ; Times: 1
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+
+
+End of report.
