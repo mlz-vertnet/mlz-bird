@@ -1,0 +1,318 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 433
+Number of records retrieved in searches: 5918
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: Canada ; Times: 10
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 1
+	Country: Ireland ; Times: 3
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+	Country: Iran ; Times: 3
+	Country: Germany ; Times: 4
+	Country: Belgium ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 17
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 86
+	Country: Russia ; Times: 1
+	Country: Honduras ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 260
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 12
+	Country: Cyprus ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 6
+	Date: 2018-09-23 ; Times: 14
+	Date: 2018-09-02 ; Times: 7
+	Date: 2018-09-03 ; Times: 8
+	Date: 2018-09-26 ; Times: 10
+	Date: 2018-09-01 ; Times: 30
+	Date: 2018-09-20 ; Times: 52
+	Date: 2018-09-21 ; Times: 26
+	Date: 2018-09-22 ; Times: 5
+	Date: 2018-09-05 ; Times: 13
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-09 ; Times: 3
+	Date: 2018-09-28 ; Times: 4
+	Date: 2018-09-30 ; Times: 1
+	Date: 2018-09-11 ; Times: 23
+	Date: 2018-09-10 ; Times: 7
+	Date: 2018-09-13 ; Times: 5
+	Date: 2018-09-12 ; Times: 8
+	Date: 2018-09-15 ; Times: 4
+	Date: 2018-09-14 ; Times: 3
+	Date: 2018-09-17 ; Times: 34
+	Date: 2018-09-16 ; Times: 3
+	Date: 2018-09-19 ; Times: 23
+	Date: 2018-09-18 ; Times: 24
+	Date: 2018-09-24 ; Times: 74
+	Date: 2018-09-25 ; Times: 24
+	Date: 2018-09-27 ; Times: 12
+	Date: 2018-09-06 ; Times: 4
+	Date: 2018-09-07 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Oriturus institutioncode:MLZ" ; Times: 2
+	Query: "pipreola riefferii" ; Times: 1
+	Query: "Pterophanes" ; Times: 4
+	Query: "5178" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "specificepithet:americanus genus:Numenius class:Aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:nigrescens genus:cercomacra" ; Times: 1
+	Query: "vntype:specimen specificepithet:cristatellus genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:aves recordedby:mearns" ; Times: 1
+	Query: "Hypothymis azurea" ; Times: 2
+	Query: "Egretta thula" ; Times: 11
+	Query: "oriturus superciliosus stateprovince:&#34;puebla&#34;" ; Times: 1
+	Query: "Pavo cristatus" ; Times: 27
+	Query: "43401" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "pharomachrus mocinno" ; Times: 21
+	Query: "specificepithet:fuscicauda genus:habia" ; Times: 1
+	Query: "specificepithet:stelleri genus:cyanocitta hastissue:1" ; Times: 1
+	Query: "corvus corax" ; Times: 10
+	Query: "Oriturus superciliosus" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 3
+	Query: "egretta thula" ; Times: 7
+	Query: "Lamprolaima" ; Times: 3
+	Query: "specificepithet:crissalis genus:melozone" ; Times: 2
+	Query: "specificepithet:stictothorax genus:synallaxis" ; Times: 1
+	Query: "specificepithet:rutila genus:Amazilia" ; Times: 1
+	Query: "22579" ; Times: 1
+	Query: "specificepithet:stricklandi genus:Picoides" ; Times: 1
+	Query: "leptodon" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "class:aves country:&#34;india&#34;" ; Times: 1
+	Query: "myiopsitta" ; Times: 2
+	Query: "Hypothymis" ; Times: 1
+	Query: "Heliangelus Micraster" ; Times: 3
+	Query: "MLZ 18363" ; Times: 1
+	Query: "MLZ 18360" ; Times: 2
+	Query: "MLZ 18361" ; Times: 2
+	Query: "vntype:specimen specificepithet:chrysops genus:Cyanocorax class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "laterallus" ; Times: 1
+	Query: "Dendrocincla" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "Nyctibius griseus" ; Times: 1
+	Query: "MLZ Bird specimens 13878" ; Times: 1
+	Query: "specificepithet:leucorhoa genus:oceanodroma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "dixiphia pipra" ; Times: 2
+	Query: "MLZ Bird specimens 13871" ; Times: 1
+	Query: "MLZ Bird specimens 13872" ; Times: 1
+	Query: "MLZ Bird specimens 13875" ; Times: 1
+	Query: "specificepithet:fusca genus:setophaga" ; Times: 2
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "246221" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "specificepithet:speciosa genus:geothlypis" ; Times: 1
+	Query: "skeleton vntype:specimen (male female )" ; Times: 1
+	Query: "MLZ 18353" ; Times: 2
+	Query: "MLZ 18352" ; Times: 3
+	Query: "MLZ 18357" ; Times: 1
+	Query: "MLZ 18356" ; Times: 2
+	Query: "MLZ 18355" ; Times: 3
+	Query: "49597" ; Times: 1
+	Query: "Cassiculus melanicterus" ; Times: 1
+	Query: "MLZ 18359" ; Times: 2
+	Query: "vntype:specimen country:&#34;Bolivia&#34; family:Furnariidae" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "specificepithet:parasiticus genus:Stercorarius country:&#34;United States&#34;" ; Times: 1
+	Query: "stateprovince:Orellana " ; Times: 1
+	Query: "specificepithet:cyanocephala genus:Amazilia" ; Times: 3
+	Query: "specificepithet:ornatus genus:spizaetus" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "aguascalientes" ; Times: 1
+	Query: "capito niger" ; Times: 2
+	Query: "Diglossa baritula" ; Times: 2
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "phaethornis longirostris" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1980" ; Times: 1
+	Query: "14042" ; Times: 1
+	Query: "Leptodon cayanensis vntype:specimen" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 3
+	Query: "16088" ; Times: 1
+	Query: "Diglossa" ; Times: 2
+	Query: "Diglossa Honduras" ; Times: 3
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Chloroceryle aenea" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttatus genus:Xiphorhynchus" ; Times: 1
+	Query: "pipreola riefferii riefferii" ; Times: 1
+	Query: "country:&#34;United States&#34; Pavo cristatus" ; Times: 2
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 1
+	Query: "Heliangelus mlz" ; Times: 2
+	Query: "class:aves catalognumber:12077" ; Times: 1
+	Query: "county:&#34;san diego&#34; stateprovince:&#34;california&#34; recordedby:moore year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "san fransisco" ; Times: 1
+	Query: "malacoptila" ; Times: 1
+	Query: "body size" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "Caracara cheriway preparations:skeleton" ; Times: 1
+	Query: "50292 class:Aves" ; Times: 2
+	Query: "MLZ 1835" ; Times: 1
+	Query: "skeleton vntype:specimen (male female)" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 1
+	Query: "vntype:specimen family:Trochilidae institutioncode:MLZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Empidonax albigularis subtilis" ; Times: 1
+	Query: "leptodon cayanensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:Geositta" ; Times: 2
+	Query: "R 15654" ; Times: 1
+	Query: "quiscalus mexicanus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:azarae genus:Synallaxis" ; Times: 2
+	Query: "19403 class:Aves" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "specificepithet:humeralis genus:peucaea" ; Times: 1
+	Query: "quechultenango" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "Phylloscartes eximius" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "MLZ 26635" ; Times: 4
+	Query: "amazilia tzacatl" ; Times: 3
+	Query: "MLZ 26637" ; Times: 1
+	Query: "institutioncode:MLZ" ; Times: 1
+	Query: "EMPIDONOMUS VARIUS" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "specificepithet:ruficauda genus:peucaea" ; Times: 2
+	Query: "specificepithet:fusca genus:melozone" ; Times: 1
+	Query: "cinclus cinclus" ; Times: 1
+	Query: "accipiter bicolor" ; Times: 3
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "cinclus" ; Times: 2
+	Query: "cyanocitta stelleri year &gt;= 1980 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "specificepithet:fuscocinereus genus:lipaugus" ; Times: 1
+	Query: "Caracara cheriway" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 2
+	Query: "class:aves country:&#34;kenya&#34;" ; Times: 2
+	Query: "specificepithet:gallopavo genus:meleagris" ; Times: 1
+	Query: "MLZ 16844" ; Times: 3
+	Query: "MLZ Diglossa baritula" ; Times: 1
+	Query: "megarynchus tardiusculus" ; Times: 1
+	Query: "j 808" ; Times: 1
+	Query: "luteoviridis" ; Times: 1
+	Query: "Megascops watsonii" ; Times: 1
+	Query: "furcifer" ; Times: 2
+	Query: "MLZ 18354" ; Times: 2
+	Query: "Mus Guadalupe Island" ; Times: 4
+	Query: "MLZ Bird specimens 3229" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 14
+	Query: "specificepithet:rufivertex genus:iridosornis" ; Times: 1
+	Query: "specificepithet:militaris genus:sturnella" ; Times: 1
+	Query: "Sula leucogaster" ; Times: 1
+	Query: "Pyrocephalus rubinus" ; Times: 7
+	Query: "Pharomachrus auriceps" ; Times: 2
+	Query: "(yaqui)" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "MLZ Bird specimens 768" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 1
+	Query: "specificepithet:cunicularia genus:Geositta" ; Times: 1
+	Query: "MLZ 183" ; Times: 1
+	Query: "Guadalupe Island 1897" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; year &lt;= 1850" ; Times: 2
+	Query: "class:aves catalognumber:12071" ; Times: 1
+	Query: "specificepithet:vociferans genus:lipaugus" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "pyrocephalus rubinus" ; Times: 2
+	Query: "Falco rufigularis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 51
+	Query: "43935" ; Times: 1
+	Query: "specificepithet:alba genus:Tyto class:Aves hastissue:1" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;sinaloa&#34;" ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "specificepithet:alinae" ; Times: 1
+	Query: "palmas" ; Times: 3
+	Query: "Thryophilus sinaloa" ; Times: 2
+	Query: "MLZ Diglossa baritula Honduras" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 1
+	Query: "Heliangelus mavors" ; Times: 2
+	Query: "mimosa" ; Times: 1
+	Query: "class:aves (16088)" ; Times: 1
+	Query: "ara macao" ; Times: 18
+	Query: "malacoptila fusca" ; Times: 5
+	Query: "MLZ 17112" ; Times: 3
+	Query: "cyanocitta stelleri year &gt;= 1990 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:mystacalis genus:peucaea" ; Times: 2
+	Query: "33106" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "MLZ Bird specimens 772" ; Times: 1
+	Query: "MLZ 18362" ; Times: 2
+	Query: "setophaga occidentalis" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 12
+	Query: "Pipra pipra vntype:specimen country:&#34;Costa rica&#34;" ; Times: 1
+	Query: "county:&#34;san diego&#34; stateprovince:&#34;california&#34; recordedby:moore year &gt;= 1900 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:frantzii genus:catharus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 28 (out of 846 download events in this period)
+Total number of records downloaded: 11690
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 12
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-17 ; Times: 3
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-24 ; Times: 6
+	Date: 2018-09-25 ; Times: 3
+	Date: 2018-09-13 ; Times: 2
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-07 ; Times: 2
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-19 ; Times: 1
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Caracara cheriway preparations:skeleton" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:asio genus:Megascops basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "cyanocitta stelleri year &gt;= 1990" ; Times: 1
+	Query: "passerculus sandwichensis" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 1
+	Query: "specificepithet:cheriway genus:Caracara county:&#34;-&#34; stateprovince:&#34;-&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "buteo jamaicensis" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo" ; Times: 1
+	Query: "egretta thula" ; Times: 2
+	Query: "aechmophorus occidentalis" ; Times: 1
+	Query: "Thryophilus sinaloa" ; Times: 1
+	Query: "vntype:specimen family:Trochilidae institutioncode:MLZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 2
+	Query: "sphyrapicus varius" ; Times: 1
+	Query: "archilochus colubris year &gt;= 2000 year &lt;= 2017 hastissue:1" ; Times: 1
+	Query: "Progne chalybea" ; Times: 1
+	Query: "hasmass:1" ; Times: 1
+	Query: "specificepithet:xantusii genus:Hylocharis" ; Times: 1
+	Query: "country:&#34;cuba&#34;" ; Times: 1
+	Query: "Melopsittacus" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 2
+	Query: "continent:South America" ; Times: 1
+
+
+End of report.
