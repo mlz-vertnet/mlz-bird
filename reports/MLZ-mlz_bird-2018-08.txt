@@ -1,0 +1,359 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 317
+Number of records retrieved in searches: 4655
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 3
+	Country: Colombia ; Times: 47
+	Country: Mexico ; Times: 51
+	Country: Denmark ; Times: 2
+	Country: Panama ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: India ; Times: 1
+	Country: Venezuela ; Times: 1
+	Country: France ; Times: 3
+	Country: United States ; Times: 156
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 4
+	Country: Peru ; Times: 14
+	Country: Unknown ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: Cyprus ; Times: 3
+	Country: Ecuador ; Times: 1
+	Country: Ukraine ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-30 ; Times: 9
+	Date: 2018-08-31 ; Times: 13
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-16 ; Times: 10
+	Date: 2018-08-23 ; Times: 8
+	Date: 2018-08-14 ; Times: 11
+	Date: 2018-08-15 ; Times: 13
+	Date: 2018-08-12 ; Times: 3
+	Date: 2018-08-13 ; Times: 18
+	Date: 2018-08-10 ; Times: 8
+	Date: 2018-08-11 ; Times: 10
+	Date: 2018-08-02 ; Times: 11
+	Date: 2018-08-08 ; Times: 11
+	Date: 2018-08-03 ; Times: 6
+	Date: 2018-08-17 ; Times: 7
+	Date: 2018-08-27 ; Times: 3
+	Date: 2018-08-26 ; Times: 2
+	Date: 2018-08-25 ; Times: 3
+	Date: 2018-08-24 ; Times: 15
+	Date: 2018-08-09 ; Times: 43
+	Date: 2018-08-22 ; Times: 12
+	Date: 2018-08-21 ; Times: 12
+	Date: 2018-08-20 ; Times: 14
+	Date: 2018-08-05 ; Times: 10
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 6
+	Date: 2018-08-06 ; Times: 7
+	Date: 2018-08-01 ; Times: 29
+	Date: 2018-08-29 ; Times: 8
+	Date: 2018-08-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "geositta" ; Times: 1
+	Query: "148 psittacidae" ; Times: 1
+	Query: "genus:Parabuteo" ; Times: 1
+	Query: "vntype:specimen genus:Corythaeola" ; Times: 2
+	Query: "10699" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "49831" ; Times: 1
+	Query: "specificepithet:albolineatus genus:lepidocolaptes" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "35625" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;jalisco&#34;" ; Times: 1
+	Query: "lepidocolaptes albolineatus" ; Times: 2
+	Query: "33147 class:aves" ; Times: 1
+	Query: "21408" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;morelos&#34;" ; Times: 1
+	Query: "10760" ; Times: 2
+	Query: "9832" ; Times: 1
+	Query: "pipreola riefferii" ; Times: 3
+	Query: "104041" ; Times: 1
+	Query: "Oriturus superciliosus" ; Times: 1
+	Query: "51957" ; Times: 1
+	Query: "162279" ; Times: 1
+	Query: "Ara macao" ; Times: 3
+	Query: "genus:Catharus year &gt;= 1898 year &lt;= 1898 startdayofyear &gt;= 174 enddayofyear &gt;= 174" ; Times: 1
+	Query: "catalognumber:67859" ; Times: 1
+	Query: "48541" ; Times: 1
+	Query: "Coeligena iris" ; Times: 1
+	Query: "34645" ; Times: 1
+	Query: "zimmerius" ; Times: 1
+	Query: "Catamenia homochroa" ; Times: 1
+	Query: "vntype:specimen specificepithet:seductus genus:megascops" ; Times: 1
+	Query: "25211" ; Times: 1
+	Query: "sporophila torqueola" ; Times: 1
+	Query: "flavigularis" ; Times: 2
+	Query: "genus:Cairina specificepithet: moschata" ; Times: 3
+	Query: "vntype:specimen genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Aratinga" ; Times: 7
+	Query: "confusus" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "11472" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 6
+	Query: "vntype:specimen specificepithet:trichopsis genus:megascops" ; Times: 1
+	Query: "25891" ; Times: 1
+	Query: "33004" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;chihuahua&#34;" ; Times: 1
+	Query: "catalognumber:46769" ; Times: 1
+	Query: "26688" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 2
+	Query: "specificepithet:vitellinus genus:Ramphastos" ; Times: 1
+	Query: "stateprovince:&#34;nevada&#34; recordedby:alcorn" ; Times: 1
+	Query: "69084" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "24493" ; Times: 1
+	Query: "17984" ; Times: 1
+	Query: "montezumae" ; Times: 1
+	Query: "excubitor" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;guanajuato&#34;" ; Times: 1
+	Query: "11363" ; Times: 2
+	Query: "melanerpes pygmaeus" ; Times: 3
+	Query: "69162" ; Times: 1
+	Query: "catalognumber:7064" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "H77" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 3
+	Query: "specificepithet:tucanus genus:Ramphastos" ; Times: 1
+	Query: "genus:sternula" ; Times: 1
+	Query: "johannae" ; Times: 3
+	Query: "13900" ; Times: 1
+	Query: "county:&#34;Culberson&#34;" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 1
+	Query: "class:aves stateprovince:&#34;guanacaste&#34; country:&#34;costa rica&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "coeligena violifer" ; Times: 2
+	Query: "Lampornis AND Costa Rica" ; Times: 2
+	Query: "35547" ; Times: 1
+	Query: "genus:Ramphastos" ; Times: 1
+	Query: "pipreola riefferii riefferii" ; Times: 4
+	Query: "Colinus institutioncode:MLZ" ; Times: 1
+	Query: "pyrrhura" ; Times: 1
+	Query: "26582" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Crypturellus obsoletus" ; Times: 2
+	Query: "vntype:specimen genus:Pogoniulus" ; Times: 3
+	Query: "26380" ; Times: 1
+	Query: "doryfera johannae" ; Times: 2
+	Query: "216116" ; Times: 1
+	Query: "atlapetes suttoni" ; Times: 1
+	Query: "11297" ; Times: 1
+	Query: "304579" ; Times: 1
+	Query: "recordedby:Whitney year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Diglossa baritula Honduras" ; Times: 4
+	Query: "geositta cunicularia" ; Times: 11
+	Query: "specificepithet:magnolia genus:setophaga year &gt;= 1800 year &lt;= 1984 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leptodon" ; Times: 1
+	Query: "Megalaima haemacephala" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 2
+	Query: "ara macao" ; Times: 17
+	Query: "specificepithet:crissale genus:Toxostoma" ; Times: 1
+	Query: "vntype:specimen specificepithet:clarkii genus:megascops" ; Times: 1
+	Query: "claravis mondetoura" ; Times: 3
+	Query: "specificepithet:riefferii genus:Pipreola" ; Times: 1
+	Query: "class:aves country:&#34;costa rica&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "aglaeactis" ; Times: 1
+	Query: "bucephala islandica" ; Times: 2
+	Query: "Assam" ; Times: 2
+	Query: "amazilia beryllina" ; Times: 1
+	Query: "institutioncode:mlz mellisuga helenae" ; Times: 1
+	Query: "specificepithet:adansonii genus:coturnix" ; Times: 1
+	Query: "24921" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "genus:sternula county:&#34;orange&#34;" ; Times: 3
+	Query: "24949" ; Times: 1
+	Query: "Myiozetetes cayanensis" ; Times: 2
+	Query: "Sporophila minuta" ; Times: 1
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "15862" ; Times: 2
+	Query: "Xiphorhynchus obsoletus" ; Times: 1
+	Query: "catalognumber:51160" ; Times: 1
+	Query: "10395" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Cyanolyca institutioncode:MLZ" ; Times: 1
+	Query: "genus:Catharus year &gt;= 1898 year &lt;= 1898" ; Times: 1
+	Query: "vntype:specimen specificepithet:cooperi genus:megascops" ; Times: 1
+	Query: "amnh database" ; Times: 1
+	Query: "59754" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "3449" ; Times: 1
+	Query: "Peucaea botterii" ; Times: 1
+	Query: "57648" ; Times: 1
+	Query: "Pitangus sulphuratus" ; Times: 1
+	Query: "27449" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;michoacan&#34;" ; Times: 1
+	Query: "genus:lampornis country:&#34;panama&#34;" ; Times: 3
+	Query: "passerina hybrid" ; Times: 2
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "304519" ; Times: 1
+	Query: "tortuga" ; Times: 1
+	Query: "amazilia lichtensteini" ; Times: 2
+	Query: "specificepithet:ornatus genus:Calcarius stateprovince:&#34;Kansas&#34;" ; Times: 2
+	Query: "30447" ; Times: 1
+	Query: "Leucippus fallax" ; Times: 5
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "39306" ; Times: 1
+	Query: "Picumnus" ; Times: 1
+	Query: "32593" ; Times: 7
+	Query: "oriturus superciliosus stateprovince:&#34;durango&#34;" ; Times: 1
+	Query: "Quechultenango" ; Times: 1
+	Query: "Mellisuga helenae" ; Times: 1
+	Query: "30046" ; Times: 1
+	Query: "catalognumber:16759" ; Times: 1
+	Query: "12116" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "leucippus fallax" ; Times: 2
+	Query: "9635 sclateri" ; Times: 1
+	Query: "218257" ; Times: 1
+	Query: "Pertinax hasmass:1" ; Times: 1
+	Query: "39048" ; Times: 3
+	Query: "class:Aves basisofrecord:PreservedSpecimen hastypestatus:1" ; Times: 2
+	Query: "43649" ; Times: 1
+	Query: "Assam class:Aves" ; Times: 5
+	Query: "32613" ; Times: 2
+	Query: "specificepithet:alba genus:Tyto class:Aves hastissue:1" ; Times: 1
+	Query: "lepidothrix coronata" ; Times: 1
+	Query: "25004" ; Times: 1
+	Query: "Ara severus" ; Times: 1
+	Query: "vntype:specimen basisofrecord:PreservedSpecimen Leucippus fallax" ; Times: 1
+	Query: "41411" ; Times: 1
+	Query: "oriturus superciliosus stateprovince:&#34;hidalgo&#34;" ; Times: 1
+	Query: "country:&#34;Netherlands&#34;" ; Times: 1
+	Query: "specificepithet:Spencei genus:Heliangelus" ; Times: 1
+	Query: "genus:Fulmarus specificepithet:glacialis " ; Times: 2
+	Query: "oriturus superciliosus stateprovince:&#34;méxico&#34;" ; Times: 1
+	Query: "45758 class:Aves" ; Times: 1
+	Query: "lepidothrix coronata coronata" ; Times: 1
+	Query: "vntype:specimen Leucippus fallax" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 2
+	Query: "vntype:specimen specificepithet:guatemalae genus:megascops" ; Times: 1
+	Query: "institutioncode:mlz" ; Times: 1
+	Query: "Trochalopteron" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "13353" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsonii genus:megascops" ; Times: 1
+	Query: "22213" ; Times: 1
+	Query: "13171" ; Times: 1
+	Query: "locality:Cozumel stateprovince:&#34;Quintana Roo&#34; country:&#34;Mexico&#34; (Cozumel) basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Zonotrichia capensis" ; Times: 21
+	Query: "oriturus superciliosus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 1416 download events in this period)
+Total number of records downloaded: 10789
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 1
+	Country: Colombia ; Times: 6
+	Country: Mexico ; Times: 34
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 16
+	Country: Peru ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Bulgaria ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-10 ; Times: 1
+	Date: 2018-08-06 ; Times: 2
+	Date: 2018-08-01 ; Times: 2
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-30 ; Times: 2
+	Date: 2018-08-05 ; Times: 6
+	Date: 2018-08-03 ; Times: 1
+	Date: 2018-08-02 ; Times: 2
+	Date: 2018-08-09 ; Times: 6
+	Date: 2018-08-22 ; Times: 1
+	Date: 2018-08-21 ; Times: 2
+	Date: 2018-08-19 ; Times: 13
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-23 ; Times: 2
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-15 ; Times: 12
+	Date: 2018-08-12 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-29 ; Times: 1
+	Date: 2018-08-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "lepidothrix coronata coronata" ; Times: 1
+	Query: "Leucippus fallax" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "recordedby:Baron" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "zonotrichia capensis" ; Times: 1
+	Query: "Ecuador" ; Times: 1
+	Query: "Cyrtonyx montezumae" ; Times: 1
+	Query: "vntype:specimen specificepithet:clarkii genus:megascops" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Charadrius montanus" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "hassex:1 hasmass:1" ; Times: 2
+	Query: "Eremophila alpestris" ; Times: 1
+	Query: "class:Aves basisofrecord:PreservedSpecimen hastypestatus:1" ; Times: 1
+	Query: "oaxaca" ; Times: 1
+	Query: "Oriturus superciliosus" ; Times: 1
+	Query: "Anthus spragueii" ; Times: 1
+	Query: "Diglossa baritula" ; Times: 1
+	Query: "country:&#34;Peru&#34;" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsonii genus:megascops" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "podicipedidae" ; Times: 1
+	Query: "Corapipo leucorrhoa" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sporophila minuta" ; Times: 1
+	Query: "Leptodon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:guatemalae genus:megascops" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "vntype:specimen specificepithet:cooperi genus:megascops" ; Times: 1
+	Query: "vntype:specimen genus:Oxypogon country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichopsis genus:megascops" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 1
+	Query: "Peucaea botterii" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "Donacobius atricapilla" ; Times: 1
+	Query: "topaza pella" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Ara" ; Times: 2
+	Query: "vntype:specimen specificepithet:seductus genus:megascops" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+	Query: "Zonotrichia capensis" ; Times: 2
+	Query: "oriturus superciliosus" ; Times: 1
+
+
+End of report.
