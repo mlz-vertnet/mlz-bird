@@ -1,0 +1,248 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for October 2018, generated on 2018/11/01
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 212
+Number of records retrieved in searches: 3405
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 8
+	Country: Ireland ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Egypt ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: Mexico ; Times: 18
+	Country: Peru ; Times: 15
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 90
+	Country: Sweden ; Times: 4
+	Country: Chile ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: France ; Times: 4
+	Country: Venezuela ; Times: 1
+	Country: Ecuador ; Times: 59
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-05 ; Times: 4
+	Date: 2018-10-02 ; Times: 24
+	Date: 2018-10-03 ; Times: 14
+	Date: 2018-10-04 ; Times: 11
+	Date: 2018-10-22 ; Times: 1
+	Date: 2018-10-23 ; Times: 11
+	Date: 2018-10-26 ; Times: 3
+	Date: 2018-10-01 ; Times: 5
+	Date: 2018-10-24 ; Times: 3
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-29 ; Times: 2
+	Date: 2018-10-08 ; Times: 1
+	Date: 2018-10-09 ; Times: 9
+	Date: 2018-10-19 ; Times: 39
+	Date: 2018-10-18 ; Times: 8
+	Date: 2018-10-13 ; Times: 3
+	Date: 2018-10-12 ; Times: 17
+	Date: 2018-10-11 ; Times: 6
+	Date: 2018-10-10 ; Times: 20
+	Date: 2018-10-17 ; Times: 9
+	Date: 2018-10-16 ; Times: 7
+	Date: 2018-10-15 ; Times: 9
+	Date: 2018-10-14 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "17713" ; Times: 1
+	Query: "streptoprocne zonaris" ; Times: 1
+	Query: "145612" ; Times: 1
+	Query: "Haplophaedia lugens" ; Times: 1
+	Query: "54116" ; Times: 1
+	Query: "chamaepetes goudotii" ; Times: 1
+	Query: "6006" ; Times: 1
+	Query: "Campylorhynchus zonatus mappable:1" ; Times: 1
+	Query: "Columbina buckleyi" ; Times: 2
+	Query: "Cairina moschata" ; Times: 2
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:acuticaudata genus:aratinga" ; Times: 1
+	Query: "Ridgwayia" ; Times: 1
+	Query: "malaccensis" ; Times: 1
+	Query: "Cyanerpes lucidus" ; Times: 2
+	Query: "class:Aves country:&#34;Peru&#34; recordedby:Baron year &gt;= 1880 year &lt;= 2018" ; Times: 2
+	Query: "Cypseloides niger" ; Times: 2
+	Query: "53793" ; Times: 1
+	Query: "Heliomaster" ; Times: 2
+	Query: "Lophornis immature" ; Times: 1
+	Query: "bird bones" ; Times: 3
+	Query: "bird bones museum" ; Times: 1
+	Query: "Tinamus major" ; Times: 3
+	Query: "MYRMIA MICRURA" ; Times: 23
+	Query: "pulsatrix perspicillata pulsatrix" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Cajamarca&#34; country:&#34;Peru&#34; year &gt;= 1880 year &lt;= 1920" ; Times: 2
+	Query: "Cyanerpes Lucidus" ; Times: 1
+	Query: "tyrannidae country:&#34;Argentina&#34;" ; Times: 1
+	Query: "Crypturellus soui" ; Times: 1
+	Query: "cinclus mexicanus" ; Times: 1
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "locality:alto cantoral country:&#34;honduras&#34;" ; Times: 1
+	Query: "Pipile cumanensis" ; Times: 1
+	Query: "catalognumber:26454" ; Times: 1
+	Query: "setophaga pinus" ; Times: 1
+	Query: "India USNM" ; Times: 1
+	Query: "locality:alto cantoral country:&#34;Honduras&#34;" ; Times: 1
+	Query: "9529" ; Times: 1
+	Query: "specificepithet:maculatus genus:Pipilo hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "Campylorhynchus brunneicapillus mappable:1" ; Times: 3
+	Query: "A-26050" ; Times: 1
+	Query: "campephilus" ; Times: 14
+	Query: "specificepithet:crassirostris genus:Ailuroedus" ; Times: 1
+	Query: "Spizaetus isidori" ; Times: 1
+	Query: "Colinus institutioncode:MLZ" ; Times: 2
+	Query: "specificepithet:magna genus:sturnella country:&#34;Mexico&#34;" ; Times: 1
+	Query: "bombus" ; Times: 1
+	Query: "forpus coelestis" ; Times: 2
+	Query: "Obsoletus Sonora Mexico" ; Times: 1
+	Query: "genus:platalea order:ciconiiformes" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 4
+	Query: "myrmia micrura" ; Times: 17
+	Query: "locality:santa rita county:&#34;pima&#34; stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "24128" ; Times: 2
+	Query: "Buteo regalis mappable:1" ; Times: 1
+	Query: "Mohinora" ; Times: 2
+	Query: "cypseloides OR streptoprocne rutila" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Cajamarca&#34; country:&#34;Peru&#34; year &gt;= 1880 year &lt;= 1970" ; Times: 2
+	Query: "Brotogeris pyrrhoptera" ; Times: 1
+	Query: "Panyptila cayennensis" ; Times: 1
+	Query: "Thamnophilus bernardi" ; Times: 1
+	Query: "32087" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "53280" ; Times: 2
+	Query: "atthis margarethae" ; Times: 1
+	Query: "Cyanerpes nitidus" ; Times: 1
+	Query: "15546" ; Times: 1
+	Query: "Glaucidium sanchezi" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Cajamarca&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "momotus" ; Times: 1
+	Query: "genus:Campephilus" ; Times: 1
+	Query: "23926" ; Times: 1
+	Query: "specificepithet:colubris genus:Archilochus year &gt;= 1900 year &lt;= 1970" ; Times: 1
+	Query: "country:&#34;egypt&#34;" ; Times: 1
+	Query: "52230" ; Times: 1
+	Query: "Alfonso" ; Times: 1
+	Query: "genus:heliornis haslifestage:1" ; Times: 1
+	Query: "Cozumel" ; Times: 1
+	Query: "recordnumber:26454" ; Times: 1
+	Query: "vntype:specimen catalognumber:43620" ; Times: 1
+	Query: "amazilia lichtensteini" ; Times: 1
+	Query: "18237" ; Times: 1
+	Query: "22350" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 2
+	Query: "specificepithet:macroura genus:Dendrortyx" ; Times: 2
+	Query: "(38429)" ; Times: 1
+	Query: "catalognumber:4115" ; Times: 1
+	Query: "Oreomanes fraseri" ; Times: 1
+	Query: "specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 1
+	Query: "Aeronautes saxatalis" ; Times: 1
+	Query: "stateprovince:&#34;san luis potosi&#34; country:&#34;mexico&#34; distance(location,geopoint(21.62604267885305,-99.26934657129232))&lt;71245" ; Times: 1
+	Query: "catalognumber:26827" ; Times: 1
+	Query: "Myiodynastes bairdii" ; Times: 5
+	Query: "Leucophaeus atricilla" ; Times: 3
+	Query: "Heliomaster furcifer" ; Times: 3
+	Query: "ortalis vetula" ; Times: 1
+	Query: "Campephilus" ; Times: 1
+	Query: "myiopsitta" ; Times: 2
+	Query: "genus:zimmerius institutioncode:MLZ" ; Times: 1
+	Query: "elaenia flavogaster" ; Times: 3
+	Query: "deciduous forest" ; Times: 1
+	Query: "furnarius leucopus" ; Times: 1
+	Query: "streptoprocne semicollaris" ; Times: 1
+	Query: "22061" ; Times: 1
+	Query: "Herpsilochmus rufimarginatus" ; Times: 3
+	Query: "Forpus coelestis" ; Times: 4
+	Query: "Vireo nelsoni" ; Times: 1
+	Query: "class:Aves country:&#34;Venezuela&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "Cyanolyca nana" ; Times: 1
+	Query: "specificepithet:flammulata genus:Asthenes" ; Times: 1
+	Query: "grus canadensis" ; Times: 2
+	Query: "Cypseloides niger mexico" ; Times: 1
+	Query: "Chalybura" ; Times: 1
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 1300 download events in this period)
+Total number of records downloaded: 1343
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Honduras ; Times: 1
+	Country: Mexico ; Times: 16
+	Country: Egypt ; Times: 1
+	Country: United States ; Times: 10
+	Country: Belgium ; Times: 2
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-10-04 ; Times: 1
+	Date: 2018-10-05 ; Times: 1
+	Date: 2018-10-20 ; Times: 1
+	Date: 2018-10-21 ; Times: 1
+	Date: 2018-10-01 ; Times: 2
+	Date: 2018-10-02 ; Times: 4
+	Date: 2018-10-25 ; Times: 1
+	Date: 2018-10-17 ; Times: 1
+	Date: 2018-10-23 ; Times: 7
+	Date: 2018-10-09 ; Times: 2
+	Date: 2018-10-19 ; Times: 1
+	Date: 2018-10-18 ; Times: 3
+	Date: 2018-10-30 ; Times: 1
+	Date: 2018-10-12 ; Times: 3
+	Date: 2018-10-31 ; Times: 1
+	Date: 2018-10-24 ; Times: 4
+	Date: 2018-10-16 ; Times: 1
+	Date: 2018-10-15 ; Times: 4
+	Date: 2018-10-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:petechia genus:setophaga" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "county:&#34;Lyon&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "myrmia micrura" ; Times: 1
+	Query: "Megascops asio" ; Times: 1
+	Query: "country:&#34;COLOMBIA&#34;" ; Times: 1
+	Query: "glaucis hirsuta" ; Times: 1
+	Query: "Columbina buckleyi" ; Times: 2
+	Query: "Ridgwayia" ; Times: 4
+	Query: "county:&#34;Mineral&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "county:&#34;Douglas&#34; stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "family:Apodidae" ; Times: 1
+	Query: "Myiodynastes bairdii" ; Times: 4
+	Query: "genus:Parabuteo country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:heliornis" ; Times: 1
+	Query: "Spinus tristis" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Thryophilus sinaloa" ; Times: 1
+	Query: "glaucis hirsutus" ; Times: 1
+	Query: "specificepithet:platyrhynchos genus:Anas" ; Times: 1
+	Query: "country:&#34;colombia&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albonotatus genus:Buteo family:Accipitridae hassex:1" ; Times: 2
+	Query: "specificepithet:livia genus:columba" ; Times: 1
+	Query: "Cyanolyca nana" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "cojedes" ; Times: 1
+	Query: "Empidonax albigularis" ; Times: 1
+	Query: "country:&#34;Venezuela&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;egypt&#34;" ; Times: 1
+	Query: "amazona autumnalis" ; Times: 1
+
+
+End of report.
