@@ -1,0 +1,390 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 350
+Number of records retrieved in searches: 4110
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 102
+	Country: Canada ; Times: 20
+	Country: Northern Mariana Islands ; Times: 2
+	Country: France ; Times: 3
+	Country: Argentina ; Times: 5
+	Country: Ecuador ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Guatemala ; Times: 3
+	Country: Germany ; Times: 6
+	Country: Belgium ; Times: 56
+	Country: Belize ; Times: 1
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: United States ; Times: 101
+	Country: Sweden ; Times: 4
+	Country: French Guiana ; Times: 4
+	Country: Switzerland ; Times: 5
+	Country: Honduras ; Times: 2
+	Country: Mexico ; Times: 22
+	Country: India ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Uganda ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-22 ; Times: 25
+	Date: 2019-04-19 ; Times: 24
+	Date: 2019-04-18 ; Times: 29
+	Date: 2019-04-05 ; Times: 20
+	Date: 2019-04-13 ; Times: 6
+	Date: 2019-04-12 ; Times: 6
+	Date: 2019-04-11 ; Times: 13
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 15
+	Date: 2019-04-16 ; Times: 7
+	Date: 2019-04-15 ; Times: 5
+	Date: 2019-04-14 ; Times: 1
+	Date: 2019-04-30 ; Times: 14
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-02 ; Times: 15
+	Date: 2019-04-03 ; Times: 29
+	Date: 2019-04-06 ; Times: 29
+	Date: 2019-04-04 ; Times: 22
+	Date: 2019-04-23 ; Times: 16
+	Date: 2019-04-20 ; Times: 2
+	Date: 2019-04-07 ; Times: 3
+	Date: 2019-04-26 ; Times: 10
+	Date: 2019-04-01 ; Times: 11
+	Date: 2019-04-24 ; Times: 7
+	Date: 2019-04-25 ; Times: 10
+	Date: 2019-04-28 ; Times: 2
+	Date: 2019-04-29 ; Times: 7
+	Date: 2019-04-08 ; Times: 12
+	Date: 2019-04-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "47737" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 3
+	Query: "class:Aves catalognumber:55141 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:parellina parellina genus:Cyanocompsa year &gt;= 1940 year &lt;= 2018" ; Times: 1
+	Query: "xiphorhynchus fuscus" ; Times: 4
+	Query: "Leptodon cayanensis mappable:1" ; Times: 2
+	Query: "50360" ; Times: 1
+	Query: "Chloroceryle amazona mappable:1" ; Times: 2
+	Query: "Phaethornis bourcieri" ; Times: 4
+	Query: "Cairina moschata  mappable:1" ; Times: 1
+	Query: "class:aves coordinateuncertaintyinmeters&lt;25 stateprovince:nevada" ; Times: 1
+	Query: "class:Aves catalognumber:52573 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:57468 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Antrostomus ridgwayi" ; Times: 1
+	Query: "genus:Dendrortyx" ; Times: 2
+	Query: "foulehaio carunculata" ; Times: 1
+	Query: "specificepithet:fusca genus:malacoptila" ; Times: 1
+	Query: "Aglaiocercus kingi" ; Times: 1
+	Query: "pongo" ; Times: 1
+	Query: "Cairina moschata" ; Times: 3
+	Query: "specificepithet:nana genus:cyanolyca" ; Times: 1
+	Query: "specificepithet:coruscans genus:colibri" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis" ; Times: 1
+	Query: "12171" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "Ara macao" ; Times: 3
+	Query: "Campephilus robustus" ; Times: 2
+	Query: "psittacara" ; Times: 3
+	Query: "scytalopus femoralis" ; Times: 1
+	Query: "genus:Conuropsis stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "AMNH 1820" ; Times: 1
+	Query: "Aramides cajaneus mappable:1" ; Times: 2
+	Query: "Herpetotheres cachinnans mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:3282 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "21264" ; Times: 2
+	Query: "10653" ; Times: 1
+	Query: "class:Aves catalognumber:17760 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fuscicauda genus:Habia year &gt;= 1960" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "Grallaria squamigera" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "Myrmotherula axillaris mappable:1" ; Times: 2
+	Query: "catalognumber:34592 institutioncode:MLZ" ; Times: 1
+	Query: "Patagioenas cayennensis mappable:1" ; Times: 1
+	Query: "class:Aves catalognumber:19632 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:34773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:54163 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:38120 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mlz 26402" ; Times: 4
+	Query: "Pipreola arcuata" ; Times: 1
+	Query: "catalognumber:11230 institutioncode:MLZ" ; Times: 1
+	Query: "Cochlearius cochlearius mappable:1" ; Times: 1
+	Query: "genus:Glaucidium country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "Urubitinga urubitinga" ; Times: 1
+	Query: "class:Aves catalognumber:14880 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:leclancherii genus:Passerina year &gt;= 1960" ; Times: 2
+	Query: "specificepithet:melacoryphus genus:Coccyzus" ; Times: 1
+	Query: "grallaria squamigera" ; Times: 1
+	Query: "Anas georgica" ; Times: 3
+	Query: "class:Aves catalognumber:11923 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 2
+	Query: "class:Aves catalognumber:55154 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 1
+	Query: "Geotrygon montana mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:54159 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Xiphorhynchus fuscus mappable:1" ; Times: 1
+	Query: "catalognumber:54741 institutioncode:MLZ" ; Times: 1
+	Query: "mlz 65301" ; Times: 2
+	Query: "claravis mondetoura chiapas" ; Times: 1
+	Query: "mlz 29342" ; Times: 2
+	Query: "145372" ; Times: 1
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 1
+	Query: "specificepithet:delphinae genus:colibri" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 2
+	Query: "Amazilia lactea basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Myzomela rubratra" ; Times: 2
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "Steatornis" ; Times: 1
+	Query: "specificepithet:multicolor genus:todus" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "class:Aves catalognumber:26201 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:54077 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "49917" ; Times: 2
+	Query: "specificepithet:pertinax genus:aratinga" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "58395" ; Times: 2
+	Query: "35132" ; Times: 1
+	Query: "Sonora fasciata" ; Times: 1
+	Query: "class:Aves catalognumber:55107 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rallus crepitans vntype:specimen hastissue:1" ; Times: 1
+	Query: "catalognumber:67620 institutioncode:MLZ" ; Times: 1
+	Query: "class:Aves catalognumber:4557 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cyanocephala genus:amazilia institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:sanblasianus genus:cyanocorax" ; Times: 1
+	Query: "Conopophaga lineata mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:3286 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "33461" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua" ; Times: 1
+	Query: "Alcippe morrisonia" ; Times: 1
+	Query: "M-14857" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 2
+	Query: "catalognumber:32772 institutioncode:MLZ" ; Times: 1
+	Query: "Anas georgica  mappable:1" ; Times: 1
+	Query: "specificepithet:jardini genus:Boissonneaua" ; Times: 1
+	Query: "class:Aves catalognumber:4731 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:14155 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 2
+	Query: "Cathartes burrovianus" ; Times: 1
+	Query: "mlz 30360" ; Times: 1
+	Query: "class:Aves catalognumber:9325 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:12956 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:10440 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "class:Aves catalognumber:4954 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:35210 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:3813 institutioncode:MLZ" ; Times: 1
+	Query: "Arundinicola leucocephala mappable:1" ; Times: 2
+	Query: "Basileuterus culicivorus mappable:1" ; Times: 2
+	Query: "Chaetocercus heliodor" ; Times: 1
+	Query: "class:Aves catalognumber:7872 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "Manacus manacus mappable:1" ; Times: 2
+	Query: "18900" ; Times: 1
+	Query: "Lochmias nematura mappable:1" ; Times: 2
+	Query: "75298" ; Times: 1
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:50656 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "parkesia" ; Times: 1
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "specificepithet:chrysopeplus genus:Pheucticus" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 2
+	Query: "class:Aves catalognumber:53803 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "23672" ; Times: 2
+	Query: "class:Aves catalognumber:36623 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mlz 46880" ; Times: 1
+	Query: "Aphelocoma unicolor" ; Times: 1
+	Query: "Pachyramphus polychopterus mappable:1" ; Times: 1
+	Query: "specificepithet:fuscicauda genus:Habia sex:male year &gt;= 1960" ; Times: 1
+	Query: "28459" ; Times: 1
+	Query: "Acestrura heliodor" ; Times: 1
+	Query: "mlz 47374" ; Times: 1
+	Query: "Kansas U" ; Times: 1
+	Query: "class:aves (Belize)" ; Times: 1
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "catalognumber:68133 institutioncode:MLZ" ; Times: 1
+	Query: "48825" ; Times: 1
+	Query: "30274" ; Times: 1
+	Query: "vntype:specimen genus:Baeolophus hastissue:1" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "catalognumber:36542 institutioncode:MLZ" ; Times: 1
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "specificepithet:atricilla genus:Leucophaeus" ; Times: 1
+	Query: "class:Aves catalognumber:5476 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:mirabilis genus:cyanolyca" ; Times: 1
+	Query: "harpia harpyja" ; Times: 2
+	Query: "50360 Aves" ; Times: 1
+	Query: "M-5742" ; Times: 1
+	Query: "class:Aves catalognumber:45896 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Atlapetes country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:34775 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mlz 66153" ; Times: 3
+	Query: "class:Aves catalognumber:7773 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:50928 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:31360 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cochlearius cochlearius" ; Times: 2
+	Query: "amazilia fimbriata" ; Times: 4
+	Query: "specificepithet:sinuatus genus:Cardinalis country:&#34;Mexico&#34; year &gt;= 1950 year &lt;= 2018" ; Times: 2
+	Query: "11235" ; Times: 1
+	Query: "terpsiphone incei" ; Times: 4
+	Query: "Henicorhina leucophrys" ; Times: 2
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "catalognumber:5543 institutioncode:MLZ" ; Times: 1
+	Query: "class:Aves catalognumber:53920 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:beecheii genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:sinuatus genus:Cardinalis year &gt;= 1950 year &lt;= 2018" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "class:Aves catalognumber:42861 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:9348 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "claravis chiapas" ; Times: 1
+	Query: "catalognumber:6232 institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "Megascops choliba mappable:1" ; Times: 2
+	Query: "30033" ; Times: 2
+	Query: "class:Aves catalognumber:13379 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mlz 52794" ; Times: 1
+	Query: "class:Aves catalognumber:19639 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "henicorhina decolorata" ; Times: 2
+	Query: "specificepithet:minuta genus:Coccycua" ; Times: 1
+	Query: "Scytalopus unicolor" ; Times: 1
+	Query: "cerro brujo" ; Times: 6
+	Query: "specificepithet:leucomelas genus:Turdus" ; Times: 1
+	Query: "class:Aves catalognumber:53922 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Columba nigrirostris vntype:specimen country:&#34;Panama&#34;" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "specificepithet:concolor concolor genus:Amaurospiza" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "arremon brunneinucha" ; Times: 1
+	Query: "Geothlypis aequinoctialis mappable:1" ; Times: 2
+	Query: "genus:Atlapetes stateprovince:&#34;Oaxaca&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 1
+	Query: "Dacnis cayana mappable:1" ; Times: 2
+	Query: "arremon brunneinucha oaxaca" ; Times: 1
+	Query: "Agriocharis ocellata Mexico" ; Times: 1
+	Query: "specificepithet:hypoglauca genus:andigena" ; Times: 1
+	Query: "Megaceryle torquata mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 8
+	Query: "Agriocharis ocellata" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "10313" ; Times: 2
+	Query: "class:Aves catalognumber:37100 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:3837 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "Cyanopica" ; Times: 1
+	Query: "Campephilus pollens" ; Times: 2
+	Query: "Galbula ruficauda mappable:1" ; Times: 2
+	Query: "class:Aves catalognumber:10738 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:ciris genus:Passerina year &gt;= 1960 institutioncode:MLZ" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "Fluvicola nengeta mappable:1" ; Times: 2
+	Query: "mlz 55753" ; Times: 3
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "class:Aves catalognumber:24109 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Synallaxis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:842 institutioncode:MLZ" ; Times: 1
+	Query: "Setophaga dominica" ; Times: 1
+	Query: "class:Aves catalognumber:37099 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "49924" ; Times: 3
+	Query: "class:Aves catalognumber:33602 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves catalognumber:54132 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "Coccyzus melacoryphus" ; Times: 1
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "Leptotila verreauxi mappable:1" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "Leptopogon amaurocephalus mappable:1" ; Times: 2
+	Query: "Herpsilochmus" ; Times: 1
+	Query: "mlz 47371" ; Times: 1
+	Query: "megascops guatemalae" ; Times: 1
+	Query: "Ramphotrigon" ; Times: 1
+	Query: "53583" ; Times: 1
+	Query: "aratinga nana" ; Times: 1
+	Query: "class:Aves catalognumber:10681 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+	Query: "class:Aves catalognumber:16591 basisofrecord:PreservedSpecimen" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1263 download events in this period)
+Total number of records downloaded: 1222
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 20
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 8
+	Country: Belize ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-23 ; Times: 4
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-11 ; Times: 3
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-22 ; Times: 18
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-25 ; Times: 2
+	Date: 2019-04-28 ; Times: 1
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Saltator striatipectus" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:parellina parellina genus:Cyanocompsa year &gt;= 1940 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:cucullata genus:cyanolyca" ; Times: 1
+	Query: "specificepithet:delphinae genus:colibri" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "pitta" ; Times: 1
+	Query: "specificepithet:multicolor genus:todus" ; Times: 1
+	Query: "specificepithet:nigrirostris genus:andigena" ; Times: 1
+	Query: "genus:collocalia" ; Times: 1
+	Query: "specificepithet:fusca genus:malacoptila" ; Times: 1
+	Query: "specificepithet:pertinax genus:aratinga" ; Times: 1
+	Query: "specificepithet:jardini genus:Boissonneaua" ; Times: 1
+	Query: "specificepithet:nana genus:cyanolyca" ; Times: 1
+	Query: "specificepithet:coruscans genus:colibri" ; Times: 1
+	Query: "vntype:specimen genus:Baeolophus hastissue:1" ; Times: 1
+	Query: "Catharus dryas" ; Times: 1
+	Query: "specificepithet:thalassinus genus:colibri" ; Times: 1
+	Query: "Onychorhynchus coronatus" ; Times: 1
+	Query: "specificepithet:mirabilis genus:cyanolyca" ; Times: 1
+	Query: "Harpia harpyja" ; Times: 1
+	Query: "specificepithet:sanblasianus genus:cyanocorax" ; Times: 1
+	Query: "sphenisciformes" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "specificepithet:hypoglauca genus:andigena" ; Times: 1
+	Query: "amazilia fimbriata" ; Times: 1
+	Query: "class:aves (Belize)" ; Times: 1
+	Query: "hastissue:1" ; Times: 1
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:minuta genus:Coccycua" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua" ; Times: 1
+	Query: "specificepithet:beecheii genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "specificepithet:melacoryphus genus:Coccyzus" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+
+
+End of report.
