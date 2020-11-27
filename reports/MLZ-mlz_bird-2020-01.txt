@@ -1,0 +1,314 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 244
+Number of records retrieved in searches: 3405
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 4
+	Country: Peru ; Times: 27
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: Unknown ; Times: 8
+	Country: Panama ; Times: 2
+	Country: France ; Times: 9
+	Country: United Kingdom ; Times: 9
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Denmark ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 133
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 8
+	Date: 2020-01-09 ; Times: 8
+	Date: 2020-01-03 ; Times: 6
+	Date: 2020-01-02 ; Times: 8
+	Date: 2020-01-01 ; Times: 2
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 3
+	Date: 2020-01-05 ; Times: 1
+	Date: 2020-01-21 ; Times: 12
+	Date: 2020-01-20 ; Times: 12
+	Date: 2020-01-23 ; Times: 10
+	Date: 2020-01-08 ; Times: 9
+	Date: 2020-01-25 ; Times: 1
+	Date: 2020-01-24 ; Times: 17
+	Date: 2020-01-27 ; Times: 8
+	Date: 2020-01-26 ; Times: 5
+	Date: 2020-01-29 ; Times: 7
+	Date: 2020-01-28 ; Times: 26
+	Date: 2020-01-18 ; Times: 3
+	Date: 2020-01-19 ; Times: 9
+	Date: 2020-01-14 ; Times: 33
+	Date: 2020-01-15 ; Times: 4
+	Date: 2020-01-30 ; Times: 14
+	Date: 2020-01-17 ; Times: 8
+	Date: 2020-01-10 ; Times: 8
+	Date: 2020-01-11 ; Times: 2
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 6
+	Date: 2020-01-31 ; Times: 3
+	Date: 2020-01-16 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "25179" ; Times: 1
+	Query: "specificepithet:cooperii genus:accipiter preparations:skin year &gt;= 1980 institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius" ; Times: 1
+	Query: "class:Aves stateprovince:Nevada" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "13731" ; Times: 1
+	Query: "Pomatorhinus vntype:specimen" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 7
+	Query: "Myiarchus nuttingi skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "specificepithet:platycercus genus:selasphorus country:&#34;guatemala&#34;" ; Times: 1
+	Query: "piculus rubiginosus" ; Times: 1
+	Query: "setophaga fusca" ; Times: 1
+	Query: "Dryocopus lineatus" ; Times: 2
+	Query: "cotinga" ; Times: 1
+	Query: "m-36276" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "catalognumber:11263" ; Times: 1
+	Query: "picoides arizonae" ; Times: 1
+	Query: "catalognumber:24995" ; Times: 1
+	Query: "stateprovince:&#34;a&#34;" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Vincent" ; Times: 2
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "domesticus Passer" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "recordnumber:24995" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "opisthocomus" ; Times: 2
+	Query: "Grallaria hypoleuca" ; Times: 8
+	Query: "35114" ; Times: 2
+	Query: "haematotis" ; Times: 1
+	Query: "423504" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "specificepithet:crepitans genus:Rallus month &gt;= 5 month &lt;= 9 hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Allen" ; Times: 1
+	Query: "Cassiculus melanicterus" ; Times: 1
+	Query: "genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Boulton" ; Times: 1
+	Query: "12356" ; Times: 1
+	Query: "Geositta cunicularia" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "class:Aves country:India" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Icterus prosthemelas vntype:specimen country:&#34;Mexico&#34;" ; Times: 1
+	Query: "aphelocoma woodhouseii year &gt;= 1980 year &lt;= 2020" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;New Mexico&#34; hastissue:1" ; Times: 1
+	Query: "skin-66297" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "rosenbergi" ; Times: 1
+	Query: "Henicorhina" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 4
+	Query: "13990" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "philydor rufum" ; Times: 1
+	Query: "brotogeris" ; Times: 1
+	Query: "18975" ; Times: 2
+	Query: "Opisthoprora" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "Psittacara wagleri" ; Times: 7
+	Query: "15-2654" ; Times: 1
+	Query: "Patagona gigas" ; Times: 3
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:aves county:&#34;cochise&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "786938" ; Times: 1
+	Query: "Myiarchus crinitus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "class:Aves county:&#34;Clark County&#34; stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "toxostoma dumosum" ; Times: 1
+	Query: "Passerina rositae 20 May" ; Times: 1
+	Query: "Myiarchus tyrannulus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "specificepithet:rosenbergi class:aves country:&#34;ecuador&#34;" ; Times: 1
+	Query: "Accipiter hastypestatus:1" ; Times: 2
+	Query: "Myiarchus tuberculifer skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Sinosuthora webbiana" ; Times: 1
+	Query: "Tyrannus melancholicus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "piaya cayana" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Good" ; Times: 1
+	Query: "Aegolius ridgwayi" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "specificepithet:crepitans genus:Rallus hastissue:1" ; Times: 1
+	Query: "Tyrannus crassirostris skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "27833 aves" ; Times: 1
+	Query: "54986" ; Times: 2
+	Query: "459840" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "Chaetocercus bombus" ; Times: 5
+	Query: "Porphyrio martinicus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Sao Paulo&#34; country:&#34;Brazil&#34; institutioncode:MLZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "grallaria guatemalensis hastissue:0 country:Mexico" ; Times: 1
+	Query: "Phylloscopus vntype:specimen" ; Times: 1
+	Query: "catalognumber:35575" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordnumber:2303 institutioncode:MLZ" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "specificepithet:varia genus:strix country:&#34;mexico&#34;" ; Times: 1
+	Query: "brotogeris pyrrhoptera" ; Times: 2
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "accipiter bicolor" ; Times: 1
+	Query: "Selasphorus torridus" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "Hylocharis leucotis" ; Times: 7
+	Query: "foulehaio" ; Times: 1
+	Query: "Accipiter striatus" ; Times: 1
+	Query: "Porphyrula martinica" ; Times: 3
+	Query: "33744" ; Times: 1
+	Query: "aves empidonax affinis skel OR skeleton country:Mexico" ; Times: 1
+	Query: "laniarius" ; Times: 1
+	Query: "Eulampis jugularis" ; Times: 7
+	Query: "Pipra erythrocephala" ; Times: 1
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "Anthony AND Isla Guadalupe" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 3
+	Query: "locality:maldonado " ; Times: 1
+	Query: "john semple canada" ; Times: 4
+	Query: "stateprovince:Guayas " ; Times: 2
+	Query: "eulampis jugularis" ; Times: 3
+	Query: "vntype:specimen locality:Annai" ; Times: 2
+	Query: "54378" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "Thryomanes AND Guadalupe" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:psarocolius" ; Times: 2
+	Query: "genus:Tangara institutioncode:MLZ" ; Times: 1
+	Query: "Cistothorus palustris jalisco" ; Times: 1
+	Query: "41874" ; Times: 1
+	Query: "dulus" ; Times: 1
+	Query: "12353" ; Times: 1
+	Query: "Cuenca" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "genus:colinus institutioncode:MLZ" ; Times: 2
+	Query: "scientificname:Andigena hypoglauca " ; Times: 1
+	Query: "Xiphocolaptes promeropirhynchus" ; Times: 1
+	Query: "239275" ; Times: 1
+	Query: "Stigmatura napensis" ; Times: 2
+	Query: "habia rubica" ; Times: 2
+	Query: "family:tityridae class:aves" ; Times: 1
+	Query: "aves catharus occidentalis skel OR skeleton country:Mexico" ; Times: 1
+	Query: "Guadalupe AND Thryomanes" ; Times: 1
+	Query: "Polioptila caerulea vntype:specimen stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "34814" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:cacicus country:&#34;ecuador&#34;" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "Tyrannus savana skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "locality:Rio Blanco " ; Times: 1
+	Query: "Polioptila nigriceps vntype:specimen" ; Times: 2
+	Query: "39597" ; Times: 2
+	Query: "specificepithet:formicivorus genus:Melanerpes class:Aves country:&#34;Honduras&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Roberts" ; Times: 1
+	Query: "Dulus dominicus" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Forbes-Watson" ; Times: 1
+	Query: "class:aves catalognumber:11263" ; Times: 1
+	Query: "claravis" ; Times: 1
+	Query: "holochlorus" ; Times: 1
+	Query: "sclerurus caudacutus" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 1584 download events in this period)
+Total number of records downloaded: 137830
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: France ; Times: 6
+	Country: United States ; Times: 32
+	Country: United Kingdom ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 16
+	Date: 2020-01-08 ; Times: 4
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 5
+	Date: 2020-01-20 ; Times: 5
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-17 ; Times: 1
+	Date: 2020-01-25 ; Times: 3
+	Date: 2020-01-24 ; Times: 7
+	Date: 2020-01-27 ; Times: 2
+	Date: 2020-01-26 ; Times: 1
+	Date: 2020-01-22 ; Times: 2
+	Date: 2020-01-31 ; Times: 1
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-30 ; Times: 2
+	Date: 2020-01-19 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "Opisthoprora" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 2
+	Query: "eulampis jugularis" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Iguana iguana" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Vincent" ; Times: 1
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "genus:Tangara institutioncode:MLZ" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:aves county:&#34;cochise&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "brotogeris pyrrhoptera" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Good" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Roberts" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Allen" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 2
+	Query: "Strix varia" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Boulton" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Nevada&#34; hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Forbes-Watson" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 2
+	Query: "class:Aves country:India" ; Times: 1
+	Query: "vntype:specimen country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+
+
+End of report.
