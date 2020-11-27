@@ -1,0 +1,382 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 383
+Number of records retrieved in searches: 5850
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: United States ; Times: 172
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Colombia ; Times: 134
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 14
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Peru ; Times: 7
+	Country: Kenya ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 1
+	Date: 2019-12-27 ; Times: 7
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-21 ; Times: 4
+	Date: 2019-12-20 ; Times: 3
+	Date: 2019-12-23 ; Times: 3
+	Date: 2019-12-22 ; Times: 14
+	Date: 2019-12-29 ; Times: 2
+	Date: 2019-12-28 ; Times: 4
+	Date: 2019-12-18 ; Times: 21
+	Date: 2019-12-19 ; Times: 12
+	Date: 2019-12-10 ; Times: 5
+	Date: 2019-12-11 ; Times: 14
+	Date: 2019-12-12 ; Times: 14
+	Date: 2019-12-13 ; Times: 23
+	Date: 2019-12-16 ; Times: 6
+	Date: 2019-12-17 ; Times: 14
+	Date: 2019-12-30 ; Times: 2
+	Date: 2019-12-31 ; Times: 1
+	Date: 2019-12-09 ; Times: 18
+	Date: 2019-12-08 ; Times: 4
+	Date: 2019-12-07 ; Times: 4
+	Date: 2019-12-06 ; Times: 14
+	Date: 2019-12-05 ; Times: 14
+	Date: 2019-12-04 ; Times: 143
+	Date: 2019-12-03 ; Times: 12
+	Date: 2019-12-02 ; Times: 20
+	Date: 2019-12-01 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "specificepithet:rufobrunneus genus:Thripadectes mappable:1" ; Times: 1
+	Query: "Opisthoprora" ; Times: 1
+	Query: "specificepithet:canigularis genus:Chlorospingus mappable:1" ; Times: 1
+	Query: "Revillagigedo (socorro) institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:arcuata genus:Pipreola mappable:1" ; Times: 1
+	Query: "specificepithet:ruficaudata genus:Anabacerthia mappable:1" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "specificepithet:andicola genus:Leptasthenura mappable:1" ; Times: 1
+	Query: "class:Aves locality:San Jose Nuevo country:&#34;Ecuador&#34;" ; Times: 6
+	Query: "family:troglodytidae (2382)" ; Times: 1
+	Query: "specificepithet:variegaticeps genus:Anabacerthia mappable:1" ; Times: 1
+	Query: "specificepithet:obsoletus genus:crypturellus family:tinamidae order:tinamiformes class:aves" ; Times: 1
+	Query: "specificepithet:femoralis genus:Scytalopus mappable:1" ; Times: 1
+	Query: "specificepithet:auriceps genus:Pharomachrus mappable:1" ; Times: 1
+	Query: "specificepithet:striaticollis genus:Anabacerthia mappable:1" ; Times: 1
+	Query: "specificepithet:lachrymosus genus:Basileuterus mappable:1" ; Times: 1
+	Query: "specificepithet:platyrostris genus:Dendrocolaptes mappable:1" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:San Jose country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:jardini genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "specificepithet:vestita genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Chrysococcyx+cupreus" ; Times: 1
+	Query: "Opisthoprora vntype:specimen sex:female" ; Times: 2
+	Query: "Augastes scutatus" ; Times: 3
+	Query: "specificepithet:mocinno genus:Pharomachrus mappable:1" ; Times: 1
+	Query: "pleurostictus vntype:specimen institutioncode:MLZ" ; Times: 2
+	Query: "specificepithet:sittoides genus:Diglossa mappable:1" ; Times: 1
+	Query: "55764" ; Times: 1
+	Query: "Buteo platypterus mexico" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "specificepithet:flavigularis genus:Chlorospingus mappable:1" ; Times: 1
+	Query: "specificepithet:flammulata genus:Asthenes mappable:1" ; Times: 1
+	Query: "specificepithet:luciani genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "testis county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 1
+	Query: "Sterna paradisaea country:&#34;mexico&#34;" ; Times: 3
+	Query: "18569" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Ecuador&#34; (Carlos Olalla)" ; Times: 6
+	Query: "specificepithet:williami genus:Metallura mappable:1" ; Times: 1
+	Query: "Eutoxeres" ; Times: 1
+	Query: "204230" ; Times: 1
+	Query: "specificepithet:nigrivestis genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "58319" ; Times: 1
+	Query: "specificepithet:leucopus genus:Furnarius mappable:1" ; Times: 1
+	Query: "Cinnyris coccinigastrus" ; Times: 3
+	Query: "marsh dulzura california" ; Times: 2
+	Query: "specificepithet:naevioides genus:Hylophylax mappable:1" ; Times: 1
+	Query: "specificepithet:melanorhynchus genus:Thripadectes mappable:1" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+	Query: "241196" ; Times: 1
+	Query: "patagona gigas" ; Times: 3
+	Query: "amazona xantholora vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "(Antarctica)" ; Times: 1
+	Query: "specificepithet:calliparaea genus:Chlorochrysa mappable:1" ; Times: 1
+	Query: "Cynanthus sordidus sex:female preparations:skin" ; Times: 1
+	Query: "specificepithet:fulvicauda genus:Myiothlypis mappable:1" ; Times: 1
+	Query: "specificepithet:calopterus genus:Aramides mappable:1" ; Times: 1
+	Query: "metallura phoebe" ; Times: 1
+	Query: "specificepithet:semifuscus genus:Chlorospingus mappable:1" ; Times: 1
+	Query: "Morococcyx erythropygus" ; Times: 2
+	Query: "specificepithet:baritula genus:Diglossa mappable:1" ; Times: 1
+	Query: "specificepithet:americana genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "Thryothorus ludovicianus vntype:specimen stateprovince:&#34;San Luis Potosi&#34;" ; Times: 2
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "Ramphomicron sex:female preparations:skin" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "specificepithet:parulus genus:Anairetes mappable:1" ; Times: 1
+	Query: "Androdon vntype:specimen" ; Times: 8
+	Query: "specificepithet:homochroa genus:Catamenia mappable:1" ; Times: 1
+	Query: "specificepithet:helianthea genus:Coeligena mappable:1" ; Times: 1
+	Query: "Lophostrix cristata" ; Times: 1
+	Query: "vntype:specimen specificepithet:columbiana genus:Nucifraga basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "specificepithet:iris genus:Coeligena mappable:1" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "specificepithet:flavescens genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "specificepithet:lafresnayii genus:Diglossa mappable:1" ; Times: 1
+	Query: "Aechmophorus clarkii country:&#34;mexico&#34;" ; Times: 1
+	Query: "11200." ; Times: 1
+	Query: "52713" ; Times: 1
+	Query: "specificepithet:notabilis genus:Anisognathus mappable:1" ; Times: 2
+	Query: "specificepithet:phalerata genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:unicolor genus:Scytalopus mappable:1" ; Times: 1
+	Query: "specificepithet:flavirostris genus:Anairetes mappable:1" ; Times: 1
+	Query: "Stercorarius pomarinus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Pionopsitta pyrilia" ; Times: 1
+	Query: "specificepithet:aenea genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "specificepithet:somptuosus genus:Anisognathus mappable:1" ; Times: 2
+	Query: "specificepithet:aline genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "specificepithet:aliciae genus:Aglaeactis mappable:1" ; Times: 1
+	Query: "241937" ; Times: 1
+	Query: "ovary bombycilla" ; Times: 1
+	Query: "specificepithet:kingii genus:Aglaiocercus mappable:1" ; Times: 1
+	Query: "specificepithet:lichtensteini genus:Anabacerthia mappable:1" ; Times: 1
+	Query: "specificepithet:albilatera genus:Diglossa mappable:1" ; Times: 1
+	Query: "specificepithet:holostictus genus:Thripadectes mappable:1" ; Times: 1
+	Query: "specificepithet:melanicterus genus:Cassiculus" ; Times: 1
+	Query: "specificepithet:riefferii genus:Pipreola mappable:1" ; Times: 1
+	Query: "Eulampis jugularis vntype:specimen sex:female" ; Times: 1
+	Query: "specificepithet:violifer genus:Coeligena mappable:1" ; Times: 1
+	Query: "schiffornis veraepacis" ; Times: 1
+	Query: "specificepithet:chlorolepidota genus:Pipreola mappable:1" ; Times: 1
+	Query: "specificepithet:flammulatus genus:Thripadectes mappable:1" ; Times: 1
+	Query: "specificepithet:aureopectus genus:Pipreola mappable:1" ; Times: 1
+	Query: "specificepithet:bambla genus:microcerculus" ; Times: 1
+	Query: "Hylorchilus vntype:specimen" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Huey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:surinamensis genus:Myrmotherula mappable:1" ; Times: 1
+	Query: "Leptasthenura andicola" ; Times: 1
+	Query: "specificepithet:coelestis genus:Aglaiocercus mappable:1" ; Times: 1
+	Query: "specificepithet:myotherinus genus:Myrmoborus mappable:1" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "233094" ; Times: 1
+	Query: "233097" ; Times: 1
+	Query: "county:&#34;Middlesex&#34; stateprovince:&#34;New Jersey&#34;" ; Times: 3
+	Query: "specificepithet:laminirostris genus:Andigena mappable:1" ; Times: 1
+	Query: "specificepithet:subflava genus:Inezia mappable:1" ; Times: 1
+	Query: "specificepithet:clangula genus:bucephala country:&#34;mexico&#34;" ; Times: 2
+	Query: "specificepithet:melanocephalus genus:Myioborus mappable:1" ; Times: 1
+	Query: "specificepithet:luteoviridis genus:Myiothlypis mappable:1" ; Times: 1
+	Query: "genus:Ramphastos" ; Times: 1
+	Query: "specificepithet:wetmorei genus:Buthraupis mappable:1" ; Times: 2
+	Query: "specificepithet:analis genus:Catamenia mappable:1" ; Times: 1
+	Query: "specificepithet:antisianus genus:Pharomachrus mappable:1" ; Times: 1
+	Query: "Pyrilia pyrilia" ; Times: 1
+	Query: "specificepithet:ardesiacus genus:Thamnomanes mappable:1" ; Times: 1
+	Query: "coeligena iris" ; Times: 5
+	Query: "specificepithet:rutilans genus:Xenops mappable:1" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "Streptoprocne zonaris" ; Times: 1
+	Query: "specificepithet:ignota genus:Myrmotherula mappable:1" ; Times: 1
+	Query: "specificepithet:belli genus:Basileuterus mappable:1" ; Times: 1
+	Query: "specificepithet:ignobilis genus:Thripadectes mappable:1" ; Times: 1
+	Query: "specificepithet:lacrymosus genus:Anisognathus mappable:1" ; Times: 2
+	Query: "Crypturellus obsoletus" ; Times: 3
+	Query: "205 specificepithet:aedon genus:troglodytes" ; Times: 2
+	Query: "vntype:specimen genus:caracara family:falconidae preparations:skeleton" ; Times: 1
+	Query: "specificepithet:platycercus genus:selasphorus" ; Times: 2
+	Query: "specificepithet:peregrinus class:aves year &gt;= 1929 year &lt;= 1929" ; Times: 1
+	Query: "Heliangelus amethysticollis" ; Times: 2
+	Query: "specificepithet:leucophrys genus:Myrmoborus mappable:1" ; Times: 1
+	Query: "specificepithet:edwardsi genus:Bangsia mappable:1" ; Times: 1
+	Query: "specificepithet:flavopectus genus:Chlorospingus mappable:1" ; Times: 1
+	Query: "240636" ; Times: 1
+	Query: "class:Aves locality:San Jose country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:cajaneus genus:Aramides mappable:1" ; Times: 1
+	Query: "trochilidae spread wing" ; Times: 1
+	Query: "specificepithet:pamela genus:Aglaeactis mappable:1" ; Times: 1
+	Query: "specificepithet:aureliae genus:Haplophaedia mappable:1" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "Chaetocercus jourdanii" ; Times: 3
+	Query: "vntype:specimen specificepithet:autumnalis genus:amazona" ; Times: 1
+	Query: "specificepithet:latebricola genus:Scytalopus mappable:1" ; Times: 1
+	Query: "opisthoprora vntype:specimen sex:female" ; Times: 2
+	Query: "17045" ; Times: 1
+	Query: "54011" ; Times: 1
+	Query: "Vermivora cyanoptera" ; Times: 2
+	Query: "specificepithet:fumigatus genus:Myiotheretes mappable:1" ; Times: 1
+	Query: "Sarcoramphus papa" ; Times: 1
+	Query: "specificepithet:albicollis genus:Xiphocolaptes mappable:1" ; Times: 1
+	Query: "Cyanophaia bicolor" ; Times: 5
+	Query: "specificepithet:californica genus:callipepla stateprovince:&#34;California&#34; institutioncode:MLZ" ; Times: 1
+	Query: "11270." ; Times: 1
+	Query: "san juan del rio" ; Times: 1
+	Query: "specificepithet:albifacies genus:Zentrygon mappable:1" ; Times: 1
+	Query: "specificepithet:bonapartei genus:Coeligena mappable:1" ; Times: 1
+	Query: "205 genus:troglodytes" ; Times: 1
+	Query: "specificepithet:brasilianum genus:Glaucidium class:Aves stateprovince:&#34;Arizona&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:caesius genus:Thamnomanes mappable:1" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "amazona xantholora" ; Times: 1
+	Query: "59361" ; Times: 1
+	Query: "(socorro) institutioncode:MLZ" ; Times: 2
+	Query: "50129" ; Times: 2
+	Query: "13208" ; Times: 1
+	Query: "specificepithet:certhia genus:Dendrocolaptes mappable:1" ; Times: 1
+	Query: "242524" ; Times: 1
+	Query: "vntype:specimen family:ACCIPITRIDAE country:&#34;PERU&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:squamiger genus:Margarornis mappable:1" ; Times: 1
+	Query: "genus:diglossa (ethanol OR alcohol OR etoh OR alc)" ; Times: 4
+	Query: "specificepithet:phoebe genus:Metallura mappable:1" ; Times: 1
+	Query: "specificepithet:rufivertex genus:Iridosornis mappable:1" ; Times: 1
+	Query: "Ramphomicron sex:female" ; Times: 1
+	Query: "Accipiter bicolor" ; Times: 1
+	Query: "chroicocephalus philadelphia" ; Times: 1
+	Query: "genus:nothoprocta family:tinamidae order:tinamiformes class:aves" ; Times: 1
+	Query: "specificepithet:wilsoni genus:Coeligena mappable:1" ; Times: 1
+	Query: "San Jose Nuevo" ; Times: 1
+	Query: "56609" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "terpsiphone incei" ; Times: 3
+	Query: "specificepithet:nigricans genus:Cercomacra mappable:1" ; Times: 1
+	Query: "specificepithet:minutus genus:Xenops mappable:1" ; Times: 1
+	Query: "Polioptila californica" ; Times: 3
+	Query: "23783" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 2
+	Query: "specificepithet:picumnus genus:Dendrocolaptes mappable:1" ; Times: 1
+	Query: "pleurostictus vntype:specimen catalognumber:37701 institutioncode:MLZ" ; Times: 1
+	Query: "Opisthoprora vntype:specimen" ; Times: 3
+	Query: "specificepithet:torquata genus:Coeligena mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:xantholora genus:amazona" ; Times: 1
+	Query: "13110" ; Times: 1
+	Query: "cinclus mexicanus" ; Times: 1
+	Query: "78659" ; Times: 1
+	Query: "ovary zonotrichia" ; Times: 2
+	Query: "Eulampis vntype:specimen sex:female preparations:skin" ; Times: 1
+	Query: "specificepithet:setaria genus:Leptasthenura mappable:1" ; Times: 1
+	Query: "specificepithet:mosquera genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "Hylorchilus" ; Times: 1
+	Query: "specificepithet:fuliginosa genus:Asthenes mappable:1" ; Times: 1
+	Query: "Tauraco+hartlaubi" ; Times: 1
+	Query: "specificepithet:tyrianthina genus:Metallura mappable:1" ; Times: 1
+	Query: "58113" ; Times: 1
+	Query: "specificepithet:columbiana genus:Nucifraga basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:fraseri genus:Myiothlypis mappable:1" ; Times: 1
+	Query: "specificepithet:coeligena genus:Coeligena mappable:1" ; Times: 1
+	Query: "specificepithet:promeropirhynchus genus:Xiphocolaptes mappable:1" ; Times: 1
+	Query: "Eulampis vntype:specimen sex:female" ; Times: 1
+	Query: "orizaba" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "specificepithet:lutetiae genus:Coeligena mappable:1" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 8
+	Query: "specificepithet:riefferii genus:Chlorornis mappable:1" ; Times: 2
+	Query: "specificepithet:miniatus genus:Myioborus mappable:1" ; Times: 1
+	Query: "eulampis" ; Times: 1
+	Query: "specificepithet:inda genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "14153" ; Times: 1
+	Query: "specificepithet:tristriatus genus:Basileuterus mappable:1" ; Times: 1
+	Query: "specificepithet:pictus genus:Myioborus mappable:1" ; Times: 1
+	Query: "Numida+meleagris" ; Times: 1
+	Query: "specificepithet:melanosticta genus:Rhegmatorhina mappable:1" ; Times: 1
+	Query: "specificepithet:rufifrons genus:Basileuterus mappable:1" ; Times: 1
+	Query: "Psittacara wagleri" ; Times: 3
+	Query: "specificepithet:leucoptera genus:Pyriglena mappable:1" ; Times: 1
+	Query: "androdon vntype:specimen sex:female" ; Times: 1
+	Query: "ovary sitta" ; Times: 1
+	Query: "cinclus mexicanus year &gt;= 1950 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:cupreoventris genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "specificepithet:matthewsii genus:Boissonneaua mappable:1" ; Times: 1
+	Query: "specificepithet:striaticollis genus:Myiotheretes mappable:1" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 15
+	Query: "68443" ; Times: 1
+	Query: "specificepithet:inornata genus:Catamenia mappable:1" ; Times: 1
+	Query: "specificepithet:amazona genus:Chloroceryle mappable:1" ; Times: 1
+	Query: "20195" ; Times: 1
+	Query: "14865" ; Times: 1
+	Query: "specificepithet:pileatus genus:Chlorospingus mappable:1" ; Times: 1
+	Query: "Wetmorethraupis sterrhopteron" ; Times: 1
+	Query: "specificepithet:chrysogaster genus:Myiothlypis mappable:1" ; Times: 1
+	Query: "33534" ; Times: 1
+	Query: "Buteo jamaicensis 1937" ; Times: 1
+	Query: "specificepithet:phoenicotis genus:Chlorochrysa mappable:1" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "Cynanthus sordidus sex:female" ; Times: 2
+	Query: "Androdon vntype:specimen sex:female" ; Times: 1
+	Query: "Cassiculus melanicterus" ; Times: 1
+	Query: "specificepithet:saturninus genus:Thamnomanes mappable:1" ; Times: 1
+	Query: "specificepithet:sanctithomae genus:Dendrocolaptes mappable:1" ; Times: 1
+	Query: "Ramphomicron microrhynchum sex:female" ; Times: 2
+	Query: "Vireo nelsoni" ; Times: 1
+	Query: "ara macao" ; Times: 1
+	Query: "specificepithet:derbyi genus:Eriocnemis mappable:1" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 7
+	Query: "specificepithet:cupripennis genus:Aglaeactis mappable:1" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "specificepithet:eximia genus:Cnemathraupis mappable:1" ; Times: 2
+	Query: "papallacta" ; Times: 1
+	Query: "specificepithet:igniventris genus:Anisognathus mappable:1" ; Times: 2
+	Query: "specificepithet:axillaris genus:Aramides mappable:1" ; Times: 1
+	Query: "specificepithet:pavoninus genus:Pharomachrus mappable:1" ; Times: 1
+	Query: "specificepithet:cyanea genus:Diglossa mappable:1" ; Times: 1
+	Query: "specificepithet:carbonaria genus:Diglossa mappable:1" ; Times: 1
+	Query: "Antarctica" ; Times: 1
+	Query: "specificepithet:hypoglauca genus:Andigena mappable:1" ; Times: 1
+	Query: "specificepithet:arcaei genus:Bangsia mappable:1" ; Times: 1
+	Query: "Bangsia edwardsi" ; Times: 1
+	Query: "anhima cornuta" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 17 (out of 596 download events in this period)
+Total number of records downloaded: 5389
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 1
+	Country: United States ; Times: 11
+	Country: Colombia ; Times: 1
+	Country: Hong Kong ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-21 ; Times: 1
+	Date: 2019-12-18 ; Times: 1
+	Date: 2019-12-06 ; Times: 1
+	Date: 2019-12-09 ; Times: 2
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-11 ; Times: 1
+	Date: 2019-12-13 ; Times: 1
+	Date: 2019-12-03 ; Times: 3
+	Date: 2019-12-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vntype:specimen class:Aves locality:San Jose country:&#34;Ecuador&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Ecuador&#34; (Carlos Olalla)" ; Times: 1
+	Query: "Bangsia edwardsi" ; Times: 1
+	Query: "specificepithet:thyroideus genus:Sphyrapicus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Setophaga tigrina" ; Times: 1
+	Query: "strix occidentalis" ; Times: 1
+	Query: "country:&#34;Mexico&#34; recordedby:Huey basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves locality:San Jose Nuevo country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "geothlypis speciosa" ; Times: 1
+	Query: "vntype:specimen genus:caracara family:falconidae preparations:skeleton" ; Times: 1
+	Query: "class:Aves locality:San Jose country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:amazona family:Psittacidae order:Psittaciformes" ; Times: 1
+	Query: "patagona gigas" ; Times: 1
+	Query: "spinus tristis tristis" ; Times: 1
+	Query: "malacoptila fusca" ; Times: 1
+	Query: "sitta pusilla vntype:specimen" ; Times: 1
+
+
+End of report.
