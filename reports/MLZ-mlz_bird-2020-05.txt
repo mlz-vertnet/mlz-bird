@@ -1,0 +1,477 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 400
+Number of records retrieved in searches: 8922
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 5
+	Country: Brazil ; Times: 16
+	Country: Ireland ; Times: 13
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Mexico ; Times: 49
+	Country: Unknown ; Times: 5
+	Country: Panama ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 279
+	Country: Paraguay ; Times: 2
+	Country: Spain ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 12
+	Country: Iraq ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 6
+	Date: 2020-05-24 ; Times: 5
+	Date: 2020-05-27 ; Times: 8
+	Date: 2020-05-26 ; Times: 11
+	Date: 2020-05-21 ; Times: 4
+	Date: 2020-05-20 ; Times: 3
+	Date: 2020-05-22 ; Times: 16
+	Date: 2020-05-29 ; Times: 1
+	Date: 2020-05-28 ; Times: 3
+	Date: 2020-05-18 ; Times: 5
+	Date: 2020-05-19 ; Times: 6
+	Date: 2020-05-10 ; Times: 11
+	Date: 2020-05-11 ; Times: 9
+	Date: 2020-05-12 ; Times: 2
+	Date: 2020-05-13 ; Times: 5
+	Date: 2020-05-14 ; Times: 3
+	Date: 2020-05-15 ; Times: 18
+	Date: 2020-05-16 ; Times: 9
+	Date: 2020-05-17 ; Times: 28
+	Date: 2020-05-30 ; Times: 4
+	Date: 2020-05-31 ; Times: 7
+	Date: 2020-05-09 ; Times: 2
+	Date: 2020-05-08 ; Times: 7
+	Date: 2020-05-07 ; Times: 93
+	Date: 2020-05-06 ; Times: 17
+	Date: 2020-05-04 ; Times: 15
+	Date: 2020-05-03 ; Times: 5
+	Date: 2020-05-02 ; Times: 4
+	Date: 2020-05-01 ; Times: 93
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Doryfera country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:brachyrhynchos genus:Corvus institutioncode:MLZ" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "vntype:specimen specificepithet:nudigenis genus:Turdus institutioncode:MLZ" ; Times: 1
+	Query: "65493" ; Times: 1
+	Query: "vntype:specimen specificepithet:tapera genus:Progne institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaveola genus:Sicalis institutioncode:MLZ" ; Times: 1
+	Query: "66672" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinus genus:Spinus institutioncode:MLZ" ; Times: 1
+	Query: "manacus manacus" ; Times: 2
+	Query: "16881" ; Times: 1
+	Query: "vntype:specimen specificepithet:ludovicianus genus:Thryothorus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:similis genus:Myiozetetes institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:diazi genus:Anas sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:carduelis genus:Carduelis institutioncode:MLZ" ; Times: 1
+	Query: "344734" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:immature sex:male" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaveola genus:Coereba institutioncode:MLZ" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 2
+	Query: "specificepithet:spinosa genus:Jacana lifestage:immature sex:male" ; Times: 1
+	Query: "recordnumber:26196" ; Times: 2
+	Query: "vntype:specimen specificepithet:capensis genus:Zonotrichia institutioncode:MLZ" ; Times: 1
+	Query: "Mecocerculus leucophrys" ; Times: 3
+	Query: "Eulampis holosericeus" ; Times: 2
+	Query: "specificepithet:plumbeus genus:Vireo stateprovince:&#34;Aguascalientes&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus institutioncode:MLZ" ; Times: 1
+	Query: "September 29 Catharus" ; Times: 1
+	Query: "631619" ; Times: 1
+	Query: "vntype:specimen specificepithet:curvirostra genus:Loxia institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus sex:female" ; Times: 1
+	Query: "specificepithet:Insignis genus:Panterpe country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:ludovicianus genus:Lanius institutioncode:MLZ" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:male" ; Times: 1
+	Query: "Amazona stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "325847" ; Times: 1
+	Query: "myrmoborus myotherinus" ; Times: 1
+	Query: "547681" ; Times: 1
+	Query: "525501" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulgaris genus:Sturnus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:coelebs genus:Fringilla institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "330422" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "423504" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus institutioncode:MLZ" ; Times: 1
+	Query: "560348" ; Times: 1
+	Query: "Xenospiza baileyi" ; Times: 5
+	Query: "aimophila pallidissima" ; Times: 1
+	Query: "Leptodon cayanensis" ; Times: 4
+	Query: "vntype:specimen specificepithet:bendirei genus:Toxostoma institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:rufescens genus:Egretta" ; Times: 1
+	Query: "190207" ; Times: 1
+	Query: "vntype:specimen specificepithet:schach genus:Lanius institutioncode:MLZ" ; Times: 1
+	Query: "Yemen" ; Times: 1
+	Query: "vntype:specimen specificepithet:serripennis genus:Stelgidopteryx institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:migratorius genus:Turdus institutioncode:MLZ" ; Times: 1
+	Query: "aves de chihuahua mexico" ; Times: 9
+	Query: "37232" ; Times: 2
+	Query: "vntype:specimen specificepithet:savana genus:Tyrannus institutioncode:MLZ" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "albigularis" ; Times: 1
+	Query: "Troglodytes solstitialis" ; Times: 1
+	Query: "vntype:specimen specificepithet:difficilis genus:Empidonax institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:sulphuratus genus:Pitangus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Aphelocoma institutioncode:MLZ" ; Times: 1
+	Query: "388059" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo sex:female" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "vntype:specimen specificepithet:verticalis genus:Tyrannus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:regulus genus:Machaeropterus institutioncode:MLZ" ; Times: 1
+	Query: "12549" ; Times: 1
+	Query: "specificepithet:MACULATUS family:rallidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "piaya cayana" ; Times: 1
+	Query: "44752" ; Times: 2
+	Query: "vntype:specimen specificepithet:petechia genus:Setophaga institutioncode:MLZ" ; Times: 1
+	Query: "24183" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "Charadrius nivosus" ; Times: 3
+	Query: "vntype:specimen specificepithet:incei genus:Terpsiphone institutioncode:MLZ" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "vntype:specimen specificepithet:chlorurus genus:Pipilo institutioncode:MLZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:gramineus genus:Pooecetes institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:flammea genus:Acanthis institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:iliacus genus:Turdus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:saya genus:Sayornis institutioncode:MLZ" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "specificepithet:MACULATUS genus:PARDIRALLUS country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 1
+	Query: "vntype:specimen specificepithet:melancholicus genus:Tyrannus institutioncode:MLZ" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "trogon collaris" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "vntype:specimen specificepithet:lincolnii genus:Melospiza institutioncode:MLZ" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordnumber:26196" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 6
+	Query: "vntype:specimen specificepithet:jacarina genus:Volatinia institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:tristis genus:Spinus institutioncode:MLZ" ; Times: 1
+	Query: "genus:Strix country:&#34;Mexico&#34;" ; Times: 2
+	Query: "43990" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttatus genus:Catharus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:townsendi genus:Setophaga institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:palustris genus:Cistothorus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:punctatus genus:Pardalotus institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:alpinus" ; Times: 1
+	Query: "15583" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucophrys genus:Zonotrichia institutioncode:MLZ" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "159578" ; Times: 1
+	Query: "316456" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:adult sex:male" ; Times: 1
+	Query: "246653" ; Times: 2
+	Query: "vntype:specimen specificepithet:gilvus genus:Mimus institutioncode:MLZ" ; Times: 1
+	Query: "246651" ; Times: 1
+	Query: "246656" ; Times: 1
+	Query: "246655" ; Times: 1
+	Query: "223154" ; Times: 1
+	Query: "Anas diazi lifestage:adult sex:male" ; Times: 1
+	Query: "786938" ; Times: 1
+	Query: "vntype:specimen specificepithet:thalassina genus:Tachycineta institutioncode:MLZ" ; Times: 1
+	Query: "38185" ; Times: 1
+	Query: "vntype:specimen specificepithet:riparia genus:Riparia institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyanocephalus genus:Euphagus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:chloris genus:Chloris institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:male" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1960 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:rixosa genus:Machetornis institutioncode:MLZ" ; Times: 2
+	Query: "specificepithet:melanurus genus:ramphocaenus hasmass:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:mexicanus genus:Haemorhous institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:adult sex:female" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "vntype:specimen specificepithet:doliatus genus:Thamnophilus institutioncode:MLZ" ; Times: 1
+	Query: "554484" ; Times: 1
+	Query: "vntype:specimen specificepithet:macrocercus genus:Dicrurus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:fulva genus:Petrochelidon institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:acuta genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "Andigena nigrirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanocephalus genus:Pheucticus institutioncode:MLZ" ; Times: 1
+	Query: "544109" ; Times: 2
+	Query: "vntype:specimen specificepithet:neglecta genus:Sturnella institutioncode:MLZ" ; Times: 1
+	Query: "monachus monachus" ; Times: 2
+	Query: "159562" ; Times: 1
+	Query: "Rhynchopsitta" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:adult sex:male" ; Times: 1
+	Query: "Manacus manacus" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis sex:male" ; Times: 1
+	Query: "specificepithet:cyanoptera stateprovince:&#34;Aguascalientes&#34;" ; Times: 2
+	Query: "296769" ; Times: 1
+	Query: "vntype:specimen specificepithet:pica genus:Pica institutioncode:MLZ" ; Times: 1
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "vntype:specimen specificepithet:nigripes genus:Diomedea" ; Times: 1
+	Query: "vntype:specimen specificepithet:gilvus genus:Vireo institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:autumnalis genus:Dendrocygna lifestage:adult sex:male" ; Times: 1
+	Query: "coccyzus americanus Ecuador" ; Times: 1
+	Query: "544798" ; Times: 1
+	Query: "139179" ; Times: 1
+	Query: "16883" ; Times: 1
+	Query: "cardellina canadensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus sex:female" ; Times: 1
+	Query: "Anas diazi lifestage:adult sex:female" ; Times: 2
+	Query: "vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:MLZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:hyemalis genus:Junco institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:pusilla genus:Cardellina institutioncode:MLZ" ; Times: 1
+	Query: "peru class:aves stateprovince:&#34;cajamarca&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:analis genus:Catamenia institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:lobatus genus:Phalaropus lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 2
+	Query: "10041" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana sex:male" ; Times: 1
+	Query: "Skin-50689" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:adult sex:female" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:diazi genus:Anas sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:Sayornis institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:immature sex:female" ; Times: 1
+	Query: "stateprovince:&#34;Misiones&#34; country:&#34;Argentina&#34;" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Euphonia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "&#34;Anas diazi&#34; lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:psaltria genus:Spinus institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana sex:female" ; Times: 1
+	Query: "67565" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:immature sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:phoeniceus genus:Agelaius institutioncode:MLZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:juvenile sex:male" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "254764" ; Times: 1
+	Query: "vntype:specimen specificepithet:amaurochalinus genus:Turdus institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:spinosa genus:Jacana lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:crecca genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "102704" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:Contopus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:galbula genus:Icterus institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:macularius genus:Actitis sex:female" ; Times: 1
+	Query: "Amazilia cyanocephala" ; Times: 1
+	Query: "vntype:specimen specificepithet:alpestris genus:Eremophila institutioncode:MLZ" ; Times: 1
+	Query: "pygiptila stellaris" ; Times: 1
+	Query: "38592" ; Times: 1
+	Query: "vntype:specimen specificepithet:cinerascens genus:Myiarchus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:aedon genus:Troglodytes institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:adult sex:female" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "482774" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus sex:male" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "vntype:specimen specificepithet:nitens genus:Phainopepla institutioncode:MLZ" ; Times: 1
+	Query: "(manacus manacus )" ; Times: 2
+	Query: "vntype:specimen specificepithet:corax genus:Corvus institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:longicauda genus:Bartramia" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "vntype:specimen specificepithet:philomelos genus:Turdus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:goiavier genus:Pycnonotus institutioncode:MLZ" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:adult sex:male" ; Times: 1
+	Query: "36803" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:trichas genus:Geothlypis institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Helmitheros vermivorum" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "vntype:specimen specificepithet:tyrannulus genus:Myiarchus institutioncode:MLZ" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "vntype:specimen specificepithet:ater genus:Molothrus institutioncode:MLZ" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "monachus" ; Times: 2
+	Query: "Charadrius alexandrinus" ; Times: 1
+	Query: "specificepithet:diazi stateprovince:&#34;Aguascalientes&#34;" ; Times: 2
+	Query: "51803" ; Times: 1
+	Query: "vntype:specimen specificepithet:aeneus genus:Molothrus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:atricapilla genus:Zonotrichia institutioncode:MLZ" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "Phylloscopidae" ; Times: 1
+	Query: "vntype:specimen specificepithet:diazi genus:Anas lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:cardinalis genus:Cardinalis institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:minimus genus:Psaltriparus institutioncode:MLZ" ; Times: 1
+	Query: "18482" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 2
+	Query: "57822" ; Times: 1
+	Query: "vntype:specimen specificepithet:montifringilla genus:Fringilla institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:polyglottos genus:Mimus institutioncode:MLZ" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:calendula genus:Regulus institutioncode:MLZ" ; Times: 1
+	Query: "geothlypis poliocephala" ; Times: 1
+	Query: "Amazona ochrocephala stateprovince:&#34;tamaulipas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Veraguas&#34; country:&#34;Panama&#34;" ; Times: 2
+	Query: "vntype:specimen specificepithet:ludoviciana genus:Piranga institutioncode:MLZ" ; Times: 1
+	Query: "15579" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 2
+	Query: "specificepithet:macularius genus:Actitis lifestage:adult sex:male" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "27615" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "vntype:specimen specificepithet:garrulus genus:Bombycilla institutioncode:MLZ" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "(19565)" ; Times: 1
+	Query: "vntype:specimen specificepithet:clypeata genus:Anas sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:domesticus genus:Passer institutioncode:MLZ" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 4
+	Query: "Platyrinchus mystaceus" ; Times: 1
+	Query: "peru class:aves stateprovince:&#34;arequipa&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:sinuatus genus:Cardinalis institutioncode:MLZ" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "vntype:specimen specificepithet:plumbea genus:Polioptila institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:bonariensis genus:Molothrus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:tricolor genus:Phalaropus sex:male" ; Times: 1
+	Query: "65127" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:adult sex:male" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor genus:Baeolophus institutioncode:MLZ" ; Times: 1
+	Query: "&#34;Anas diazi&#34; sex:male" ; Times: 1
+	Query: "geotrygon saphirina" ; Times: 3
+	Query: "specificepithet:albonotatus genus:Buteo country:&#34;Mexico&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata genus:Setophaga institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:oberholseri genus:Empidonax institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:bilineata genus:Amphispiza institutioncode:MLZ" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "vntype:specimen specificepithet:grammacus genus:Chondestes institutioncode:MLZ" ; Times: 2
+	Query: "specificepithet:fulicarius genus:Phalaropus lifestage:adult sex:male" ; Times: 2
+	Query: "Myrmornis torquata" ; Times: 3
+	Query: "vntype:specimen specificepithet:cedrorum genus:Bombycilla institutioncode:MLZ" ; Times: 1
+	Query: "specificepithet:cayana genus:piaya stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Amazona oratrix tamaulipas" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo lifestage:adult sex:female" ; Times: 1
+	Query: "Chiroxiphia" ; Times: 1
+	Query: "239074" ; Times: 1
+	Query: "12552" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:immature sex:female" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;Tamaulipas&#34;" ; Times: 2
+	Query: "specificepithet:macularius genus:Actitis lifestage:immature sex:female" ; Times: 1
+	Query: "dacnis cayana" ; Times: 3
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:strepera stateprovince:&#34;Aguascalientes&#34;" ; Times: 2
+	Query: "ramphocaenus melanurus" ; Times: 1
+	Query: "specificepithet:aurifrons genus:melanerpes stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:diazi genus:Anas lifestage:adult sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:brunneicapillus genus:Campylorhynchus lifestage:immature sex:female" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo lifestage:juvenile sex:female" ; Times: 1
+	Query: "cardellina rubra" ; Times: 4
+	Query: "39437 bird" ; Times: 1
+	Query: "class:aves catalognumber:7319" ; Times: 1
+	Query: "vntype:specimen specificepithet:melanocorys genus:Calamospiza institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:flaviceps genus:Auriparus lifestage:juvenile sex:female" ; Times: 1
+	Query: "vntype:specimen specificepithet:viscivorus genus:Turdus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:cucullatus genus:Icterus institutioncode:MLZ" ; Times: 1
+	Query: "153564" ; Times: 1
+	Query: "class:Aves country:&#34;Angola&#34; continent:Africa" ; Times: 1
+	Query: "vntype:specimen specificepithet:bewickii genus:Thryomanes institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:melodia genus:Melospiza institutioncode:MLZ" ; Times: 1
+	Query: "30246" ; Times: 1
+	Query: "saphirina" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 1106 download events in this period)
+Total number of records downloaded: 6131
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 1
+	Country: United States ; Times: 17
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-25 ; Times: 2
+	Date: 2020-05-24 ; Times: 2
+	Date: 2020-05-27 ; Times: 1
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-01 ; Times: 3
+	Date: 2020-05-31 ; Times: 4
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-22 ; Times: 4
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-07 ; Times: 4
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 1
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 4
+	Date: 2020-05-13 ; Times: 1
+	Date: 2020-05-14 ; Times: 1
+	Date: 2020-05-15 ; Times: 3
+	Date: 2020-05-16 ; Times: 2
+	Date: 2020-05-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vntype:specimen family:Scolopacidae year &gt;= 1980 year &lt;= 2019 month &gt;= 1 month &lt;= 12 hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Platyrinchus mystaceus mystaceus" ; Times: 1
+	Query: "manacus manacus" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "Geotrygon montana montana" ; Times: 1
+	Query: "Geotrygon saphirina" ; Times: 1
+	Query: "petechia" ; Times: 1
+	Query: "vntype:specimen specificepithet:fasciatus genus:Philortyx" ; Times: 1
+	Query: "vultur gryphus" ; Times: 4
+	Query: "specificepithet:hirundinacea genus:Euphonia stateprovince:&#34;Veracruz&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "ergaticus ruber" ; Times: 1
+	Query: "class:AVES stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Aves country:&#34;Angola&#34; continent:Africa" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Brazil&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Agamia agami" ; Times: 1
+	Query: "Amazona oratrix stateprovince:&#34;tamaulipas&#34;" ; Times: 2
+	Query: "Accipiter hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Myrmornis torquata" ; Times: 2
+	Query: "Xenospiza baileyi" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "Mecocerculus leucophrys" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "Troglodytes solstitialis" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 1
+	Query: "genus:Thryomanes class:Aves hastissue:1" ; Times: 1
+	Query: "continent:Europe" ; Times: 1
+	Query: "specificepithet:collaris genus:Trogon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Erythrura class:aves" ; Times: 1
+
+
+End of report.
