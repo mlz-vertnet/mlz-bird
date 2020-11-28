@@ -1,0 +1,314 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 204
+Number of records retrieved in searches: 4371
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 35
+	Country: Canada ; Times: 4
+	Country: Netherlands ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Ireland ; Times: 7
+	Country: Mexico ; Times: 27
+	Country: Denmark ; Times: 1
+	Country: India ; Times: 2
+	Country: Peru ; Times: 3
+	Country: France ; Times: 5
+	Country: United States ; Times: 64
+	Country: Australia ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 25
+	Country: Unknown ; Times: 16
+	Country: Argentina ; Times: 2
+	Country: Hong Kong ; Times: 2
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 12
+	Date: 2020-09-03 ; Times: 8
+	Date: 2020-09-02 ; Times: 28
+	Date: 2020-09-01 ; Times: 6
+	Date: 2020-09-07 ; Times: 9
+	Date: 2020-09-06 ; Times: 4
+	Date: 2020-09-05 ; Times: 2
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-21 ; Times: 4
+	Date: 2020-09-20 ; Times: 4
+	Date: 2020-09-23 ; Times: 5
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 27
+	Date: 2020-09-24 ; Times: 5
+	Date: 2020-09-27 ; Times: 2
+	Date: 2020-09-26 ; Times: 7
+	Date: 2020-09-29 ; Times: 6
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-16 ; Times: 4
+	Date: 2020-09-14 ; Times: 4
+	Date: 2020-09-15 ; Times: 5
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 4
+	Date: 2020-09-10 ; Times: 24
+	Date: 2020-09-11 ; Times: 8
+	Date: 2020-09-12 ; Times: 4
+	Date: 2020-09-13 ; Times: 4
+	Date: 2020-09-18 ; Times: 10
+	Date: 2020-09-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 1
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "locality:tortuga" ; Times: 1
+	Query: "Coccyzus minor" ; Times: 2
+	Query: "32708" ; Times: 3
+	Query: "lampropsar" ; Times: 1
+	Query: "tinamus major" ; Times: 1
+	Query: "Egretta thula" ; Times: 5
+	Query: "Phaethornis augusti" ; Times: 1
+	Query: "Spizaetus ornatus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Mearns" ; Times: 1
+	Query: "Buteogallus" ; Times: 3
+	Query: "Lophornis adorabilis" ; Times: 1
+	Query: "Amazilia cyanifrons" ; Times: 1
+	Query: "genus:Diglossa" ; Times: 2
+	Query: "10815" ; Times: 3
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Brachyramphus) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 4
+	Query: "Heliodoxa xanthogonys" ; Times: 1
+	Query: "Leptotila verreauxi" ; Times: 1
+	Query: "buteogallus" ; Times: 2
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "catalognumber: 56328" ; Times: 1
+	Query: "rhynchocyclus" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 3
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "specificepithet:notata genus:Chlorestes" ; Times: 1
+	Query: "10815 aves" ; Times: 1
+	Query: "stateprovince:Loja " ; Times: 1
+	Query: "31504" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "Pyrilia vulturina" ; Times: 1
+	Query: "genus:Cyanocitta class:Aves stateprovince:&#34;Kansas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lophornis pavoninus" ; Times: 1
+	Query: "vntype:specimen order:Galliformes continent:Africa" ; Times: 1
+	Query: "16892" ; Times: 1
+	Query: "hypnelus ruficollis Colombia" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "10122" ; Times: 1
+	Query: "catalognumber:36628" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "class:aves locality:indio" ; Times: 1
+	Query: "locality:juchitan country:&#34;MEXICO&#34;" ; Times: 1
+	Query: "Sphyrapicus thyroideus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Doherty" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 2
+	Query: "Pavo cristatus" ; Times: 1
+	Query: "37130" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "euphonia affinis" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "Tabasco" ; Times: 2
+	Query: "tinamidae" ; Times: 1
+	Query: "Topaza pyra" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "7909" ; Times: 1
+	Query: "16952" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Lophornis ornata" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 3
+	Query: "cardellina pusilla mexico" ; Times: 1
+	Query: "tabasco" ; Times: 3
+	Query: "Molothrus bonariensis" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Loring" ; Times: 1
+	Query: "Colibri" ; Times: 1
+	Query: "Heliangelus mavors" ; Times: 1
+	Query: "specificepithet:californica genus:Polioptila county:&#34;los angeles&#34;" ; Times: 1
+	Query: "contopus pertinax chiapas" ; Times: 2
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "65175" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "specificepithet:thalassina genus:Tachycineta month &gt;= 8 month &lt;= 9 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "11923" ; Times: 1
+	Query: "16649" ; Times: 1
+	Query: "genus:Batis" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "genus:Limnothlypis" ; Times: 2
+	Query: "pitangus sulphuratus" ; Times: 1
+	Query: "setophaga nigrescens" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Brachyramphus OR Synthliboramphus OR Endomychura) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "family:Alcidae AND (NOT Ptychoramphus) distance(location,geopoint(29.33629910882039,-118.19512942805886))&lt;100000" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus NOT Los Coronados)" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "Threnetes leucurus" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus)" ; Times: 3
+	Query: "genus:Melanerpes year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "specificepithet:coronata genus:Setophaga year &gt;= 1701 year &lt;= 1901" ; Times: 1
+	Query: "amazona oratrix" ; Times: 1
+	Query: "Pachycephala philippinensis" ; Times: 1
+	Query: "Panyptila veraecrucis" ; Times: 1
+	Query: "specificepithet:graciae genus:Setophaga" ; Times: 4
+	Query: "genus:Steatornis" ; Times: 1
+	Query: "elaenia albiceps" ; Times: 2
+	Query: "tyrannus savana" ; Times: 1
+	Query: "specificepithet:californica genus:Polioptila county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:MLZ" ; Times: 1
+	Query: "sinaloae" ; Times: 1
+	Query: "ramphastos tucanus" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "specificepithet:virginianus genus:bubo country:&#34;mexico&#34;" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 1
+	Query: "catalognumber:65072 institutioncode:MLZ" ; Times: 2
+	Query: "50030" ; Times: 1
+	Query: "Diglossa sittoides" ; Times: 2
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Melanerpes" ; Times: 1
+	Query: "Charadrius alexandrinus" ; Times: 1
+	Query: "genus:sittasomus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Thalassinus Colibri" ; Times: 1
+	Query: "morelos" ; Times: 2
+	Query: "genus:Passerculus stateprovince:&#34;Sonora&#34;" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "38572 aves" ; Times: 2
+	Query: "genus:Picoides" ; Times: 3
+	Query: "Topaza pella" ; Times: 1
+	Query: "Trogón mexicanus" ; Times: 3
+	Query: "family:Alcidae country:&#34;Mexico&#34; AND (NOT Ptychoramphus AND NOT Los Coronados)" ; Times: 1
+	Query: "scientificname:Thalassinus bird" ; Times: 1
+	Query: "Onychorhynchus" ; Times: 1
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Synthliboramphus OR Endomychura) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "Phaethornis atrimentalis" ; Times: 1
+	Query: "Lophornis pavonina" ; Times: 1
+	Query: "tuxpan veracruz" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;México&#34;" ; Times: 2
+	Query: "scientificname:Vultur gryphus" ; Times: 9
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "15075" ; Times: 1
+	Query: "recordnumber:7251" ; Times: 2
+	Query: "38572" ; Times: 1
+	Query: "EMPIDONAX WRIGHTII" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "scientificname:Thalassinus colibri" ; Times: 8
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "camargo" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 68 (out of 976 download events in this period)
+Total number of records downloaded: 6303
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Netherlands ; Times: 5
+	Country: Mexico ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 23
+	Country: Unknown ; Times: 10
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 1
+	Date: 2020-09-08 ; Times: 1
+	Date: 2020-09-03 ; Times: 3
+	Date: 2020-09-02 ; Times: 23
+	Date: 2020-09-04 ; Times: 6
+	Date: 2020-09-23 ; Times: 1
+	Date: 2020-09-22 ; Times: 1
+	Date: 2020-09-25 ; Times: 1
+	Date: 2020-09-24 ; Times: 2
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-29 ; Times: 1
+	Date: 2020-09-28 ; Times: 5
+	Date: 2020-09-16 ; Times: 1
+	Date: 2020-09-14 ; Times: 1
+	Date: 2020-09-15 ; Times: 1
+	Date: 2020-09-30 ; Times: 1
+	Date: 2020-09-17 ; Times: 3
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 3
+	Date: 2020-09-12 ; Times: 1
+	Date: 2020-09-13 ; Times: 5
+	Date: 2020-09-18 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus*" ; Times: 1
+	Query: "vntype:specimen family:Numididae" ; Times: 1
+	Query: "Pyrilia vulturina" ; Times: 1
+	Query: "Phaethornis superciliosus" ; Times: 1
+	Query: "Lophornis pavoninus" ; Times: 1
+	Query: "Lophornis ornata" ; Times: 1
+	Query: "vntype:specimen order:Galliformes continent:Africa" ; Times: 1
+	Query: "genus:Melanerpes year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "Phaethornis atrimentalis" ; Times: 1
+	Query: "(Synthliboramphus)" ; Times: 1
+	Query: "hirundo rustica" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Phaethornis augusti" ; Times: 1
+	Query: "specificepithet:thalassina genus:Tachycineta month &gt;= 8 month &lt;= 9 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Bucephala" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 2
+	Query: "sturnus vulgaris" ; Times: 1
+	Query: "Florisuga mellivora" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Mearns" ; Times: 1
+	Query: "Lophornis ornatus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Loring" ; Times: 1
+	Query: "genus:Eremophila" ; Times: 1
+	Query: "Colibri delphinae" ; Times: 1
+	Query: "Threnetes leucurus" ; Times: 1
+	Query: "family:Alcidae locality:Guadalupe AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "vntype:specimen genus:Lagopus stateprovince:&#34;Newfoundland&#34; hassex:1" ; Times: 1
+	Query: "Phaethornis bourcieri" ; Times: 2
+	Query: "(Brachyramphus)" ; Times: 1
+	Query: "Lophornis pavonina" ; Times: 1
+	Query: "order:Galliformes hastissue:1" ; Times: 1
+	Query: "genus:Passerina" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "specificepithet:coronata genus:Setophaga year &gt;= 1701 year &lt;= 1901" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Brachyramphus) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "specificepithet:amoena genus:Passerina month &gt;= 5 month &lt;= 8" ; Times: 1
+	Query: "Sialia" ; Times: 1
+	Query: "Heliodoxa xanthogonys" ; Times: 1
+	Query: "Catharus" ; Times: 1
+	Query: "Tabasco" ; Times: 1
+	Query: "family:Alcidae country:&#34;Mexico&#34; (Synthliboramphus OR Endomychura) AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "vntype:specimen stateprovince:&#34;Newfoundland&#34; (lagopus) AND (NOT buteo NOT Alopex NOT Vulpes)" ; Times: 3
+	Query: "Phaethornis hispidus" ; Times: 1
+	Query: "Topaza pyra" ; Times: 1
+	Query: "genus:Picoides specificepithet:arcticus" ; Times: 1
+	Query: "oreotrochilus chimborazo" ; Times: 1
+	Query: "Doryfera johannae" ; Times: 1
+	Query: "specificepithet:arcticus genus:Picoides" ; Times: 1
+	Query: "lampropsar" ; Times: 1
+	Query: "order:Galliformes" ; Times: 1
+	Query: "genus:Picoides specificepithet:.*" ; Times: 4
+	Query: "Collocalia troglodytes" ; Times: 1
+	Query: "sitta pygmaea OR sitta pusilla" ; Times: 1
+	Query: "specificepithet:californica genus:Polioptila county:&#34;los angeles&#34;" ; Times: 1
+	Query: "Phaethornis griseogularis" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Haematopus palliatus OR Haematopus bachmani" ; Times: 1
+	Query: "genus:Hylophilus" ; Times: 1
+	Query: "Topaza pella" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Doherty" ; Times: 1
+	Query: "Passer domesticus" ; Times: 1
+
+
+End of report.
