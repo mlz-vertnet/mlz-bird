@@ -1,0 +1,296 @@
+Report for Institution Code MLZ, Resource mlz_bird
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 245
+Number of records retrieved in searches: 3822
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Honduras ; Times: 2
+	Country: Ireland ; Times: 14
+	Country: Colombia ; Times: 13
+	Country: Mexico ; Times: 57
+	Country: Unknown ; Times: 15
+	Country: Philippines ; Times: 13
+	Country: Thailand ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 65
+	Country: Malaysia ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Peru ; Times: 11
+	Country: Denmark ; Times: 4
+	Country: Japan ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Venezuela ; Times: 15
+	Country: New Zealand ; Times: 1
+	Country: Ecuador ; Times: 16
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 4
+	Date: 2020-07-08 ; Times: 5
+	Date: 2020-07-21 ; Times: 36
+	Date: 2020-07-20 ; Times: 13
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-26 ; Times: 5
+	Date: 2020-07-25 ; Times: 3
+	Date: 2020-07-22 ; Times: 10
+	Date: 2020-07-01 ; Times: 7
+	Date: 2020-07-03 ; Times: 2
+	Date: 2020-07-02 ; Times: 7
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-04 ; Times: 4
+	Date: 2020-07-07 ; Times: 11
+	Date: 2020-07-06 ; Times: 7
+	Date: 2020-07-24 ; Times: 12
+	Date: 2020-07-23 ; Times: 8
+	Date: 2020-07-29 ; Times: 8
+	Date: 2020-07-18 ; Times: 4
+	Date: 2020-07-28 ; Times: 16
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 4
+	Date: 2020-07-10 ; Times: 7
+	Date: 2020-07-11 ; Times: 6
+	Date: 2020-07-16 ; Times: 34
+	Date: 2020-07-31 ; Times: 11
+	Date: 2020-07-14 ; Times: 11
+	Date: 2020-07-17 ; Times: 3
+	Date: 2020-07-15 ; Times: 3
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 5
+	Query: "58955" ; Times: 1
+	Query: "Ensifera ensifera" ; Times: 1
+	Query: "11825" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "santa barbara honduras" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 14
+	Query: "42543" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "accipiter gentilis" ; Times: 3
+	Query: "West Indies Dominica I." ; Times: 1
+	Query: "10347" ; Times: 1
+	Query: "Rabor specimens" ; Times: 2
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "Amazilia candida" ; Times: 3
+	Query: "genus:machetornis" ; Times: 2
+	Query: "32839" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "Androdon" ; Times: 1
+	Query: "Lanio leucothorax" ; Times: 2
+	Query: "Jalapa" ; Times: 1
+	Query: "12348 aves" ; Times: 2
+	Query: "Coeligena iris" ; Times: 1
+	Query: "thraupis episcopus" ; Times: 3
+	Query: "buteogallus" ; Times: 1
+	Query: "Costa Rica Pozo Azul" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "Chlorophonia occipitalis" ; Times: 1
+	Query: "19863" ; Times: 1
+	Query: "Panama Bogava" ; Times: 1
+	Query: "15110" ; Times: 1
+	Query: "Irazú" ; Times: 1
+	Query: "RABOR USNM" ; Times: 2
+	Query: "Amazona viridigenalis" ; Times: 1
+	Query: "Morococcyx erythropygus" ; Times: 2
+	Query: "23686" ; Times: 2
+	Query: "ceratopipra mentalis" ; Times: 1
+	Query: "sporophila minuta" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "Paramaribo" ; Times: 1
+	Query: "megaceryle torquata" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "Glaucidium minutissimum" ; Times: 1
+	Query: "stateprovince:&#34;Queretaro&#34;" ; Times: 1
+	Query: "Colibri thalassinus and MLZ" ; Times: 1
+	Query: "Ecuador Oyacachi Abajo chaco" ; Times: 1
+	Query: "Amazona ochrocephala vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rabor MLZ" ; Times: 3
+	Query: "Corvus corax" ; Times: 2
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "MAR 8559 aves" ; Times: 1
+	Query: "20502" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 2
+	Query: "13364" ; Times: 1
+	Query: "28482" ; Times: 1
+	Query: "27204 aves" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "merida venezuela" ; Times: 1
+	Query: "psittacara holochlorus" ; Times: 1
+	Query: "5867 aves" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "Ecuador Papallacta" ; Times: 1
+	Query: "calocitta formosa" ; Times: 1
+	Query: "275562" ; Times: 1
+	Query: "specificepithet:holosericeus genus:Amblycercus" ; Times: 2
+	Query: "MAR 8559" ; Times: 1
+	Query: "misiones argentina" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "OR.5252" ; Times: 2
+	Query: "Androdon vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Boquete chiriqui" ; Times: 1
+	Query: "Santa Barbara san josé" ; Times: 1
+	Query: "bombus" ; Times: 2
+	Query: "Chroicocephalus philadelphia" ; Times: 3
+	Query: "M-16350" ; Times: 2
+	Query: "11614" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "vntype:specimen specificepithet:holosericeus genus:Amblycercus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "Rabor Philippine National Museum" ; Times: 2
+	Query: "Incachaca" ; Times: 3
+	Query: "San Domingo San Domingo" ; Times: 1
+	Query: "matagalpa nicaragua" ; Times: 1
+	Query: "la libertad" ; Times: 1
+	Query: "vntype:specimen specificepithet:cela genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "mappable:1 year&gt;=1990 year&lt;=2019 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "10650" ; Times: 1
+	Query: "nothoprocta curvirostris" ; Times: 1
+	Query: "royal-ontario-museum" ; Times: 1
+	Query: "california (eggs or nest )" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "specificepithet:virginianus genus:Colinus institutioncode:MLZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucothorax genus:Lanio" ; Times: 1
+	Query: "47000" ; Times: 2
+	Query: "Matagalpa" ; Times: 2
+	Query: "5867 aves ecuador" ; Times: 1
+	Query: "rio azul costa rica" ; Times: 1
+	Query: "specificepithet:mexicanus genus:Falco county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "vntype:specimen genus:Haematopus hastissue:1" ; Times: 1
+	Query: "ensifera ensifera aves south america" ; Times: 2
+	Query: "stateprovince:&#34;New Jersey&#34; ovary" ; Times: 1
+	Query: "pipra mentalis" ; Times: 1
+	Query: "ensifera ensifera aves" ; Times: 1
+	Query: "Piranga flava" ; Times: 1
+	Query: "19825" ; Times: 1
+	Query: "245977" ; Times: 1
+	Query: "Accipiter gentilis mexico" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "genus:cardinalis hastissue:1" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "phainoptila" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "12348" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "Peru Chanchamayo" ; Times: 1
+	Query: "rhynchopsitta" ; Times: 2
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "Accipiter gentilis" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "5867 ecuador" ; Times: 1
+	Query: "locality:Matagalpa country:&#34;Nicaragua&#34;" ; Times: 1
+	Query: "Boquete Chiriqui" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:Psarocolius" ; Times: 1
+	Query: "chroicocephalus philadelphia" ; Times: 6
+	Query: "piranga flava" ; Times: 3
+	Query: "campephilus imperialis" ; Times: 7
+	Query: "28567" ; Times: 1
+	Query: "peralta costa rica" ; Times: 1
+	Query: "16350" ; Times: 1
+	Query: "21252" ; Times: 1
+	Query: "Aphelocoma woodhouseii" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Cayenne guiana" ; Times: 1
+	Query: "ensifera ensifera" ; Times: 1
+	Query: "Indicator indicator" ; Times: 2
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;nayarit&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 2
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla basisofrecord:PreservedSpecimen hassex:1" ; Times: 2
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "37676" ; Times: 1
+	Query: "specificepithet:reinwardtii" ; Times: 1
+	Query: "megaceryle alcyon" ; Times: 3
+	Query: "46505" ; Times: 1
+	Query: "Valle Tumbaco" ; Times: 1
+	Query: "10347 aves" ; Times: 1
+	Query: "Zosterops palpebrosus" ; Times: 1
+	Query: "Amazilia lactea" ; Times: 1
+	Query: "Ocozocoautla chiapas" ; Times: 1
+	Query: "tachycineta albilinea" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "Contopus virens Ecuador" ; Times: 1
+	Query: "genus:Vultur" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "27947" ; Times: 2
+	Query: "21099" ; Times: 1
+	Query: "specificepithet:affinis genus:euphonia stateprovince:&#34;jalisco&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "7333" ; Times: 2
+	Query: "Rabor USNM" ; Times: 2
+	Query: "Campeche" ; Times: 1
+	Query: "2006 aves ecuador" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "11163" ; Times: 1
+	Query: "West Indies Barbuda" ; Times: 1
+	Query: "Rabor specimens MLZ" ; Times: 2
+	Query: "41449" ; Times: 1
+	Query: "fasciatus costa rica" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 940 download events in this period)
+Total number of records downloaded: 372
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Philippines ; Times: 2
+	Country: United States ; Times: 6
+	Country: Sweden ; Times: 1
+	Country: Peru ; Times: 6
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-22 ; Times: 1
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-19 ; Times: 1
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-24 ; Times: 1
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-10 ; Times: 1
+	Date: 2020-07-02 ; Times: 3
+	Date: 2020-07-16 ; Times: 1
+	Date: 2020-07-04 ; Times: 1
+	Date: 2020-07-21 ; Times: 1
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-31 ; Times: 2
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 3
+	Query: "psittacara holochlorus" ; Times: 1
+	Query: "Ensifera ensifera ecuador" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "RABOR USNM" ; Times: 1
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "grus canadensis" ; Times: 1
+	Query: "specificepithet:nigra order:galliformes" ; Times: 1
+	Query: "vultur" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Pennsylvania&#34; month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "Tangara guttata" ; Times: 1
+	Query: "spinus tristis" ; Times: 1
+	Query: "genus:Corvus year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Rhynchopsitta pachyrhyncha" ; Times: 1
+	Query: "Rabor specimens MLZ" ; Times: 1
+	Query: "specificepithet:virginianus genus:Colinus institutioncode:MLZ" ; Times: 1
+	Query: "Schistes geoffroyi" ; Times: 1
+	Query: "geositta cunicularia" ; Times: 1
+	Query: "Amazona ochrocephala" ; Times: 1
+	Query: "class:aves stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+
+
+End of report.
